@@ -1,0 +1,36 @@
+name: Autograding Tests
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+permissions:
+  checks: write
+  actions: read
+  contents: read
+
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Run Markdown Tests
+      id: markdown-test
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Markdown Formatting Test
+        setup-command: chmod +x test_markdown.sh
+        command: ./test_markdown.sh
+        timeout: 2
+        max-score: 100
+        
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        MARKDOWN-TEST_RESULTS: "${{steps.markdown-test.outputs.result}}"
+      with:
+        runners: markdown-test
