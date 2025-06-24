@@ -17,3 +17,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Archive and development folders
+Archive_Original_Scope/
+spare-parts/
