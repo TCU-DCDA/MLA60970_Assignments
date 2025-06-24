@@ -61,3 +61,142 @@ In addition to the design and development of the project website, you must also 
 7. Test for usability and functionality
 8. Publish your site
 9. Write your cover memo reflection
+
+## Peer Review Process
+
+### Draft Sharing Guidelines
+Before the peer review session, you'll share your in-progress website and any specific questions or concerns about your work with your assigned partner. This might include:
+- Early wireframes or design sketches
+- Partial website implementations
+- Content drafts and revision plans
+- Specific technical challenges you're facing
+- Design decisions you're uncertain about
+
+### Peer Review Letter Requirements
+For the Peer Review, please write a thoughtful letter in reply to your selected partner sharing their draft website and materials. In your letter, provide supportive, constructive, and **DETAILED** responses to the observations they've made and the specific questions they ask about their digital remediation project.
+
+Your peer review letter should address:
+- **Content and Remediation Strategy**: How effectively is their original content being adapted for web presentation? What suggestions do you have for expanding or revising their material?
+- **Technical Implementation**: What works well in their HTML/CSS approach? What technical challenges might they consider addressing?
+- **Design and Usability**: How well do their design choices support their content goals? Are there opportunities to better apply CRAP principles or improve navigation?
+- **User Experience**: As a potential visitor to their site, what questions do you have? What would enhance the user experience?
+- **Specific Questions**: Provide detailed, helpful responses to any specific questions or concerns they've shared
+
+**Without exception, please be respectful, sensitive, and supportive of your partner, their chosen topic, the original work they're remediating, and the draft materials they've submitted for review.** Remember that web development is a learning process, and your role is to help your peer grow and improve their project.
+
+### Peer Review Guidelines
+- Focus on being helpful rather than critical
+- Offer specific, actionable suggestions
+- Ask clarifying questions when appropriate
+- Acknowledge what's working well in their project
+- Consider both content and technical aspects
+- Respect the personal nature of their chosen original work
+
+## Assessment Criteria
+
+### Content Excellence
+**Exemplary:**
+- Original content is significantly expanded and revised from source material
+- Writing is clear, engaging, and well-suited for web presentation
+- Content demonstrates substantial research and development
+- Web writing follows scannability principles effectively
+
+**Proficient:**
+- Content shows meaningful revision and expansion
+- Writing is clear and appropriate for web audience
+- Some evidence of additional research and development
+- Generally follows web writing best practices
+
+**Developing:**
+- Content shows basic revision from original source
+- Writing is adequate but may not be optimized for web
+- Limited evidence of expansion or research
+- Inconsistent application of web writing principles
+
+**Beginning:**
+- Minimal revision from original source material
+- Writing not well-suited for web presentation
+- Little to no evidence of expansion or research
+- Does not follow web writing best practices
+
+### Technical Implementation
+**Exemplary:**
+- Perfect HTML5 structure with appropriate semantic elements
+- CSS styling is sophisticated and enhances content presentation
+- All links functional, no broken elements
+- Code is clean, well-organized, and properly commented
+
+**Proficient:**
+- Good HTML structure with mostly appropriate semantic usage
+- Effective CSS styling with minor issues
+- All major functionality works correctly
+- Code is generally clean and readable
+
+**Developing:**
+- Basic HTML structure with some semantic elements
+- CSS styling is functional but basic
+- Most functionality works with minor issues
+- Code is readable but may lack organization
+
+**Beginning:**
+- Poor HTML structure, limited use of semantic elements
+- CSS styling is minimal or ineffective
+- Multiple broken links or functionality issues
+- Code is poorly organized or difficult to read
+
+### Design and Usability
+**Exemplary:**
+- Excellent application of CRAP principles throughout site
+- Strong visual hierarchy and professional aesthetic
+- Navigation is intuitive and consistent across all pages
+- Site works flawlessly across different browsers and devices
+
+**Proficient:**
+- Good application of CRAP principles with minor inconsistencies
+- Clear visual hierarchy and appealing design
+- Navigation is mostly clear and consistent
+- Site works well in most browsers and devices
+
+**Developing:**
+- Basic application of CRAP principles
+- Adequate visual hierarchy and design
+- Navigation is functional but may lack consistency
+- Site works in major browsers with minor issues
+
+**Beginning:**
+- Poor application of design principles
+- Unclear visual hierarchy or unprofessional appearance
+- Navigation is confusing or inconsistent
+- Site has significant functionality issues across platforms
+
+### Critical Analysis and Reflection
+**Exemplary:**
+- Cover memo demonstrates deep understanding of design choices
+- Thorough analysis of rhetorical strategies and CRAP principles
+- Clear reflection on process, challenges, and solutions
+- Writing is clear, professional, and insightful
+
+**Proficient:**
+- Cover memo shows good understanding of design decisions
+- Adequate analysis of rhetorical and design elements
+- Some reflection on process and problem-solving
+- Writing is clear and professional
+
+**Developing:**
+- Cover memo shows basic understanding of requirements
+- Limited analysis of design and rhetorical elements
+- Minimal reflection on process
+- Writing meets basic standards
+
+**Beginning:**
+- Cover memo lacks understanding of design principles
+- Little to no analysis of rhetorical or design elements
+- No meaningful reflection on process
+- Writing is unclear or unprofessional
+
+### Learning Goals
+This assessment focuses on your growth in:
+- Integrating content strategy with technical implementation
+- Applying design principles to create effective user experiences
+- Reflecting critically on your creative and technical process
+- Developing professional web development practices

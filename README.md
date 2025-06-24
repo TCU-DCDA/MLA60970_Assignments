@@ -6,6 +6,23 @@ This repository contains lab assignments and major projects for MLA60970. The co
 
 The course follows a progressive structure where students develop web development skills through hands-on labs and apply them in comprehensive projects:
 
+### Preparatory Materials
+**Location:** `Preparatory/`
+
+Essential setup instructions and resources needed before beginning coursework.
+
+**Contents:**
+- GitHub account setup and verification
+- GitHub Classroom assignment access instructions
+- Tutorial links and learning resources
+- Professional development guidelines
+
+**Key Preparation Steps:**
+- Create and verify GitHub account with professional username
+- Learn basic GitHub navigation and repository management
+- Understand GitHub Pages publishing process
+- Access course tutorials and reference materials
+
 ### Project 1: Digital Remediation and Web Publishing
 **Location:** `Project1/`
 
@@ -64,11 +81,12 @@ Students add interactivity and dynamic functionality to websites using introduct
 - Debug JavaScript using browser developer tools
 
 ## Getting Started
-1. **Begin with Project 1** - Start with the fundamentals
-2. **Complete labs before projects** - Labs build essential skills
-3. **Read README files** - Each project and lab has detailed instructions
-4. **Use version control** - Commit your work regularly
-5. **Test thoroughly** - Ensure your websites work across browsers and devices
+1. **Start with Preparatory materials** - Complete GitHub setup before beginning projects
+2. **Begin with Project 1** - Start with the fundamentals
+3. **Complete labs before projects** - Labs build essential skills
+4. **Read README files** - Each project and lab has detailed instructions
+5. **Use version control** - Commit your work regularly
+6. **Test thoroughly** - Ensure your websites work across browsers and devices
 
 ## Submission Guidelines
 - Each lab and project has specific submission requirements
