@@ -62,35 +62,9 @@ In addition to the design and development of the project website, you must also 
 8. Publish your site
 9. Write your cover memo reflection
 
-## Peer Review Process
-
-### Draft Sharing Guidelines
-Before the peer review session, you'll share your in-progress website and any specific questions or concerns about your work with your assigned partner. This might include:
-- Early wireframes or design sketches
-- Partial website implementations
-- Content drafts and revision plans
-- Specific technical challenges you're facing
-- Design decisions you're uncertain about
-
-### Peer Review Letter Requirements
-For the Peer Review, please write a thoughtful letter in reply to your selected partner sharing their draft website and materials. In your letter, provide supportive, constructive, and **DETAILED** responses to the observations they've made and the specific questions they ask about their digital remediation project.
-
-Your peer review letter should address:
-- **Content and Remediation Strategy**: How effectively is their original content being adapted for web presentation? What suggestions do you have for expanding or revising their material?
-- **Technical Implementation**: What works well in their HTML/CSS approach? What technical challenges might they consider addressing?
-- **Design and Usability**: How well do their design choices support their content goals? Are there opportunities to better apply CRAP principles or improve navigation?
-- **User Experience**: As a potential visitor to their site, what questions do you have? What would enhance the user experience?
-- **Specific Questions**: Provide detailed, helpful responses to any specific questions or concerns they've shared
-
-**Without exception, please be respectful, sensitive, and supportive of your partner, their chosen topic, the original work they're remediating, and the draft materials they've submitted for review.** Remember that web development is a learning process, and your role is to help your peer grow and improve their project.
-
-### Peer Review Guidelines
-- Focus on being helpful rather than critical
-- Offer specific, actionable suggestions
-- Ask clarifying questions when appropriate
-- Acknowledge what's working well in their project
-- Consider both content and technical aspects
-- Respect the personal nature of their chosen original work
+## Rough Draft and Peer Review
+- Rough draft submission guidelines can be found in the [Peer Review folder](../Peer%20Review/rough-draft-instructions.md)
+- Detailed peer review instructions and guidelines can be found in the [Peer Review folder](../Peer%20Review/peer-review-instructions.md)
 
 ## Assessment Criteria
 
