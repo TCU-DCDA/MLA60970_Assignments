@@ -1,0 +1,113 @@
+name: GitHub Classroom Workflow
+
+on: 
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  checks: write
+  actions: read
+  contents: read
+
+jobs:
+  build:
+    name: Basic Project Validation
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Validate Repository Structure
+      run: |
+        echo "🔍 Checking repository structure..."
+        
+        # Check for required directories
+        if [ -d "Project" ]; then
+          echo "✅ Project directory found"
+        else
+          echo "❌ Project directory missing"
+          exit 1
+        fi
+        
+        if [ -d "Preparatory" ]; then
+          echo "✅ Preparatory directory found"
+        else
+          echo "❌ Preparatory directory missing"
+          exit 1
+        fi
+        
+        # Check for key files
+        if [ -f "README.md" ]; then
+          echo "✅ Root README.md found"
+        else
+          echo "❌ Root README.md missing"
+          exit 1
+        fi
+        
+        echo "🎉 Repository structure is valid!"
+        
+    - name: Check for HTML Files (if any)
+      run: |
+        echo "🔍 Checking for HTML files..."
+        html_files=$(find . -name "*.html" -not -path "./.git/*" -not -path "./Archive_Original_Scope/*" | wc -l)
+        
+        if [ $html_files -gt 0 ]; then
+          echo "📄 Found $html_files HTML file(s)"
+          echo "🔧 Validating HTML syntax..."
+          
+          for file in $(find . -name "*.html" -not -path "./.git/*" -not -path "./Archive_Original_Scope/*"); do
+            echo "Checking $file..."
+            # Basic HTML validation - check for opening and closing tags
+            if grep -q "<!DOCTYPE html>" "$file" && grep -q "</html>" "$file"; then
+              echo "✅ $file has basic HTML structure"
+            else
+              echo "⚠️ $file may be missing DOCTYPE or closing html tag"
+            fi
+          done
+        else
+          echo "📝 No HTML files found yet - this is expected early in the course"
+        fi
+        
+    - name: Check for CSS Files (if any)
+      run: |
+        echo "🔍 Checking for CSS files..."
+        css_files=$(find . -name "*.css" -not -path "./.git/*" -not -path "./Archive_Original_Scope/*" | wc -l)
+        
+        if [ $css_files -gt 0 ]; then
+          echo "🎨 Found $css_files CSS file(s)"
+          echo "✅ CSS files detected - great progress!"
+        else
+          echo "📝 No CSS files found yet - this is expected early in the course"
+        fi
+        
+    - name: Check GitHub Pages Readiness
+      run: |
+        echo "🔍 Checking GitHub Pages readiness..."
+        
+        # Look for index.html in common locations
+        if [ -f "index.html" ]; then
+          echo "✅ Root index.html found - ready for GitHub Pages!"
+        elif [ -f "Project/index.html" ]; then
+          echo "✅ Project/index.html found"
+        else
+          echo "📝 No index.html found yet - add one when ready to publish"
+        fi
+        
+    - name: Educational Feedback
+      run: |
+        echo "📚 COURSE PROGRESS CHECK:"
+        echo ""
+        echo "This automated check validates your repository structure"
+        echo "and provides feedback on your progress through MLA60970."
+        echo ""
+        echo "Remember:"
+        echo "• This course emphasizes design thinking and accessibility"
+        echo "• Focus on user experience and scholarly communication goals"
+        echo "• Quality over quantity - thoughtful design matters more than complex code"
+        echo "• Your work serves both academic rigor and public accessibility"
+        echo ""
+        echo "🎯 Keep building your academic web presence!"
+        echo ""
+        echo "For help: Review course materials, ask in discussions, or visit office hours"

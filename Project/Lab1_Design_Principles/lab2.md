@@ -1,0 +1,108 @@
+# Lab 1: Design Principles and Web Writing for Academic Content
+
+## Assignment Overview
+This foundational lab introduces essential concepts for making academic content accessible and engaging in digital environments. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform scholarly work for web audiences.
+
+## Learning Objectives
+By completing this lab, students will:
+- Understand CRAP design principles and their application to scholarly communication
+- Analyze web reading patterns (F-pattern, layer cake) and their implications for academic content
+- Apply web writing principles to make complex ideas more accessible
+- Evaluate how design choices affect the accessibility and impact of intellectual work
+- Begin planning content strategy for academic remediation projects
+
+## Lab Exercises
+
+### Exercise 1: CRAP Principles Analysis for Academic Content
+Learn the foundation design principles by analyzing how they affect scholarly communication.
+
+**The CRAP Principles:**
+- **Contrast**: Visual differences that create hierarchy and guide attention
+- **Repetition**: Consistent design elements that create unity and help readers navigate
+- **Alignment**: Positioning elements to create clear visual relationships
+- **Proximity**: Grouping related information to show relationships and meaning
+
+**Requirements:**
+- **Choose an academic or scholarly website** (university department site, academic journal, digital humanities project, etc.)
+- **Analyze using each CRAP principle** with specific focus on how design choices affect academic content accessibility
+- **Consider diverse audiences**: How do design choices serve scholars vs. students vs. general public?
+- **Write 400-500 word analysis** with specific examples and screenshots
+- **Evaluate effectiveness**: Do the design choices enhance or hinder scholarly communication?
+
+### Exercise 2: Web Reading Patterns and Academic Content
+Understand how web reading differs from print reading and what this means for academic writing.
+
+**Key Concepts:**
+- **Reading Gravity**: How images and color pull attention away from text
+- **F-Pattern/Layer Cake Pattern**: How users scan rather than read web content carefully
+- **Scannability**: Making content accessible to users who are scanning for key information
+
+**Requirements:**
+- **Analyze a substantial piece of academic writing** (journal article, research paper, etc.)
+- **Identify challenges** this content would face in web environment based on reading patterns
+- **Create a "web writing" version** of one section (300-400 words) applying scannability principles:
+  - Shorter paragraphs (100 words or less)
+  - Strategic headings and subheadings
+  - Key concepts emphasized (note where you would use bold formatting)
+  - Bullet or numbered lists for key takeaways
+- **Write comparison analysis** (200-300 words) explaining your revision choices
+
+### Exercise 3: Content Strategy for Academic Remediation
+Begin planning how to transform academic work for web publication.
+
+**Requirements:**
+- **Choose your own academic work** for the final remediation project (research paper, essay, creative work, etc.)
+- **Audience analysis**: Compare your original academic audience with potential web readers
+- **Content audit**: Identify sections that need substantial revision for web format
+- **Structure planning**: Outline how you would break content into 4-5 scannable web pages
+- **Design considerations**: Note where CRAP principles and web writing techniques will be most important
+- **Create content strategy document** (400-500 words) addressing:
+  - Why this work deserves broader accessibility
+  - Main challenges in web transformation
+  - Opportunities for enhanced engagement through design
+  - Initial ideas for visual hierarchy and navigation
+
+## Assessment Criteria
+
+**Developing (Emerging Understanding):**
+- CRAP analysis identifies some design elements but lacks depth or accuracy
+- CSS implementation shows basic understanding but may have significant issues
+- Limited application of scannability principles
+- Design planning is superficial or unrealistic
+
+**Proficient (Good Understanding):**
+- CRAP analysis demonstrates solid understanding with specific examples
+- CSS implementation effectively creates visual hierarchy and organization
+- Good application of scannability principles improves content accessibility
+- Design planning shows thoughtful consideration of user needs and goals
+
+**Advanced (Strong Understanding):**
+- CRAP analysis provides sophisticated insights into how design affects scholarly communication
+- Content remediation successfully maintains academic rigor while dramatically improving web accessibility
+- Typography implementation demonstrates advanced understanding of reading experience optimization
+- Design planning shows comprehensive consideration of academic audience needs and content strategy
+- Clear evidence of understanding how design principles support intellectual engagement
+
+## Professional Development Focus
+This lab emphasizes skills directly applicable to:
+- Digital humanities and scholarly communication
+- Academic publishing and editorial work
+- Content strategy for educational and cultural institutions
+- User experience design for knowledge-based websites
+- Public scholarship and community engagement initiatives
+
+## Resources and Tools
+- [Google Fonts](https://fonts.google.com/) with focus on reading-optimized typefaces
+- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) for accessibility
+- Examples of successful academic and scholarly websites
+- [Typography resources for academic content](https://practicaltypography.com/)
+- Digital humanities project showcases for design inspiration
+
+## Submission Guidelines
+- Submit academic website analysis with annotated screenshots
+- Submit original and remediated content versions with HTML/CSS implementation
+- Submit typography comparison with analysis of scholarly reading considerations
+- Submit design planning documents for remediation project
+- Include reflection on how design principles specifically serve academic content and audiences
+
+*This lab develops critical design analysis skills while building practical CSS implementation abilities specifically focused on scholarly and academic content needs.*

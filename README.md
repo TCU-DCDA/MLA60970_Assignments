@@ -38,10 +38,10 @@ Structured peer review process emphasizing both technical and content strategy f
 **Location:** `Project/`
 
 **Four Progressive Labs:**
-1. **Lab 1: HTML Fundamentals** → Semantic markup for academic content and remediation planning
-2. **Lab 2: Design Principles** → CRAP principles applied to scholarly communication  
-3. **Lab 3: CSS Layout** → Layout techniques optimized for reading complex content
-4. **Lab 4: Responsive Design** → Cross-device accessibility for academic publishing
+1. **Lab 1: Design Principles and Web Writing** → CRAP principles, web reading patterns, and content strategy for academic remediation
+2. **Lab 2: HTML Fundamentals and Semantic Implementation** → Semantic markup for scholarly content building on design insights
+3. **Lab 3: CSS Implementation of Design Principles** → Visual implementation that realizes design strategy through CSS
+4. **Lab 4: Responsive Academic Content and Final Remediation** → Cross-device optimization and launch-ready academic web presence
 
 **Remediation Project:**
 - **Project Prompt** → Transform substantial academic work into accessible web publication
@@ -65,56 +65,58 @@ Students will develop proficiency in:
 - **Professional Workflow**: Version control, testing, and deployment for academic web publishing
 
 ### Digital Liberal Arts Skills
-- **Content Strategy**: Transforming academic writing for web audiences while maintaining intellectual rigor
-- **Public Scholarship**: Making scholarly work accessible to broader communities through digital publishing
-- **Critical Analysis**: Understanding how medium shapes message in scholarly communication
-- **Accessibility Ethics**: Ensuring academic content is available to diverse audiences and abilities
+- **Design Thinking**: Understanding how CRAP principles and web reading patterns apply to scholarly communication
+- **Content Strategy**: Transforming academic writing for web audiences while maintaining intellectual rigor and accessibility
+- **Public Scholarship**: Making scholarly work accessible to broader communities through thoughtful digital design and implementation
+- **Critical Analysis**: Understanding how design choices and technical implementation shape scholarly communication and audience engagement
+- **Accessibility Ethics**: Ensuring academic content serves diverse audiences through inclusive design and technical implementation
 
 ## 4-Week Intensive Timeline
 
 ### Week 1: Foundation Building
-**Days 1-2: Setup and HTML Fundamentals**
+**Days 1-2: Design Principles and Content Strategy**
 - Complete preparatory materials and GitHub setup
-- Lab 1: HTML document structure and semantic markup
-- Begin portfolio content planning and organization
+- Lab 1: CRAP analysis, web reading patterns, and academic content strategy
+- Begin planning digital remediation project and analyzing academic content for web transformation
 
-**Days 3-5: Design Principles**
-- Lab 2: CRAP analysis and typography implementation
-- Establish visual brand and design direction for portfolio
-- Create style guide and design foundation
+**Days 3-5: HTML Implementation**
+- Lab 2: Semantic markup that implements design insights from Lab 1
+- Create structured academic content with proper HTML foundations
+- Build content architecture that supports design strategy and accessibility goals
 
-### Week 2: Layout and Development
-**Days 6-8: CSS Layout Mastery**
-- Lab 3: Box model, positioning, and layout techniques
-- Build responsive foundation for portfolio pages
-- Implement navigation and page structure
+### Week 2: Visual Implementation and Layout
+**Days 6-8: CSS Design Implementation**
+- Lab 3: CSS implementation of CRAP principles and typography for academic content
+- Build visual hierarchy and reading experience that supports scholarly communication
+- Implement design strategy through professional CSS techniques
 
-**Days 9-10: Responsive Design**
-- Lab 4: Mobile-first design and media queries
-- Complete responsive implementation across all devices
-- Test and refine cross-device user experience
+**Days 9-10: Responsive Academic Design**
+- Lab 4: Mobile-first responsive design for scholarly content across all devices
+- Complete responsive implementation that maintains academic credibility and accessibility
+- Test and refine academic web presence for diverse reading contexts
 
-### Week 3: Integration and Refinement
-**Days 11-12: Portfolio Development**
-- Integrate all lab skills into cohesive portfolio project
-- Focus on content development and visual polish
+### Week 3: Integration and Academic Content Development
+**Days 11-12: Digital Remediation Project Integration**
+- Integrate all lab skills into cohesive academic web presence
+- Focus on scholarly content development, accessibility, and professional presentation
+- Prepare complete academic remediation project for peer review
 - Prepare rough draft for peer review
 
 **Days 13-15: Peer Review Process**
-- Submit rough draft with reflection documentation
-- Participate in structured peer review sessions
-- Receive and provide constructive feedback
+- Submit rough draft academic remediation project with reflection documentation
+- Participate in structured peer review focusing on both design strategy and technical implementation
+- Receive and provide constructive feedback on scholarly web communication and accessibility
 
-### Week 4: Finalization and Launch
-**Days 16-18: Implementation and Testing**
-- Incorporate peer feedback and make final refinements
-- Comprehensive testing across browsers and devices
-- Performance optimization and accessibility review
+### Week 4: Finalization and Academic Web Presence Launch
+**Days 16-18: Implementation and Accessibility Testing**
+- Incorporate peer feedback and make final refinements to academic web presence
+- Comprehensive testing across browsers, devices, and accessibility standards
+- Performance optimization with focus on diverse academic user contexts
 
-**Days 19-20: Presentation and Reflection**
-- Final portfolio presentation and demonstration
-- Course reflection and next steps planning
-- Portfolio launch and professional sharing
+**Days 19-20: Academic Web Presence Launch and Reflection**
+- Final academic remediation project presentation and demonstration
+- Course reflection analyzing the journey from design strategy to technical implementation
+- Academic web presence launch and preparation for public scholarship engagement
 
 ## Assessment Philosophy
 
@@ -127,18 +129,18 @@ This course emphasizes **learning and professional development** over traditiona
 - **Collaborative learning** and peer support
 - **Self-reflection** and goal setting
 
-**Assessment Methods:**
-- **Self-assessment** using developmental criteria (Developing → Proficient → Advanced)
-- **Peer review** with structured feedback frameworks
-- **Reflection documentation** of learning process and professional growth
-- **Portfolio presentation** demonstrating integrated skills
+### Assessment Methods:**
+- **Self-assessment** using developmental criteria (Developing → Proficient → Advanced) with focus on design thinking integration
+- **Peer review** with structured feedback frameworks covering both design strategy and technical implementation
+- **Reflection documentation** analyzing the progression from design principles through technical execution
+- **Academic web presence presentation** demonstrating integrated skills in service of scholarly communication goals
 
 ### Professional Skills Development
-Assessment criteria align with industry expectations:
-- **Technical competency** in HTML, CSS, and responsive design
-- **Design thinking** and user experience considerations
-- **Professional communication** and collaboration abilities
-- **Project management** and iterative development processes
+Assessment criteria align with both industry expectations and academic communication goals:
+- **Design thinking** integrated with technical competency in HTML, CSS, and responsive design
+- **User experience considerations** specifically applied to scholarly content and accessibility
+- **Professional communication** and collaboration abilities in academic and digital contexts
+- **Project management** and iterative development processes for digital scholarship projects
 
 ## Getting Started
 
@@ -167,11 +169,12 @@ This course structure mirrors professional web development practices:
 
 ### Career Applications
 Skills and deliverables directly support:
-- **Job applications** with professional portfolio demonstration
-- **Freelance work** with client-ready development capabilities
-- **Further learning** with solid foundation in modern web development
-- **Digital marketing** and content strategy roles
-- **UX/UI design** career pathways
+- **Academic career development** with professional digital scholarship presence
+- **Public scholarship** and community engagement through accessible web publishing
+- **Digital humanities** and scholarly communication career pathways
+- **Educational technology** and academic web development roles
+- **Cultural institutions** and nonprofit web presence development
+- **Further learning** with solid foundation in design-driven web development
 
 ## Course Evolution
 

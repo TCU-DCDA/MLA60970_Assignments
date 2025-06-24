@@ -1,157 +1,210 @@
-# Lab 3: CSS Layout Fundamentals and Box Model
+# Lab 3: CSS Implementation of Design Principles
 
 ## Assignment Overview
-This lab introduces essential CSS layout concepts including the box model, positioning, and modern layout techniques. You'll build practical layout skills needed for creating professional portfolio pages.
+Building on the design principles from Lab 1 and semantic HTML structure from Lab 2, this lab focuses on implementing visual design through CSS. You'll apply CRAP principles, create layouts that support web reading patterns, and style your academic content for maximum accessibility and engagement.
 
 ## Learning Objectives
 By completing this lab, students will:
-- Master the CSS box model (content, padding, border, margin)
-- Understand and apply different positioning techniques
-- Create flexible layouts using modern CSS approaches
-- Debug layout issues using browser developer tools
-- Build reusable layout components for portfolio pages
+- Implement CRAP design principles (Contrast, Repetition, Alignment, Proximity) through CSS
+- Create visual hierarchy that supports F-pattern and layer cake reading
+- Master CSS layout techniques for academic and scholarly content presentation
+- Build responsive layouts that maintain accessibility across devices
+- Apply typography and spacing principles for enhanced scholarly communication
 
 ## Lab Exercises
 
-### Exercise 1: Box Model Mastery
-Explore and practice the fundamental concepts of CSS spacing and sizing.
+### Exercise 1: CRAP Principles Implementation Through CSS
+Apply the design analysis from Lab 1 by implementing CRAP principles using CSS on your Lab 2 HTML structure.
 
 **Requirements:**
-- Create an HTML page demonstrating each component of the box model
-- Build 4 different card components showing:
-  1. `box-sizing: content-box` with specific dimensions
-  2. `box-sizing: border-box` with the same dimensions
-  3. A card with complex padding and margin relationships
-  4. A card demonstrating margin collapse and how to handle it
+- Use your HTML files from Lab 2 as the foundation
+- Implement each CRAP principle through specific CSS techniques:
 
-**Box Model Properties to Use:**
-- `width`, `height`, `max-width`, `min-height`
-- `padding`, `padding-top`, `padding-right`, `padding-bottom`, `padding-left`
-- `margin`, `margin-top`, `margin-right`, `margin-bottom`, `margin-left`
-- `border`, `border-width`, `border-style`, `border-color`
-- `box-sizing`, `overflow`
+**Contrast Implementation:**
+- Create clear visual hierarchy using typography (font-size, font-weight, color)
+- Use color contrast to emphasize key academic concepts and improve accessibility
+- Implement spacing contrast to distinguish between content types
+- Apply the contrast techniques you analyzed in Lab 1's academic website review
 
-**Analysis Component:**
-- Use browser developer tools to inspect each example
-- Document the calculated dimensions for each box
-- Explain the differences between the box-sizing values
-- Identify and solve common spacing issues
+**Repetition Implementation:**
+- Develop consistent styling patterns for headings, paragraphs, lists, and quotes
+- Create a cohesive color scheme that reinforces academic credibility
+- Use consistent spacing and alignment throughout your content
+- Establish visual patterns that help readers navigate your scholarly content
 
-### Exercise 2: Layout Patterns for Portfolio Pages
-Create common website layout patterns using CSS positioning and flexbox basics.
+**Alignment Implementation:**
+- Use CSS Grid or Flexbox to create clear visual relationships between content elements
+- Align text, images, and other elements to create professional, academic presentation
+- Implement proper margins and padding that support content organization
 
-**Required Layout Components:**
-1. **Header Layout**: Logo/title on left, navigation on right
-2. **Card Grid**: 2-3 column layout of portfolio pieces
-3. **Article Layout**: Main content with sidebar
-4. **Footer Layout**: Multi-column footer with contact info
+**Proximity Implementation:**
+- Group related content visually through spacing, borders, or background colors
+- Use CSS to enhance the semantic relationships you established in your HTML
+- Create clear sections that support the web reading patterns identified in Lab 1
 
-**CSS Techniques to Practice:**
-- `display: block`, `display: inline`, `display: inline-block`
-- `position: static`, `position: relative`, `position: absolute`
-- `float` and `clear` (understanding legacy techniques)
-- Basic `display: flex` for alignment
-- `text-align`, `vertical-align`
+**Assessment for Exercise 1:**
+- Document how each CSS rule implements a specific CRAP principle
+- Include before/after screenshots showing design improvements
+- Write analysis (200-300 words) connecting your Lab 1 insights to CSS implementation
+
+### Exercise 2: Typography and Reading Experience Optimization
+Implement typography strategies that support the web reading patterns analyzed in Lab 1.
 
 **Requirements:**
-- Each layout should be contained in its own section
-- Use semantic HTML elements (`<header>`, `<main>`, `<section>`, `<aside>`, `<footer>`)
-- Ensure layouts work at different screen sizes (test at 320px, 768px, 1200px)
-- Include proper spacing and visual hierarchy
+- Apply typography CSS to enhance scannability and reduce cognitive load for academic content
+- Implement font choices, sizing, and spacing that support scholarly reading online
 
-### Exercise 3: Interactive Navigation Component
-Build a professional navigation system for your portfolio.
+**Typography Implementation:**
+- **Font Selection**: Choose web fonts appropriate for academic content (readability over decoration)
+- **Hierarchy Implementation**: Use font-size, font-weight, and line-height to support F-pattern reading
+- **Paragraph Optimization**: Implement spacing and width that supports the shorter paragraph strategy from Lab 1
+- **List Styling**: Enhance bullet points and numbered lists to improve content scanning
+- **Link Styling**: Design link states that support non-linear academic reading
+- **Quote and Citation Styling**: Create appropriate visual treatment for academic citations and quotes
+
+**Reading Experience Features:**
+- Optimal line length (45-75 characters) for academic content
+- Sufficient line-height for improved readability
+- Strategic use of white space to reduce cognitive overload
+- Color choices that support sustained reading while maintaining accessibility standards
+
+**Assessment for Exercise 2:**
+- Test your typography with actual readers or use readability tools
+- Document how your choices address the web reading challenges identified in Lab 1
+- Include side-by-side comparison with original academic text formatting
+
+### Exercise 3: Layout Implementation for Academic Content
+Create layouts that support your multi-page academic remediation project from Lab 2.
 
 **Requirements:**
-- Create a horizontal navigation bar with 5-7 menu items
-- Implement hover states with smooth transitions
-- Use CSS to create dropdown or accordion submenu (choose one)
-- Ensure navigation is keyboard accessible (tab navigation)
-- Test usability on both desktop and mobile screen sizes
+- Use CSS Grid and/or Flexbox to implement the page structure you planned in Labs 1-2
+- Create layouts specifically designed for scholarly content presentation
+- Build navigation systems that support non-linear academic reading
 
-**CSS Features to Implement:**
-- `transition` for smooth hover effects
-- `:hover`, `:focus`, `:active` pseudo-classes
-- `transform` for subtle animations
-- Proper contrast ratios for accessibility
-- Clean, professional styling that matches your portfolio brand
+**Layout Components for Academic Content:**
+1. **Article Layout**: Main content with related resources sidebar
+2. **Bibliography/References Layout**: Accessible formatting for academic citations
+3. **Multi-page Navigation**: Clear wayfinding between sections of your remediated content
+4. **Responsive Academic Layout**: Ensure scholarly content works across devices
 
-### Exercise 4: Responsive Layout Foundation
-Create a flexible layout system that adapts to different screen sizes.
+**CSS Layout Techniques:**
+- CSS Grid for complex academic page layouts
+- Flexbox for component-level alignment and spacing
+- Responsive design that maintains academic credibility on all devices
+- Navigation patterns that support scholarly research workflows
+- Sidebar layouts for supplementary academic materials
+
+**Assessment for Exercise 3:**
+- Test layouts with actual academic content from your remediation project
+- Ensure designs support both linear and non-linear reading patterns
+- Document how layout choices enhance scholarly communication goals
+
+### Exercise 4: Accessibility and Inclusive Design Implementation
+Ensure your CSS implementation supports diverse users and meets accessibility standards for academic content.
 
 **Requirements:**
-- Design a single page that works well on mobile, tablet, and desktop
-- Use percentage-based widths and flexible units
-- Implement a mobile-first approach
-- Create a flexible grid system for portfolio content
-- Test thoroughly at different viewport sizes
+- Implement accessibility features that support different learning styles and abilities
+- Test and refine your designs for maximum inclusivity
+- Address the accessibility considerations identified in your Lab 1 content strategy
 
-**Layout Considerations:**
-- Mobile (320px-768px): Single column, touch-friendly navigation
-- Tablet (768px-1024px): Two-column layout, adapted navigation
-- Desktop (1024px+): Multi-column layout, full navigation
+**Accessibility Implementation:**
+- **Color and Contrast**: Ensure all text meets WCAG contrast ratios for academic reading
+- **Focus States**: Create clear keyboard navigation for scholarly research workflows
+- **Screen Reader Support**: Use CSS that enhances rather than conflicts with semantic HTML
+- **Responsive Text**: Implement text that scales appropriately for different visual needs
+- **Motion and Animation**: Ensure any transitions support rather than distract from content consumption
 
-### Exercise 5: Debug and Optimize
-Fix common layout problems in provided broken CSS examples.
+**Inclusive Design Considerations:**
+- Support for different reading preferences and cognitive processing styles
+- Flexible layouts that accommodate various assistive technologies
+- Design choices that work across different cultural and linguistic contexts
+- Visual hierarchy that supports both expert and novice readers in your academic field
 
-**Common Issues to Identify and Fix:**
-- Margin collapse problems
-- Box model miscalculations
-- Positioning conflicts
-- Overflow issues
-- Alignment problems
-- Browser compatibility issues
+**Assessment for Exercise 4:**
+- Use accessibility testing tools to validate your implementation
+- Test with actual users who have different abilities and technical setups
+- Document how your CSS choices specifically support scholarly accessibility goals
+
+### Exercise 5: Integration and Refinement
+Bring together all elements from Labs 1-3 to create a cohesive, well-designed academic web presence.
+
+**Requirements:**
+- Integrate all CSS implementations from Exercises 1-4 into a unified design system
+- Refine and polish your academic content presentation based on user testing or peer feedback
+- Create a comprehensive style guide documenting your design decisions
+
+**Integration Tasks:**
+- **Design System Documentation**: Create a style guide showing how your CSS implements Lab 1's design principles
+- **Content Integration**: Apply your complete design system to all pages from your Lab 2 HTML structure
+- **Performance Optimization**: Ensure CSS is efficiently organized and loads quickly
+- **Cross-browser Testing**: Verify your academic content displays consistently across different browsers and devices
+- **Final Refinements**: Make adjustments based on testing and feedback
+
+**Comprehensive Assessment:**
+- **Design Coherence**: How well does your final implementation realize the design strategy from Lab 1?
+- **Technical Execution**: Is your CSS well-organized, efficient, and maintainable?
+- **Academic Communication**: Does your design enhance or support your scholarly content goals?
+- **Accessibility Achievement**: Have you successfully created an inclusive academic web presence?
+
+**Reflection Component (400-500 words):**
+- Analyze the complete journey from Lab 1's design analysis through Lab 3's technical implementation
+- Identify the most significant design decisions and their impact on scholarly communication
+- Discuss challenges encountered and solutions developed
+- Evaluate how this process changed your understanding of digital academic publishing
 
 ## Assessment Criteria
 
 **Developing (Emerging Understanding):**
-- Basic understanding of box model but inconsistent application
-- Layout components work but may have spacing or alignment issues
-- Limited use of CSS properties and techniques
-- Minimal consideration for different screen sizes or accessibility
+- Basic CSS implementation with some design principle application
+- CRAP principles addressed but with limited depth or effectiveness
+- CSS code works but may have organization or efficiency issues
+- Limited integration of Labs 1-2 insights into technical implementation
 
 **Proficient (Good Understanding):**
-- Solid understanding and application of box model principles
-- Layout components are well-constructed and visually appealing
-- Good use of CSS positioning and spacing techniques
-- Basic responsive considerations implemented
-- Code is organized and follows CSS best practices
+- Solid CSS implementation that clearly demonstrates CRAP principles in action
+- Typography and layout choices effectively support web reading patterns from Lab 1
+- Well-organized CSS that successfully styles the semantic HTML from Lab 2
+- Good accessibility implementation with clear evidence of inclusive design thinking
 
 **Advanced (Strong Understanding):**
-- Sophisticated understanding of CSS layout with creative problem-solving
-- Layout components are polished, accessible, and highly functional
-- Advanced use of CSS techniques with attention to performance
-- Excellent responsive design implementation
-- Code demonstrates professional-level organization and commenting
-- Clear integration with portfolio project goals
+- Sophisticated CSS implementation that elevates academic content presentation
+- Seamless integration of design strategy, semantic structure, and visual implementation
+- Creative solutions that address complex challenges in scholarly web communication
+- Exceptional attention to accessibility and inclusive design for diverse academic audiences
+- Professional-level code organization with comprehensive documentation
+- Clear evidence of design thinking applied to digital scholarship challenges
 
 ## Professional Skills Development
 This lab builds expertise in:
-- Front-end web development
-- User interface (UI) design implementation
-- Responsive web design
-- Cross-browser compatibility
-- Web accessibility standards
-- Performance optimization
+- Design thinking applied to digital scholarship
+- User experience (UX) design for academic content
+- Web accessibility and inclusive design practices
+- CSS implementation of design principles
+- Academic communication through visual design
+- Digital humanities and scholarly communication technologies
 
 ## Resources and Tools
-- [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [MDN CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model)
-- Browser developer tools for debugging
-- [Can I Use](https://caniuse.com/) for browser compatibility
-- CSS validation tools
+- [WebAIM Accessibility Guidelines](https://webaim.org/) for academic content accessibility
+- [Accessible Colors](https://accessible-colors.com/) for contrast checking
+- [Google Fonts](https://fonts.google.com/) with focus on reading-optimized typefaces
+- [CSS-Tricks](https://css-tricks.com/) for advanced layout techniques
+- [MDN CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Browser developer tools for testing and debugging
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 ## Submission Guidelines
-- Submit all HTML/CSS files for each exercise
-- Include screenshots showing your layouts at different screen sizes
-- Submit documentation of your debugging process for Exercise 5
-- Include reflection on layout challenges and solutions discovered
-- Describe how these skills will apply to your final portfolio project
+- Submit complete CSS files implementing all exercises with annotated comments
+- Include before/after screenshots demonstrating design principle application
+- Submit comprehensive style guide documentation
+- Include accessibility testing reports and user feedback documentation
+- Submit integration reflection analyzing the complete Labs 1-3 journey
+- Provide links to live pages demonstrating responsive design across devices
 
-## Integration with Portfolio Project
-The layouts and components created in this lab should directly support your final portfolio. Consider:
-- How will these layout patterns work for showcasing your projects?
-- What modifications might be needed for your specific content?
-- How do these techniques support your overall design goals?
+## Integration with Remediation Project
+This lab completes the design and technical foundation for your academic remediation project. Your CSS implementation should:
+- Fully realize the design strategy developed in Lab 1
+- Effectively style the semantic HTML structure created in Lab 2
+- Create an accessible, engaging presentation of your scholarly content
+- Prepare your project for the final responsive refinements in Lab 4
 
-*This lab provides the technical foundation for creating professional, responsive portfolio layouts.*
+*This lab bridges design theory and technical implementation, creating a foundation for sophisticated digital scholarship presentation.*
