@@ -1,15 +1,15 @@
 # MLA60970 Assignments
 
-This repository contains the revised course structure for MLA60970, optimized for a **4-week intensive summer format**. The course centers on a single, comprehensive portfolio project supported by four progressive labs that build essential web development skills.
+This repository contains the course structure for MLA60970, optimized for a **4-week intensive summer format** and focused on **digital remediation** of academic work. The course centers on transforming existing scholarly writing into accessible web content while building foundational web development skills.
 
 ## Course Structure Overview
 
 ### Realistic Scope for 4-Week Intensive
-Rather than multiple separate projects, this course focuses on **one major portfolio project** that integrates all learning objectives:
-- More realistic timeline for summer intensive format
-- Deeper skill development through progressive lab sequence
-- Professional portfolio outcome that serves students beyond the course
-- Emphasis on quality over quantity of deliverables
+Rather than multiple separate projects, this course focuses on **digital remediation of academic work**:
+- Transforms existing scholarly writing for web publication and broader accessibility
+- Integrates technical web development skills with digital liberal arts practice
+- Emphasizes public scholarship and community engagement through digital publishing
+- Appropriate scope and intellectual focus for Master of Liberal Arts students
 
 ### Course Components
 
@@ -17,13 +17,13 @@ Rather than multiple separate projects, this course focuses on **one major portf
 Essential setup and onboarding for professional web development workflow
 
 **Progressive Skill Building** → `Project/Lab1_HTML_Fundamentals/` through `Project/Lab4_Responsive_Design/`
-Four interconnected labs that build toward portfolio completion
+Four interconnected labs that build toward successful academic content remediation
 
-**Portfolio Project** → `Project/Prompt/`
-Comprehensive portfolio website demonstrating all course learning objectives
+**Digital Remediation Project** → `Project/Prompt/`
+Comprehensive transformation of academic work into accessible web publication
 
 **Collaborative Learning** → `Project/PeerReview/` and `Project/RoughDraft_PeerReview/`
-Structured peer review process emphasizing professional development
+Structured peer review process emphasizing both technical and content strategy feedback
 
 ### Project Structure
 
@@ -34,19 +34,19 @@ Structured peer review process emphasizing professional development
 - GitHub Pages publishing and deployment process
 - Professional development context and career applications
 
-#### Main Portfolio Project  
+#### Main Digital Remediation Project  
 **Location:** `Project/`
 
 **Four Progressive Labs:**
-1. **Lab 1: HTML Fundamentals** → Semantic markup and document structure
-2. **Lab 2: Design Principles** → CRAP principles, typography, and visual hierarchy  
-3. **Lab 3: CSS Layout** → Box model, positioning, and layout techniques
-4. **Lab 4: Responsive Design** → Mobile-first design and cross-device optimization
+1. **Lab 1: HTML Fundamentals** → Semantic markup for academic content and remediation planning
+2. **Lab 2: Design Principles** → CRAP principles applied to scholarly communication  
+3. **Lab 3: CSS Layout** → Layout techniques optimized for reading complex content
+4. **Lab 4: Responsive Design** → Cross-device accessibility for academic publishing
 
-**Portfolio Development:**
-- **Project Prompt** → Comprehensive portfolio website requirements and guidelines
-- **Peer Review Process** → Professional feedback and collaboration experience
-- **Rough Draft Workflow** → Iterative development with structured feedback
+**Remediation Project:**
+- **Project Prompt** → Transform substantial academic work into accessible web publication
+- **Peer Review Process** → Feedback on both technical implementation and content strategy
+- **Critical Reflection** → Analysis of digital publishing decisions and scholarly communication ethics
 
 #### Archive of Original Scope
 **Location:** `Archive_Original_Scope/`
@@ -59,16 +59,16 @@ Structured peer review process emphasizing professional development
 
 ### Technical Skills
 Students will develop proficiency in:
-- **HTML5**: Semantic markup, accessibility, and document structure
-- **CSS3**: Typography, layout, responsive design, and modern techniques
-- **Web Design**: CRAP principles, visual hierarchy, and user experience
-- **Professional Workflow**: Version control, testing, and deployment
+- **HTML5**: Semantic markup optimized for academic and scholarly content
+- **CSS3**: Typography and layout techniques that prioritize readability and accessibility
+- **Web Design**: CRAP principles applied to scholarly communication and public engagement
+- **Professional Workflow**: Version control, testing, and deployment for academic web publishing
 
-### Professional Development
-- **Portfolio Creation**: Professional online presence for career development
-- **Collaboration Skills**: Peer review, constructive feedback, and technical communication
-- **Industry Practices**: Modern web development workflow and best practices
-- **Critical Analysis**: Design evaluation and iterative improvement processes
+### Digital Liberal Arts Skills
+- **Content Strategy**: Transforming academic writing for web audiences while maintaining intellectual rigor
+- **Public Scholarship**: Making scholarly work accessible to broader communities through digital publishing
+- **Critical Analysis**: Understanding how medium shapes message in scholarly communication
+- **Accessibility Ethics**: Ensuring academic content is available to diverse audiences and abilities
 
 ## 4-Week Intensive Timeline
 

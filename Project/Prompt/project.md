@@ -1,108 +1,102 @@
-# Final Portfolio Project: Professional Web Development Portfolio
+# Final Project: Digital Remediation and Liberal Arts Publishing
 
 ## Project Overview
 
-Your final project is to create a comprehensive, professional web development portfolio that showcases your skills, projects, and personal brand. This portfolio will serve as both a demonstration of your technical abilities and a practical tool for future academic and career opportunities.
+Your final project is to transform existing written work that you're particularly proud of—a research paper, creative writing, critical analysis, or scholarly work—into a compelling, accessible multipage website for public readership. This digital remediation project integrates technical web development skills with critical thinking about how ideas travel across media, audiences, and contexts.
 
-Throughout the four progressive labs, you've built foundational skills in HTML structure, design principles, CSS layout, and responsive design. This project integrates all of these skills into a cohesive, professional website that you can use beyond this course.
+Throughout the four progressive labs, you've built foundational skills in HTML structure, design principles, CSS layout, and responsive design. This project applies those skills to explore how academic and intellectual work can reach broader audiences through thoughtful digital publishing.
 
 ## Project Goals
 
 **Technical Goals:**
-- Demonstrate mastery of semantic HTML and modern CSS
-- Create a fully responsive website that works on all devices
-- Implement professional design principles and accessibility standards
-- Build a maintainable, well-organized codebase
+- Demonstrate mastery of semantic HTML and modern CSS through remediation
+- Create a fully responsive website that makes content accessible across devices
+- Implement design principles that enhance rather than distract from content
+- Build a well-structured site that serves both content and technical learning objectives
 
-**Professional Goals:**
-- Develop a strong personal brand and online presence
-- Create a portfolio that can support job applications and networking
-- Practice professional web development workflow and best practices
-- Build something you're genuinely proud to share
+**Intellectual Goals:**
+- Explore how medium shapes message through hands-on remediation practice
+- Consider questions of audience, accessibility, and public scholarship
+- Analyze the relationship between print academic writing and web-based publishing
+- Practice digital liberal arts skills increasingly important in academic and professional contexts
 
 ## Required Website Elements
 
-Your portfolio must include the following components:
+Your remediation project must include the following components:
 
-### Core Pages (Minimum 4 Pages)
+### Core Pages (Minimum 4-5 Pages)
 1. **Homepage/Landing Page**
-   - Clear introduction to who you are and what you do
-   - Professional hero section with compelling call-to-action
-   - Navigation to all major sections
-   - Brief overview of your key skills or projects
+   - Clear introduction to your remediated work and its significance
+   - Compelling overview that draws readers into your content
+   - Navigation to all sections of the remediated work
+   - Brief context about the original work and remediation choices
 
-2. **About Page**
-   - Personal and professional background
-   - Skills, interests, and expertise areas
-   - Educational background and relevant experience
-   - Professional goals and career aspirations
-   - Contact information or links to social profiles
+2. **Remediated Content Pages (3-4 Pages)**
+   - Your original written work transformed for web readership
+   - Content restructured for scannability and web consumption
+   - Strategic use of headings, sections, and visual hierarchy
+   - Incorporation of relevant images, links, or multimedia where appropriate
+   - Logical page breaks that enhance rather than interrupt the reading experience
 
-3. **Portfolio/Projects Page**
-   - Showcase of your best work (academic projects, personal projects, etc.)
-   - Each project should include: description, technologies used, challenges overcome
-   - High-quality images or screenshots
-   - Links to live projects or repositories where applicable
+3. **About the Work/Author Page**
+   - Context for the original work: when, why, and for whom it was written
+   - Reflection on the remediation process and decisions made
+   - Information about you as author/scholar
+   - Discussion of how the work fits into broader conversations or fields
 
-4. **Contact Page**
-   - Multiple ways to reach you (email, social media, etc.)
-   - Professional contact form (HTML structure, styling)
-   - Optional: location information, availability, etc.
+4. **Sources/Bibliography Page**
+   - Works cited formatted for web presentation
+   - Links to external sources where available and appropriate
+   - Additional resources for readers who want to explore further
+   - Proper attribution and academic integrity maintained
 
 ### Technical Requirements
 
 **HTML Requirements:**
-- Valid, semantic HTML5 markup
-- Proper document structure with appropriate meta tags
-- Accessible markup with proper alt text, labels, and ARIA attributes
-- Clean, organized code with consistent indentation and commenting
+- Valid, semantic HTML5 markup appropriate for long-form content
+- Proper document structure with navigation aids for lengthy texts
+- Accessible markup with appropriate headings hierarchy and ARIA labels
+- Strategic use of semantic elements (article, section, aside) for content organization
 
 **CSS Requirements:**
-- External stylesheet(s) with organized, maintainable code
-- Responsive design that works on mobile, tablet, and desktop
-- Implementation of design principles from Lab 2 (CRAP)
-- Professional typography with good hierarchy and readability
-- Consistent color scheme and visual branding
+- External stylesheet(s) optimized for reading experience
+- Typography that enhances readability across devices
+- Responsive design that prioritizes content at all screen sizes
+- Visual design that supports rather than competes with your content
+- Consistent styling that creates unity across pages
 
-**Design Requirements:**
-- Professional, cohesive visual design
-- Clear navigation and user experience
-- Appropriate use of white space and visual hierarchy
-- Optimized images with proper formats and sizes
-- Fast loading times and good performance
-
-**Responsive Requirements:**
-- Mobile-first design approach
-- Smooth transitions between breakpoints
-- Touch-friendly navigation and interactions
-- Optimized content layout for each screen size
+**Content Requirements:**
+- Original written work substantially revised for web readership
+- Content restructured for scannability (shorter paragraphs, strategic headings)
+- Visual hierarchy that guides readers through complex ideas
+- Strategic use of links, images, or other media to enhance understanding
 
 ## Development Process and Workflow
 
-### Phase 1: Planning and Design (Week 1)
-- Define your target audience and goals for the portfolio
-- Create content inventory and site map
-- Develop visual brand identity (colors, typography, imagery style)
-- Create wireframes or mockups for key pages
-- Plan your development timeline
+### Phase 1: Content Analysis and Planning (Week 1)
+- **Select and analyze your source material** - choose written work with intellectual substance
+- **Audience analysis** - consider how your academic/scholarly audience differs from web readers
+- **Content audit** - identify what needs substantial revision vs. light editing for web format
+- **Site architecture** - plan how to break long-form work into logical, navigable sections
+- **Design strategy** - consider how visual design can support and enhance your content
 
-### Phase 2: Content Development (Week 2)
-- Write compelling copy for all pages
-- Gather and optimize images and media
-- Create HTML structure for all pages
-- Implement basic CSS styling and layout
+### Phase 2: Remediation and Structure (Week 2)
+- **Content transformation** - rewrite and restructure for web readability and scannability
+- **HTML implementation** - mark up content with semantic, accessible structure
+- **Information architecture** - create clear navigation and logical content flow
+- **Basic styling** - implement typography and layout that prioritizes readability
 
-### Phase 3: Enhancement and Responsiveness (Week 3)
-- Refine design implementation and visual polish
-- Implement responsive design across all pages
-- Add interactive elements and enhanced user experience
-- Optimize performance and accessibility
+### Phase 3: Design Enhancement and Responsiveness (Week 3)
+- **Visual design** - develop cohesive design that enhances rather than distracts from content
+- **Responsive implementation** - ensure content is accessible and readable on all devices
+- **User experience** - test navigation, readability, and content flow
+- **Content refinement** - polish writing and remediation based on web format testing
 
-### Phase 4: Testing and Launch (Week 4)
-- Comprehensive testing across devices and browsers
-- Content review and copy editing
-- Performance optimization and final polish
-- Prepare for presentation and peer review
+### Phase 4: Testing and Critical Reflection (Week 4)
+- **Comprehensive testing** across devices, browsers, and different reading contexts
+- **Critical reflection** on remediation process and digital publishing decisions
+- **Accessibility review** - ensure content is available to diverse readers and abilities
+- **Final polish** and preparation for presentation and peer review
 
 ## Assessment Approach
 
@@ -112,19 +106,19 @@ This project uses **ungraded, qualitative assessment** focused on learning and p
 Reflect on these questions throughout your development process:
 
 **Technical Mastery:**
-- How effectively does your code demonstrate HTML and CSS best practices?
-- Is your website truly responsive and accessible across devices?
-- How well does your implementation integrate skills from all four labs?
+- How effectively does your markup enhance the accessibility and usability of your content?
+- Does your responsive design genuinely improve the reading experience across devices?
+- How well does your visual design support rather than distract from your content?
 
-**Design and User Experience:**
-- Does your design successfully communicate your personal brand?
-- Is the user experience intuitive and professional?
-- How effectively do you apply design principles to create visual hierarchy?
+**Remediation and Content Strategy:**
+- How successfully have you transformed academic writing for web readership while maintaining intellectual rigor?
+- What decisions did you make about content structure, and how do they serve your readers?
+- How does your web version enhance or change the meaning and impact of your original work?
 
-**Professional Development:**
-- Would you be confident sharing this portfolio with potential employers or collaborators?
-- How well does the content represent your skills and goals?
-- What does this project demonstrate about your growth as a web developer?
+**Digital Liberal Arts Practice:**
+- What does this project demonstrate about the relationship between traditional scholarship and digital publishing?
+- How does making your work web-accessible change its potential audience and impact?
+- What critical questions about digital media, accessibility, and public scholarship does your project raise?
 
 ### Peer Review Process
 You'll participate in structured peer review sessions to:
@@ -142,85 +136,97 @@ Throughout the project, maintain documentation of:
 
 ## Professional Context and Real-World Application
 
-This portfolio project prepares you for:
-- **Job Applications**: A live portfolio demonstrating your skills
-- **Networking**: Professional online presence for industry connections  
-- **Client Work**: Understanding of complete web development process
-- **Continued Learning**: Foundation for advanced web development skills
+This remediation project prepares you for:
+- **Digital humanities** work and public scholarship initiatives
+- **Academic careers** requiring digital literacy and online presence
+- **Publishing and editing** roles involving content strategy and web publishing
+- **Communications careers** requiring ability to translate complex ideas for broader audiences
+- **Cultural institutions** (museums, libraries, nonprofits) increasingly focused on digital accessibility
 
-### Industry Standards and Best Practices
-Your portfolio should demonstrate:
-- Modern web development workflow
-- Accessibility compliance (WCAG guidelines)
-- Performance optimization techniques
-- Professional code organization and documentation
-- Version control best practices (Git/GitHub)
+### Academic and Intellectual Standards
+Your project should demonstrate:
+- **Critical thinking** about how medium shapes message and audience
+- **Content strategy** skills essential for public engagement and digital scholarship
+- **Accessibility awareness** in making academic work available to diverse readers
+- **Technical competency** in modern web development practices
+- **Ethical considerations** around attribution, accessibility, and responsible digital publishing
 
 ## Resources and Support
 
 ### Technical Resources
 - Course materials and lab references
 - MDN Web Documentation for HTML/CSS reference
-- Web accessibility guidelines and testing tools
+- Web accessibility guidelines and testing tools for academic content
 - Performance testing and optimization tools
 - Browser developer tools for debugging and testing
 
-### Design Inspiration
-- Professional portfolio websites in your field of interest
-- Design showcases (Awwwards, CSS Design Awards)
-- Typography and color palette resources
-- Professional social media profiles and personal branding examples
+### Content Development and Remediation Resources
+- Academic writing guides adapted for web readability
+- Content strategy and information architecture principles
+- Digital humanities examples and case studies
+- Web accessibility guidelines for academic content
+- Citation and attribution practices for digital publishing
 
-### Content Development
-- Professional writing guides for web content
-- Personal branding and career development resources
-- Project documentation and case study examples
-- Photography and image optimization guidance
+### Design and User Experience
+- Typography resources focused on reading experience
+- Color theory and contrast for accessibility
+- Layout principles for long-form web content
+- Responsive design patterns for content-heavy sites
 
 ## Submission and Presentation
 
 ### Final Deliverables
-- Complete, functional website hosted online (GitHub Pages, Netlify, etc.)
-- Clean, organized code repository with proper file structure
-- Documentation of development process and learning reflection
-- Preparation for brief presentation or demo
+- Complete, functional remediation website hosted online (GitHub Pages, Netlify, etc.)
+- Clean, organized code repository demonstrating web development best practices
+- **Critical reflection essay** (500-750 words) analyzing your remediation process and decisions
+- Preparation for brief presentation focusing on remediation strategy and outcomes
 
 ### Presentation Format
-- 3-5 minute demonstration of your portfolio
-- Highlight key features and design decisions
-- Discuss technical challenges and solutions
-- Share what you learned and how you'll continue developing
+- 3-5 minute demonstration of your remediated work
+- Discussion of key remediation decisions and their rationale
+- Reflection on what you learned about digital publishing and content strategy
+- Consideration of how this work might reach and serve different audiences
 
 ## Beyond the Course
 
-Your portfolio is designed to be a living document that grows with your skills and experience. Consider:
-- How will you maintain and update your portfolio?
-- What features might you add as your skills develop?
-- How can this foundation support more advanced web development learning?
-- What feedback will you gather to continue improving?
+Your remediated work is designed to have lasting value and impact:
+- **Public scholarship** - making your academic work discoverable and accessible
+- **Digital portfolio** - demonstrating both intellectual work and technical skills
+- **Foundation for further work** - skills applicable to digital humanities, academic websites, content strategy
+- **Model for future projects** - template approach for remediating other academic work
+
+Consider:
+- How might you apply these remediation skills to other academic or professional writing?
+- What additional features could enhance accessibility or reader engagement?
+- How does this foundation support continued learning in digital humanities or web development?
+- What feedback will you gather from readers to improve your digital publishing approach?
 
 ## Timeline and Milestones
 
-**Week 1: Foundation**
-- Complete planning and design phase
+**Week 1: Content Analysis and Foundation**
+- Select and analyze source material for remediation
+- Complete content planning and site architecture
 - Finish HTML structure for all pages
-- Basic CSS implementation
+- Begin content transformation for web format
 
-**Week 2: Development**
-- Complete content development and styling
-- Implement responsive design
-- Begin cross-device testing
+**Week 2: Remediation and Development**
+- Complete substantial content revision and restructuring
+- Implement CSS styling optimized for readability
+- Develop responsive design foundation
+- Begin cross-device testing for content accessibility
 
-**Week 3: Enhancement**
-- Finalize responsive implementation
+**Week 3: Enhancement and Polish**
+- Finalize responsive implementation and visual design
 - Performance and accessibility optimization
-- Peer review participation
+- Peer review participation with focus on content strategy
+- Refinement based on reader feedback
 
-**Week 4: Launch**
-- Final testing and refinement
-- Portfolio presentation
-- Launch and sharing
+**Week 4: Critical Reflection and Launch**
+- Complete critical reflection essay on remediation process
+- Final testing and content refinement
+- Project presentation focusing on digital publishing insights
+- Launch and sharing with broader audience consideration
 
 ---
 
-*This project represents the culmination of your web development learning in this course. Focus on creating something you're genuinely proud to share and that will serve your professional goals beyond the classroom.*
+*This project represents the intersection of traditional liberal arts scholarship and modern digital publishing. Focus on creating something that genuinely enhances the accessibility and impact of your intellectual work while demonstrating sophisticated understanding of web development and content strategy.*
