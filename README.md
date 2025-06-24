@@ -1,49 +1,86 @@
 # MLA60970 Assignments
 
-This repository contains lab assignments for MLA60970. Each lab is organized in its own subdirectory.
+This repository contains lab assignments and major projects for MLA60970. The course is organized into three main projects, each with preparatory lab exercises that build essential skills.
 
 ## Course Structure
 
-### Lab 1: Markdown to HTML Exercise
-**Location:** `Lab1/`
+The course follows a progressive structure where students develop web development skills through hands-on labs and apply them in comprehensive projects:
 
-This assignment helps students practice converting text with formatting cues into proper Markdown syntax.
+### Project 1: Digital Remediation and Web Publishing
+**Location:** `Project1/`
 
-**Files:**
-- `Lab1/README.md` - Assignment details and instructions
-- `Lab1/lab1.md` - Practice text and formatting reference
-- `Lab1/submission.md` - Student submission template
+Students transform existing written work into professional, multi-page websites while learning HTML/CSS fundamentals and design principles.
 
-**Key Learning Objectives:**
-- Master basic Markdown syntax
-- Understand the relationship between Markdown and HTML
-- Practice formatting text for web content
+**Preparatory Labs:**
+- `Project1/Lab1/` - Markdown to HTML Exercise
+- `Project1/Lab2/` - Website Critique and HTML/CSS Implementation
 
-### Lab 2: Website Critique and HTML/CSS Implementation
-**Location:** `Lab2/`
-
-This assignment combines design analysis with hands-on web development, requiring students to critique a website using CRAP principles and implement their analysis in HTML/CSS.
-
-**Files:**
-- `Lab2/README.md` - Assignment overview and learning objectives
-- `Lab2/lab2.md` - Complete assignment instructions
-- `Lab2/submission.md` - Submission guidelines and checklists
+**Major Project:**
+- `Project1/Prompt/` - Digital remediation project with GitHub Pages publishing
 
 **Key Learning Objectives:**
-- Apply CRAP design principles (Contrast, Repetition, Alignment, Proximity)
-- Write analytical content for web presentation
-- Hand-code semantic HTML5 documents
-- Implement CSS for typography and layout
-- Create scannable web content following UX best practices
+- Master HTML document structure and semantic elements
+- Apply basic CSS for typography, color, and layout
+- Understand CRAP design principles and web usability
+- Practice digital remediation and content strategy
+- Publish websites using GitHub Pages
+
+### Project 2: Advanced CSS Layout and Responsive Design
+**Location:** `Project2/`
+
+Students create sophisticated, responsive websites demonstrating mastery of the CSS box model, modern layout techniques, and mobile-first design principles.
+
+**Preparatory Labs:**
+- `Project2/Lab3/` - Box Model Fundamentals and Layout Basics
+- `Project2/Lab4/` - Responsive Design and Media Queries
+
+**Major Project:**
+- `Project2/Prompt/` - Advanced CSS implementation project
+
+**Key Learning Objectives:**
+- Master the CSS box model and positioning
+- Implement responsive design with media queries
+- Use CSS Grid and Flexbox for complex layouts
+- Apply mobile-first design methodology
+- Create cross-browser compatible websites
+
+### Project 3: Interactive Web Development with JavaScript
+**Location:** `Project3/`
+
+Students add interactivity and dynamic functionality to websites using introductory JavaScript programming concepts.
+
+**Preparatory Labs:**
+- `Project3/Lab5/` - JavaScript Fundamentals and DOM Basics
+- `Project3/Lab6/` - Interactive Elements and Event Handling
+
+**Major Project:**
+- `Project3/Prompt/` - Interactive web application using vanilla JavaScript
+
+**Key Learning Objectives:**
+- Understand fundamental JavaScript programming concepts
+- Manipulate the DOM and handle user events
+- Implement form validation and user feedback
+- Work with local storage for data persistence
+- Debug JavaScript using browser developer tools
 
 ## Getting Started
-1. Navigate to the appropriate lab directory
-2. Read the README file for specific instructions
-3. Complete the assignment in the designated submission file
-4. Commit and push your changes
+1. **Begin with Project 1** - Start with the fundamentals
+2. **Complete labs before projects** - Labs build essential skills
+3. **Read README files** - Each project and lab has detailed instructions
+4. **Use version control** - Commit your work regularly
+5. **Test thoroughly** - Ensure your websites work across browsers and devices
 
 ## Submission Guidelines
-- Each lab has its own submission file
-- Follow the instructions in each lab's README
+- Each lab and project has specific submission requirements
+- Follow GitHub Pages publishing instructions for projects
+- Include reflection memos as specified
 - Commit your work with meaningful messages
-- Push changes to your repository before the deadline
+- Push changes to your repository before deadlines
+
+## Course Progression
+This course takes students from basic web publishing to interactive web development:
+1. **Static Content** → HTML/CSS fundamentals and design principles
+2. **Advanced Styling** → Responsive design and modern CSS techniques  
+3. **Dynamic Functionality** → JavaScript programming and user interaction
+
+Each project builds on previous skills while introducing new concepts, preparing students for real-world web development challenges.
