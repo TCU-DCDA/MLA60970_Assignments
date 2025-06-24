@@ -38,8 +38,8 @@ Structured peer review process emphasizing both technical and content strategy f
 **Location:** `Project/`
 
 **Four Progressive Labs:**
-1. **Lab 1: Design Principles and Web Writing** → CRAP principles, web reading patterns, and content strategy for academic remediation
-2. **Lab 2: HTML Fundamentals and Semantic Implementation** → Semantic markup for scholarly content building on design insights
+1. **Lab 1: Design and Web Writing** → CRAP principles, web reading patterns, and content strategy for academic remediation
+2. **Lab 2: HTML and Design** → Semantic markup and design principles application
 3. **Lab 3: CSS Implementation of Design Principles** → Visual implementation that realizes design strategy through CSS
 4. **Lab 4: Responsive Academic Content and Final Remediation** → Cross-device optimization and launch-ready academic web presence
 
