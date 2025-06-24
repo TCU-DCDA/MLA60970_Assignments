@@ -1,4 +1,4 @@
-# Lab 1: Markdown to HTML Exercise
+# Lab 1: Markdown Exercise
 
 ## Assignment Overview
 This assignment will help you practice converting text with formatting cues into proper Markdown syntax.
@@ -29,4 +29,4 @@ This assignment will help you practice converting text with formatting cues into
 - Correct inline code formatting
 
 ## Due Date
-[Add your due date here]
+July 9, 2025 by 11:30 PM
