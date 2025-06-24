@@ -10,7 +10,7 @@ This assignment will help you practice converting text with formatting cues into
 
 ## Instructions
 1. Read through the practice text in `lab1.md`
-2. Apply the appropriate Markdown formatting based on the italicized cues
+2. Apply the appropriate Markdown formatting based on the textual cues
 3. Create your formatted version in `submission.md`
 4. Commit and push your changes
 
