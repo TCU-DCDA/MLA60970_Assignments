@@ -6,14 +6,14 @@ This lab introduces students to foundational principles of design and web writin
 
 ### 1. CRAP Principles Analysis
 - **File:** `01-CRAP_Principles_Analysis.md`
-- **Focus:** Analyze academic websites using CRAP principles (Contrast, Repetition, Alignment, Proximity).
+- **Focus:** Analyze academic and/or creative websites using CRAP principles (Contrast, Repetition, Alignment, Proximity).
 
 ### 2. Content Strategy Planning
 - **File:** `02-Content_Strategy_Planning.md`
-- **Focus:** Plan the remediation of academic work for web publication, considering audience needs and accessibility.
+- **Focus:** Plan the remediation of academic and/or creative work for web publication, considering audience needs and accessibility.
 
 ## Learning Objectives
-- Understand and apply design principles to academic content.
+- Understand and apply design principles to academic and/or creative content.
 - Develop strategies for adapting scholarly work for web audiences.
 - Explore the relationship between design, accessibility, and communication.
 

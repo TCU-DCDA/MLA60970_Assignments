@@ -1,13 +1,13 @@
-# Digital Remediation Project: Academic Work for Web Publication
+# Digital Remediation Project: Academic and/or Creative Work for Web Publication
 
 ## Overview
 
-This unified project centers on **digital remediation**—transforming existing academic or scholarly work into compelling, accessible web content. Rather than creating a career portfolio, students complete four progressive labs that build skills toward remediating significant intellectual work for broader public engagement.
+This unified project centers on **digital remediation**—transforming existing academic and/or creative work into compelling, accessible web content. Rather than creating a career portfolio, students complete four progressive labs that build skills toward remediating significant intellectual work for broader public engagement.
 
 ## Course Structure
 
 ### Four Progressive Labs
-Each lab builds foundational web development skills while working toward thoughtful academic content remediation:
+Each lab builds foundational web development skills while working toward thoughtful academic and/or creative content remediation:
 
 1. **[Lab 1: HTML Fundamentals](Lab1_HTML_Fundamentals/)** - Semantic markup for academic content and remediation planning
 2. **[Lab 2: Design Principles](Lab2_Design_Principles/)** - CRAP principles applied to scholarly communication  
@@ -15,7 +15,7 @@ Each lab builds foundational web development skills while working toward thought
 4. **[Lab 4: Responsive Design](Lab4_Responsive_Design/)** - Cross-device accessibility for academic publishing
 
 ### Final Remediation Project
-The **[main project](Prompt/project.md)** involves transforming substantial academic work (research paper, creative writing, critical analysis) into a multipage website that maintains intellectual rigor while dramatically improving public accessibility.
+The **[main project](Prompt/project.md)** involves transforming substantial academic and/or creative work (research paper, creative writing, critical analysis) into a multipage website that maintains intellectual rigor while dramatically improving public accessibility.
 
 ## Assessment Philosophy
 

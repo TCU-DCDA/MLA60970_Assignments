@@ -5,9 +5,9 @@
 
 ## Discussion Prompt
 
-### **"From Academic Writing to Web Design: What We're Learning"**
+### **"From Academic and/or Creative Writing to Web Design: What We're Learning"**
 
-Now that you've begun translating your academic work into web-friendly design and content, share your discoveries with the learning community:
+Now that you've begun translating your academic and/or creative work into web-friendly design and content, share your discoveries with the learning community:
 
 #### **1. Your Design Revelation** 
 What's one thing about design thinking or web communication that surprised you? Consider:
@@ -17,7 +17,7 @@ What's one thing about design thinking or web communication that surprised you? 
 - "Aha!" moments about accessibility or inclusive design
 
 #### **2. Your Translation Challenge** 
-What's been the most difficult aspect of adapting your academic content for web audiences? Share:
+What's been the most difficult aspect of adapting your academic and/or creative content for web audiences? Share:
 - Specific sentences or concepts that resist simplification
 - Moments when you worried about "dumbing down" your work
 - Tensions between scholarly precision and accessible communication

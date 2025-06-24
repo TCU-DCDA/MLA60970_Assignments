@@ -7,12 +7,12 @@
 
 ### **"Our Digital Scholarship Journey: Reflections and Next Steps"**
 
-As you complete your academic remediation project, take time to reflect on your learning journey and share insights with our community:
+As you complete your academic and/or creative remediation project, take time to reflect on your learning journey and share insights with our community:
 
 #### **1. Your Transformation Story** 
 How has your understanding of digital scholarship and public engagement evolved? Consider:
 - What you thought this course would be about vs. what you actually learned
-- How your relationship to your own academic work has changed
+- How your relationship to your own academic and/or creative work has changed
 - New perspectives on accessibility, audience, and scholarly communication
 - Skills you've developed that extend beyond web design
 

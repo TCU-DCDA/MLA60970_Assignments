@@ -1,4 +1,4 @@
-# Discussion 1: Academic Work and Digital Transformation
+# Discussion 1: Academic and/or Creative Work and Digital Transformation
 
 **Timing:** Week 1 - After completing Preparatory Materials, before beginning Lab 1  
 **Purpose:** Build community through shared academic interests and establish motivation for digital remediation

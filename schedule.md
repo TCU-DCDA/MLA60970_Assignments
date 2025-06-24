@@ -23,7 +23,7 @@
 - **Assignments Due:**
   - Content Strategy Planning (`Lab1_Design_and_Web_Writing/Content_Strategy_Planning.md`)
 - **Discussion Prompt:**
-  - **Topic:** Academic Work and Digital Transformation
+  - **Topic:** Academic and/or Creative Work and Digital Transformation
   - **Initial Post Due:** Wednesday, July 9
   - **Peer Responses Due:** Friday, July 11
 
@@ -75,7 +75,7 @@
 - **Assignments Due:**
   - Responsive Design Progress Check (`Lab4_Responsive_Design`)
 
-## Week 3: Integration and Academic Content Development
+## Week 3: Integration and Academic and/or Creative Content Development
 
 ### Monday, July 21
 - **Videos to Watch:**
@@ -107,7 +107,7 @@
 - **Assignments Due:**
   - Final Refinements Progress Check (`Project/Prompt`)
 
-## Week 4: Finalization and Academic Web Presence Launch
+## Week 4: Finalization and Academic and/or Creative Web Presence Launch
 
 ### Monday, July 28
 - **Videos to Watch:**

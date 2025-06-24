@@ -1,11 +1,11 @@
 # MLA60970 Assignments
 
-This repository contains the course structure for MLA60970, optimized for a **4-week intensive summer format** and focused on **digital remediation** of academic work. The course centers on transforming existing scholarly writing into accessible web content while building foundational web development skills.
+This repository contains the course structure for MLA60970, optimized for a **4-week intensive summer format** and focused on **digital remediation** of academic and/or creative work. The course centers on transforming existing scholarly writing into accessible web content while building foundational web development skills.
 
 ## Course Structure Overview
 
 ### Realistic Scope for 4-Week Intensive
-Rather than multiple separate projects, this course focuses on **digital remediation of academic work**:
+Rather than multiple separate projects, this course focuses on **digital remediation of academic and/or creative work**:
 - Transforms existing scholarly writing for web publication and broader accessibility
 - Integrates technical web development skills with digital liberal arts practice
 - Emphasizes public scholarship and community engagement through digital publishing
@@ -17,10 +17,10 @@ Rather than multiple separate projects, this course focuses on **digital remedia
 Essential setup and onboarding for professional web development workflow
 
 **Progressive Skill Building** → `Project/Lab1_HTML_Fundamentals/` through `Project/Lab4_Responsive_Design/`
-Four interconnected labs that build toward successful academic content remediation
+Four interconnected labs that build toward successful academic and/or creative content remediation
 
 **Digital Remediation Project** → `Project/Prompt/`
-Comprehensive transformation of academic work into accessible web publication
+Comprehensive transformation of academic and/or creative work into accessible web publication
 
 **Collaborative Learning** → `Project/PeerReview/` and `Project/RoughDraft_PeerReview/`
 Structured peer review process emphasizing both technical and content strategy feedback
@@ -44,7 +44,7 @@ Structured peer review process emphasizing both technical and content strategy f
 4. **Lab 4: Responsive Academic Content and Final Remediation** → Cross-device optimization and launch-ready academic web presence
 
 **Remediation Project:**
-- **Project Prompt** → Transform substantial academic work into accessible web publication
+- **Project Prompt** → Transform substantial academic and/or creative work into accessible web publication
 - **Peer Review Process** → Feedback on both technical implementation and content strategy
 - **Critical Reflection** → Analysis of digital publishing decisions and scholarly communication ethics
 
@@ -66,7 +66,7 @@ Students will develop proficiency in:
 
 ### Digital Liberal Arts Skills
 - **Design Thinking**: Understanding how CRAP principles and web reading patterns apply to scholarly communication
-- **Content Strategy**: Transforming academic writing for web audiences while maintaining intellectual rigor and accessibility
+- **Content Strategy**: Transforming academic and/or creative writing for web audiences while maintaining intellectual rigor and accessibility
 - **Public Scholarship**: Making scholarly work accessible to broader communities through thoughtful digital design and implementation
 - **Critical Analysis**: Understanding how design choices and technical implementation shape scholarly communication and audience engagement
 - **Accessibility Ethics**: Ensuring academic content serves diverse audiences through inclusive design and technical implementation
