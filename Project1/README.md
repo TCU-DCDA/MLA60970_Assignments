@@ -15,23 +15,23 @@ By completing this project, students will:
 
 ## Core Skills Development
 
-### 1. HTML Fundamentals
+### 1. Design Principles Application
+- **CRAP Principles:** Contrast, Repetition, Alignment, Proximity
+- **Reading Gravity:** Understanding how users scan web content
+- **Scannability:** Creating content that's easy to read and navigate
+- **Visual Consistency:** Maintaining coherent design across multiple pages
+
+### 2. HTML Fundamentals
 - **Document Structure:** Proper use of `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
 - **Semantic Elements:** `<header>`, `<main>`, `<section>`, `<article>`, `<footer>`
 - **Content Elements:** Headings, paragraphs, lists, links, images
 - **Accessibility:** Alt text, proper heading hierarchy, meaningful link text
 
-### 2. CSS Basics
+### 3. CSS Basics
 - **Typography:** Font families, sizes, weights, and line heights
 - **Color and Contrast:** Text color, background color, accessibility considerations
 - **Basic Layout:** Margins, padding, text alignment, width control
 - **Visual Hierarchy:** Using size, weight, and spacing to guide readers
-
-### 3. Design Principles Application
-- **CRAP Principles:** Contrast, Repetition, Alignment, Proximity
-- **Reading Gravity:** Understanding how users scan web content
-- **Scannability:** Creating content that's easy to read and navigate
-- **Visual Consistency:** Maintaining coherent design across multiple pages
 
 ### 4. Content Strategy
 - **Digital Remediation:** Adapting written work for web presentation
