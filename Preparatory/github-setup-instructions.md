@@ -123,7 +123,11 @@ If you prefer to work locally on your computer:
 
 ### Getting Help
 - **GitHub Documentation:** [docs.github.com](https://docs.github.com)
-- **GitHub Learning Lab:** Free interactive courses on GitHub basics
+- **GitHub Learning Lab:** [GitHub Skills](https://skills.github.com/) - Free interactive courses
+- **GitHub Pages Tutorial:** [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)
+- **Git Handbook:** [Git Handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
+- **Markdown Guide:** [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+- **GitHub Desktop (Optional):** [GitHub Desktop Tutorial](https://docs.github.com/en/desktop)
 - **Class Resources:** Review course materials and examples
 - **Office Hours:** Ask questions about specific technical issues
 - **Peer Support:** Collaborate with classmates (when appropriate)
@@ -166,5 +170,48 @@ If you prefer to work locally on your computer:
 - **Collaboration:** Learn industry-standard development workflows
 - **Version Control:** Essential skill for any digital project work
 
+## Additional Learning Resources
+
+### Essential Tutorials for This Course
+
+#### GitHub Basics
+- **[GitHub Hello World Guide](https://guides.github.com/activities/hello-world/)** - 10-minute introduction to repositories, branches, commits
+- **[Git and GitHub for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)** - Comprehensive beginner tutorial
+- **[GitHub Flow Guide](https://guides.github.com/introduction/flow/)** - Understanding the GitHub workflow
+
+#### GitHub Pages Specific
+- **[GitHub Pages Documentation](https://docs.github.com/en/pages)** - Complete guide to hosting websites
+- **[GitHub Pages Tutorial Video](https://www.youtube.com/watch?v=2MsN8gpT6jY)** - Visual walkthrough of setup process
+- **[Custom Domain Setup](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)** - For advanced users
+
+#### HTML/CSS Resources (For Upcoming Projects)
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)** - Authoritative web development tutorials
+- **[HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)** - Foundation for Project 1
+- **[CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)** - Essential for all projects
+- **[W3Schools HTML Tutorial](https://www.w3schools.com/html/)** - Interactive learning with examples
+
+#### Markdown (For Documentation)
+- **[Markdown Tutorial](https://www.markdowntutorial.com/)** - Interactive lesson
+- **[GitHub Flavored Markdown](https://github.github.com/gfm/)** - Specific to GitHub
+- **[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)** - Quick reference
+
+#### Text Editors and Tools
+- **[Visual Studio Code](https://code.visualstudio.com/)** - Recommended code editor
+- **[VS Code GitHub Integration](https://code.visualstudio.com/docs/editor/github)** - Working with GitHub in VS Code
+- **[Browser Developer Tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)** - Essential for debugging
+
+### Video Tutorials (YouTube)
+- **[GitHub for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)** - Complete overview (30 minutes)
+- **[GitHub Pages Tutorial](https://www.youtube.com/watch?v=BA_c3bGQXlQ)** - Step-by-step hosting guide
+- **[HTML & CSS Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)** - Preparation for projects
+
+### Practice and Reference
+- **[Can I Use](https://caniuse.com/)** - Check browser support for web features
+- **[HTML Validator](https://validator.w3.org/)** - Check your HTML code
+- **[CSS Validator](https://jigsaw.w3.org/css-validator/)** - Validate your CSS
+- **[Lorem Ipsum Generator](https://www.lipsum.com/)** - Placeholder text for design
+- **[Unsplash](https://unsplash.com/)** - Free high-quality images for projects
+
 ---
+
 *Take time to familiarize yourself with GitHub - it's an investment in your professional development that extends far beyond this course.*
