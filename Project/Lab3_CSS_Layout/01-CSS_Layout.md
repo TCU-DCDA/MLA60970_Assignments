@@ -7,9 +7,9 @@ Building on the design principles from Lab 1 and semantic HTML structure from La
 By completing this lab, students will:
 - Implement CRAP design principles (Contrast, Repetition, Alignment, Proximity) through CSS
 - Create visual hierarchy that supports F-pattern and layer cake reading
-- Master CSS layout techniques for academic and scholarly content presentation
+- Master CSS layout techniques for academic and scholarly and/or creative content presentation
 - Build responsive layouts that maintain accessibility across devices
-- Apply typography and spacing principles for enhanced scholarly communication
+- Apply typography and spacing principles for enhanced communication
 
 ## Lab Exercises
 
@@ -30,7 +30,7 @@ Apply the design analysis from Lab 1 by implementing CRAP principles using CSS o
 - Develop consistent styling patterns for headings, paragraphs, lists, and quotes
 - Create a cohesive color scheme that reinforces academic credibility
 - Use consistent spacing and alignment throughout your content
-- Establish visual patterns that help readers navigate your scholarly content
+- Establish visual patterns that help readers navigate your scholarly and/or creative content
 
 **Alignment Implementation:**
 - Use CSS Grid or Flexbox to create clear visual relationships between content elements
@@ -78,14 +78,14 @@ Create layouts that support your multi-page academic remediation project from La
 
 **Requirements:**
 - Use CSS Grid and/or Flexbox to implement the page structure you planned in Labs 1-2
-- Create layouts specifically designed for scholarly content presentation
+- Create layouts specifically designed for scholarly and/or creative content presentation
 - Build navigation systems that support non-linear academic reading
 
 **Layout Components for Academic Content:**
 1. **Article Layout**: Main content with related resources sidebar
 2. **Bibliography/References Layout**: Accessible formatting for academic citations
 3. **Multi-page Navigation**: Clear wayfinding between sections of your remediated content
-4. **Responsive Academic Layout**: Ensure scholarly content works across devices
+4. **Responsive Academic Layout**: Ensure content works across devices
 
 **CSS Layout Techniques:**
 - CSS Grid for complex academic page layouts
@@ -97,7 +97,7 @@ Create layouts that support your multi-page academic remediation project from La
 **Assessment for Exercise 3:**
 - Test layouts with actual academic content from your remediation project
 - Ensure designs support both linear and non-linear reading patterns
-- Document how layout choices enhance scholarly communication goals
+- Document how layout choices enhance communication goals
 
 ### Exercise 4: Accessibility and Inclusive Design Implementation
 Ensure your CSS implementation supports diverse users and meets accessibility standards for academic content.
@@ -123,7 +123,7 @@ Ensure your CSS implementation supports diverse users and meets accessibility st
 **Assessment for Exercise 4:**
 - Use accessibility testing tools to validate your implementation
 - Test with actual users who have different abilities and technical setups
-- Document how your CSS choices specifically support scholarly accessibility goals
+- Document how your CSS choices specifically support accessibility goals
 
 ### Exercise 5: Integration and Refinement
 Bring together all elements from Labs 1-3 to create a cohesive, well-designed academic web presence.
@@ -204,7 +204,7 @@ This lab builds expertise in:
 This lab completes the design and technical foundation for your academic remediation project. Your CSS implementation should:
 - Fully realize the design strategy developed in Lab 1
 - Effectively style the semantic HTML structure created in Lab 2
-- Create an accessible, engaging presentation of your scholarly content
+- Create an accessible, engaging presentation of your scholarly and/or creative content
 - Prepare your project for the final responsive refinements in Lab 4
 
 *This lab bridges design theory and technical implementation, creating a foundation for sophisticated digital scholarship presentation.*

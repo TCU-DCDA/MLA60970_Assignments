@@ -10,7 +10,7 @@ This primer introduces key concepts that will help you succeed in MLA60970's des
 Digital scholarship involves using digital tools and platforms to:
 - **Enhance accessibility** of your research and ideas
 - **Engage broader audiences** beyond traditional academic circles
-- **Create interactive and multimedia** presentations of scholarly work
+- **Create interactive and multimedia** presentations of scholarly and/or creative work
 - **Foster public dialogue** around important intellectual questions
 - **Preserve and share** cultural and academic knowledge
 
@@ -35,14 +35,14 @@ When you move academic content to the web, you serve multiple audiences:
 - Educated general readers interested in your topics
 - Journalists and media professionals
 - Policy makers and community leaders
-- International readers accessing scholarly content
+- International readers accessing content
 - People using assistive technologies or different devices
 
 ### Accessibility as Academic Responsibility
 Academic accessibility means:
 - **Intellectual Accessibility**: Making complex ideas understandable without sacrificing rigor
 - **Technical Accessibility**: Ensuring content works for people with different abilities and technologies
-- **Economic Accessibility**: Providing free, open access to scholarly knowledge
+- **Economic Accessibility**: Providing free, open access to scholarly and/or creative knowledge
 - **Cultural Accessibility**: Considering diverse cultural and linguistic contexts
 
 ## Why Design Matters for Academic Credibility
@@ -93,7 +93,7 @@ Academic web design IS about:
 
 ### Skills You'll Develop:
 - **Design thinking** applied to academic communication challenges
-- **User experience** awareness for scholarly content
+- **User experience** awareness for content
 - **Technical implementation** of accessibility and professional presentation
 - **Content strategy** for transforming academic writing for web audiences
 - **Professional web development** skills for academic career development
@@ -109,7 +109,7 @@ Academic web design IS about:
 ### Questions to Consider
 As you begin the course, reflect on:
 - What academic work do you want to make more accessible to broader audiences?
-- Who might benefit from web-accessible versions of your scholarly work?
+- Who might benefit from web-accessible versions of your scholarly and/or creative work?
 - What barriers currently prevent non-academic audiences from engaging with your ideas?
 - How might thoughtful design enhance rather than compromise your academic credibility?
 
@@ -119,7 +119,7 @@ As you begin the course, reflect on:
 This primer prepares you for:
 - **Lab 1**: Analyzing design principles in academic websites and planning content strategy
 - **Lab 2**: Implementing semantic structure that supports both design and accessibility
-- **Lab 3**: Using CSS to create professional, accessible presentation of scholarly content
+- **Lab 3**: Using CSS to create professional, accessible presentation of scholarly and/or creative content
 - **Lab 4**: Ensuring your academic web presence works effectively across all devices and contexts
 
 ### Beyond This Course

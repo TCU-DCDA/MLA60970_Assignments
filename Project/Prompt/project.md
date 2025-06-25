@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Your final project is to transform existing written work that you're particularly proud of—a research paper, creative writing, critical analysis, or scholarly work—into a compelling, accessible multipage website for public readership. This digital remediation project integrates technical web development skills with critical thinking about how ideas travel across media, audiences, and contexts.
+Your final project is to transform existing written work that you're particularly proud of—a research paper, creative writing, critical analysis, or scholarly and/or creative work—into a compelling, accessible multipage website for public readership. This digital remediation project integrates technical web development skills with critical thinking about how ideas travel across media, audiences, and contexts.
 
 Throughout the four progressive labs, you've built foundational skills in HTML structure, design principles, CSS layout, and responsive design. This project applies those skills to explore how academic and/or creative work can reach broader audiences through thoughtful digital publishing.
 

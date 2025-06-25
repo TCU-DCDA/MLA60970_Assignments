@@ -10,7 +10,7 @@
 Share a brief introduction that helps our learning community understand your academic journey and goals for this course:
 
 #### **1. Your Academic Background** 
-What's your field or area of focus in the MLA program? What drew you to these topics? What questions or problems drive your scholarly interests?
+What's your field or area of focus in the MLA program? What drew you to these topics? What questions or problems drive your scholarly and/or creative interests?
 
 #### **2. Your Content Audit Reflection** 
 Without revealing your final choice yet, describe 2-3 pieces of your academic work you considered for the remediation project. What made these pieces meaningful to you? What intellectual challenges or discoveries do they represent?
@@ -25,7 +25,7 @@ Who do you hope might benefit from a web-accessible version of your work? Consid
 - Students encountering these ideas for the first time
 - Community members affected by your research topic
 - Fellow researchers in related fields
-- General public interested in scholarly perspectives
+- General public interested in scholarly and/or creative perspectives
 - International audiences seeking expert knowledge
 
 #### **5. Design Thinking Preview**

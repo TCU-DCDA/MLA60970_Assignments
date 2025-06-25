@@ -1,7 +1,7 @@
 # Lab 4: Responsive Academic Content and Final Remediation
 
 ## Assignment Overview
-This final lab brings together design principles, semantic HTML, and CSS implementation to create a fully responsive academic web presence. You'll optimize your scholarly content for all devices while maintaining the accessibility and engagement goals established in Labs 1-3.
+This final lab brings together design principles, semantic HTML, and CSS implementation to create a fully responsive academic web presence. You'll optimize your scholarly and/or creative content for all devices while maintaining the accessibility and engagement goals established in Labs 1-3.
 
 ## Learning Objectives
 By completing this lab, students will:
@@ -18,7 +18,7 @@ Implement responsive design that prioritizes academic content accessibility acro
 
 **Mobile-First Academic Considerations:**
 - **Reading Priority**: Ensure core academic arguments are immediately accessible on small screens
-- **Navigation Efficiency**: Create intuitive wayfinding for scholarly content on touch devices
+- **Navigation Efficiency**: Create intuitive wayfinding for content on touch devices
 - **Scholarly Credibility**: Maintain professional academic presentation at all screen sizes
 - **Accessibility First**: Prioritize diverse access needs in your responsive implementation
 
@@ -40,11 +40,11 @@ Implement responsive design that prioritizes academic content accessibility acro
 
 **Assessment for Exercise 1:**
 - Test your responsive academic content with readers using different devices
-- Document how mobile-first principles serve rather than compromise scholarly communication
+- Document how mobile-first principles serve rather than compromise communication
 - Analyze how your responsive strategy addresses the diverse contexts of academic reading
 
 ### Exercise 2: Responsive Academic Layout Systems
-Create flexible layout systems specifically designed for scholarly content presentation.
+Create flexible layout systems specifically designed for scholarly and/or creative content presentation.
 
 **Academic Layout Requirements:**
 - **Multi-Page Navigation**: Responsive system for moving between sections of your remediated academic work
@@ -62,16 +62,16 @@ Create flexible layout systems specifically designed for scholarly content prese
 Choose CSS Grid or Flexbox to create:
 - Responsive academic article layouts
 - Flexible bibliography and citation systems
-- Adaptive navigation for multi-page scholarly projects
+- Adaptive navigation for multi-page scholarly and/or creative projects
 - Scalable systems for images, quotes, and multimedia academic content
 
 **Assessment for Exercise 2:**
 - Test layouts with actual academic content and diverse readers
-- Ensure responsive design enhances rather than compromises scholarly communication
+- Ensure responsive design enhances rather than compromises communication
 - Document how layout choices serve different academic reading contexts and goals
 
 ### Exercise 3: Responsive Academic Media and Enhancement
-Optimize images, multimedia, and interactive elements for scholarly content across devices.
+Optimize images, multimedia, and interactive elements for scholarly and/or creative content across devices.
 
 **Academic Media Responsive Strategy:**
 - **Scholarly Images**: Charts, graphs, historical documents, or illustrations that support academic arguments
@@ -97,7 +97,7 @@ Optimize images, multimedia, and interactive elements for scholarly content acro
 - Verify that multimedia enhancements support rather than distract from academic content
 
 ### Exercise 4: Advanced Responsive Features for Academic Engagement
-Build sophisticated responsive components that enhance scholarly communication and accessibility.
+Build sophisticated responsive components that enhance communication and accessibility.
 
 **Advanced Academic Components:**
 1. **Responsive Academic Navigation**
@@ -123,7 +123,7 @@ Build sophisticated responsive components that enhance scholarly communication a
 
 **Assessment for Exercise 4:**
 - Test advanced components with diverse academic audiences and devices
-- Ensure enhanced features support rather than complicate scholarly communication
+- Ensure enhanced features support rather than complicate communication
 - Verify that progressive enhancement maintains core accessibility goals
 
 ### Exercise 5: Final Integration and Academic Web Presence Launch
@@ -166,7 +166,7 @@ Complete your academic remediation project with comprehensive testing, optimizat
 **Proficient (Good Understanding):**
 - Effective responsive design that maintains academic credibility across all devices
 - Good integration of design principles, semantic HTML, and responsive CSS from previous labs
-- Responsive features enhance rather than compromise scholarly content accessibility
+- Responsive features enhance rather than compromise content accessibility
 - Systematic testing approach with attention to diverse academic user needs
 - Professional-level responsive academic web presence
 
@@ -194,7 +194,7 @@ This lab develops skills essential for:
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) for academic sites
 - [WebPageTest](https://www.webpagetest.org/) for performance analysis
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-- Examples of responsive academic and scholarly websites
+- Examples of responsive academic websites
 
 ## Real-World Academic Connection
 Study responsive design implementations on:
@@ -221,7 +221,7 @@ Analyze how these sites handle:
 This lab completes your academic remediation project by:
 - Creating a fully responsive, accessible academic web presence
 - Integrating design principles, semantic structure, and responsive implementation
-- Preparing your scholarly content for broader public engagement
+- Preparing your scholarly and/or creative content for broader public engagement
 - Demonstrating mastery of digital scholarship tools and techniques
 - Providing a model for ongoing academic web development and public scholarship
 

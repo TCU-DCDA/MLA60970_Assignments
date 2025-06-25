@@ -2,7 +2,7 @@
 
 ## Introduction: Why Academics Need Design Thinking
 
-Design thinking isn't about making things pretty—it's about making ideas accessible, understandable, and engaging. For academics, design thinking provides a framework for transforming complex scholarly work into content that serves broader audiences while maintaining intellectual rigor.
+Design thinking isn't about making things pretty—it's about making ideas accessible, understandable, and engaging. For academics, design thinking provides a framework for transforming complex scholarly and/or creative work into content that serves broader audiences while maintaining intellectual rigor.
 
 ## Core Principles of User-Centered Design for Academic Content
 

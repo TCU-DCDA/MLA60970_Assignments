@@ -1,12 +1,12 @@
 # MLA60970 Assignments
 
-This repository contains the course structure for MLA60970, optimized for a **4-week intensive summer format** and focused on **digital remediation** of academic and/or creative work. The course centers on transforming existing scholarly writing into accessible web content while building foundational web development skills.
+This repository contains the course structure for MLA60970, optimized for a **4-week intensive summer format** and focused on **digital remediation** of academic and/or creative work. The course centers on transforming existing scholarly and/or creative writing into accessible web content while building foundational web development skills.
 
 ## Course Structure Overview
 
 ### Realistic Scope for 4-Week Intensive
 Rather than multiple separate projects, this course focuses on **digital remediation of academic and/or creative work**:
-- Transforms existing scholarly writing for web publication and broader accessibility
+- Transforms existing scholarly and/or creative writing for web publication and broader accessibility
 - Integrates technical web development skills with digital liberal arts practice
 - Emphasizes public scholarship and community engagement through digital publishing
 - Appropriate scope and intellectual focus for Master of Liberal Arts students
@@ -59,7 +59,7 @@ Structured peer review process emphasizing both technical and content strategy f
 
 ### Technical Skills
 Students will develop proficiency in:
-- **HTML5**: Semantic markup optimized for academic and scholarly content
+- **HTML5**: Semantic markup optimized for academic content
 - **CSS3**: Typography and layout techniques that prioritize readability and accessibility
 - **Web Design**: CRAP principles applied to scholarly communication and public engagement
 - **Professional Workflow**: Version control, testing, and deployment for academic web publishing
@@ -67,7 +67,7 @@ Students will develop proficiency in:
 ### Digital Liberal Arts Skills
 - **Design Thinking**: Understanding how CRAP principles and web reading patterns apply to scholarly communication
 - **Content Strategy**: Transforming academic and/or creative writing for web audiences while maintaining intellectual rigor and accessibility
-- **Public Scholarship**: Making scholarly work accessible to broader communities through thoughtful digital design and implementation
+- **Public Scholarship**: Making scholarly and/or creative work accessible to broader communities through thoughtful digital design and implementation
 - **Critical Analysis**: Understanding how design choices and technical implementation shape scholarly communication and audience engagement
 - **Accessibility Ethics**: Ensuring academic content serves diverse audiences through inclusive design and technical implementation
 
@@ -87,25 +87,25 @@ Students will develop proficiency in:
 ### Week 2: Visual Implementation and Layout
 **Days 6-8: CSS Design Implementation**
 - Lab 3: CSS implementation of CRAP principles and typography for academic content
-- Build visual hierarchy and reading experience that supports scholarly communication
+- Build visual hierarchy and reading experience that supports communication
 - Implement design strategy through professional CSS techniques
 
 **Days 9-10: Responsive Academic Design**
-- Lab 4: Mobile-first responsive design for scholarly content across all devices
+- Lab 4: Mobile-first responsive design for content across all devices
 - Complete responsive implementation that maintains academic credibility and accessibility
 - Test and refine academic web presence for diverse reading contexts
 
 ### Week 3: Integration and Academic Content Development
 **Days 11-12: Digital Remediation Project Integration**
 - Integrate all lab skills into cohesive academic web presence
-- Focus on scholarly content development, accessibility, and professional presentation
+- Focus on scholarly and/or creative content development, accessibility, and professional presentation
 - Prepare complete academic remediation project for peer review
 - Prepare rough draft for peer review
 
 **Days 13-15: Peer Review Process**
 - Submit rough draft academic remediation project with reflection documentation
 - Participate in structured peer review focusing on both design strategy and technical implementation
-- Receive and provide constructive feedback on scholarly web communication and accessibility
+- Receive and provide constructive feedback on scholarly and/or creative web communication and accessibility
 
 ### Week 4: Finalization and Academic Web Presence Launch
 **Days 16-18: Implementation and Accessibility Testing**
@@ -138,7 +138,7 @@ This course emphasizes **learning and professional development** over traditiona
 ### Professional Skills Development
 Assessment criteria align with both industry expectations and academic communication goals:
 - **Design thinking** integrated with technical competency in HTML, CSS, and responsive design
-- **User experience considerations** specifically applied to scholarly content and accessibility
+- **User experience considerations** specifically applied to content and accessibility
 - **Professional communication** and collaboration abilities in academic and digital contexts
 - **Project management** and iterative development processes for digital scholarship projects
 

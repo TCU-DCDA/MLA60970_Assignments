@@ -165,7 +165,7 @@ Create guidelines for how you'll adapt your content while maintaining its integr
 3. **Evidence and Support**
    - How will you handle citations and references for web?
    - What evidence needs more context for general audiences?
-   - How will you maintain scholarly/creative credibility?
+   - How will you maintain scholarly and/or creative credibility?
 
 **Deliverable:** Content adaptation guidelines document.
 
@@ -244,7 +244,7 @@ After completing your content strategy planning, reflect on these questions:
 ### Academic/Creative Remediation Examples
 - [Digital Humanities Projects](https://example.com) - Examples of academic work remediated for web
 - [Creative Writing Online](https://example.com) - Creative work adapted for digital publication
-- [Open Access Initiatives](https://example.com) - Making scholarly work publicly accessible
+- [Open Access Initiatives](https://example.com) - Making scholarly and/or creative work publicly accessible
 
 ### Web Reading and Usability
 - [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/)

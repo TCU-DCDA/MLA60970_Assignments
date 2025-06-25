@@ -14,7 +14,7 @@ This lab introduces students to foundational principles of design and web writin
 
 ## Learning Objectives
 - Understand and apply design principles to academic and/or creative content.
-- Develop strategies for adapting scholarly work for web audiences.
+- Develop strategies for adapting scholarly and/or creative work for web audiences.
 - Explore the relationship between design, accessibility, and communication.
 
 ## Resources

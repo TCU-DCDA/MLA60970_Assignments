@@ -22,7 +22,7 @@
 - **Lab 2: HTML Fundamentals and Semantic Implementation**
   - Builds on Lab 1 design insights
   - Markdown to HTML with design awareness
-  - Semantic markup for scholarly content
+  - Semantic markup for content
   - Multi-page structure planning
   - File: `/Project/Lab2_HTML_Fundamentals/lab1.md`
 
@@ -106,7 +106,7 @@
 - Focus on user experience and accessibility from start
 
 ### **Academic Context Integration**
-- All examples and exercises use scholarly content
+- All examples and exercises use content
 - Emphasis on credibility and accessibility for academic audiences
 - Preparation for digital humanities and public scholarship careers
 
@@ -232,4 +232,4 @@
 
 ---
 
-**Course Philosophy:** *Transform academic writing into accessible, engaging digital scholarship through design-driven web development that serves both scholarly credibility and public accessibility.*
+**Course Philosophy:** *Transform academic writing into accessible, engaging digital scholarship through design-driven web development that serves both scholarly and/or creative credibility and public accessibility.*

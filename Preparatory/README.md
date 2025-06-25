@@ -36,7 +36,7 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 ### [Design Thinking for Academics](design-thinking-prep.md)
 **Time Required:** 20-25 minutes  
 **Purpose:** Prepare for Lab 1's design-first approach
-- User-centered design principles for scholarly content
+- User-centered design principles for content
 - How design serves accessibility and engagement goals
 - Visual literacy basics for academic communication
 - Preparation for analyzing academic websites
@@ -63,7 +63,7 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 Complete all preparatory materials to understand:
 - Why design matters for academic communication
 - How to analyze academic websites effectively
-- What makes scholarly content accessible online
+- What makes content accessible online
 - Which of your academic work to transform
 
 ### Connection to Course Labs
@@ -71,7 +71,7 @@ These materials prepare you for:
 - **Lab 1**: Design analysis and content strategy
 - **Lab 2**: HTML implementation of design insights
 - **Lab 3**: CSS styling that serves academic goals
-- **Lab 4**: Responsive design for scholarly content
+- **Lab 4**: Responsive design for content
 
 ## Time Investment
 

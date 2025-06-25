@@ -130,4 +130,4 @@ Use this reflection as the foundation for:
 
 ---
 
-*This discussion marks not an ending but a beginning. You've developed valuable skills in digital scholarship, accessibility, and public engagement that can serve your academic mission throughout your career. Celebrate your growth and carry these capabilities forward into all your scholarly work.*
+*This discussion marks not an ending but a beginning. You've developed valuable skills in digital scholarship, accessibility, and public engagement that can serve your academic mission throughout your career. Celebrate your growth and carry these capabilities forward into all your scholarly and/or creative work.*

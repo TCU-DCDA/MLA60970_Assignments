@@ -227,7 +227,7 @@ Clear takeaways and next steps
 
 **Web Adaptation DOES Mean:**
 - Making complex ideas more accessible
-- Providing better user experience for scholarly content
+- Providing better user experience for content
 - Expanding audience without compromising quality
 - Using design to support rather than compete with content
 

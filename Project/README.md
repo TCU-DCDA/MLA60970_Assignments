@@ -46,12 +46,12 @@ By completing this project sequence, students will:
 - Create semantic, accessible HTML documents optimized for academic content
 - Implement CSS layouts and responsive design that prioritize readability
 - Apply design principles to enhance rather than distract from intellectual content
-- Use modern web development tools and workflows for scholarly publishing
+- Use modern web development tools and workflows for scholarly and/or creative publishing
 - Debug and optimize websites for performance and cross-browser compatibility with content-heavy sites
 
 ### Digital Liberal Arts Skills
 - Transform academic writing for web audiences while maintaining intellectual rigor
-- Apply content strategy principles to make scholarly work more accessible
+- Apply content strategy principles to make scholarly and/or creative work more accessible
 - Understand how medium shapes message in digital vs. print scholarly communication
 - Practice public scholarship and community engagement through digital publishing
 - Develop critical perspective on digital humanities and online academic presence
@@ -98,27 +98,27 @@ This project prepares students for:
 ### Technical Documentation
 - Lab-specific resources focused on academic content needs
 - HTML/CSS references for content-heavy, reading-optimized sites
-- Web accessibility guidelines specifically for scholarly content
+- Web accessibility guidelines specifically for content
 - Performance optimization for text-heavy academic websites
 
 ### Content Strategy and Remediation Resources
 - Digital humanities examples and case studies
 - Academic writing guides adapted for web publishing
-- Content strategy principles for educational and scholarly content
+- Content strategy principles for educational content
 - Citation and attribution practices for digital academic work
 
 ### Design and User Experience
 - Typography resources optimized for reading complex content
 - Color theory and accessibility for academic audiences
-- Layout principles for long-form scholarly content
-- Examples of successful academic and scholarly websites
+- Layout principles for long-form content
+- Examples of successful academic websites
 
 ## Beyond the Course
 
 Your remediated academic work is designed for lasting impact:
 - **Public scholarship** - making your intellectual work discoverable and accessible
-- **Academic portfolio component** - demonstrating both scholarly work and digital skills
-- **Foundation for digital humanities** - skills applicable to further scholarly web projects
+- **Academic portfolio component** - demonstrating both scholarly and/or creative work and digital skills
+- **Foundation for digital humanities** - skills applicable to further scholarly and/or creative web projects
 - **Model for future remediation** - approach you can apply to other academic work
 
 ## Getting Started

@@ -1,7 +1,7 @@
 # Lab 1: Design Principles and Web Writing for Academic Content
 
 ## Assignment Overview
-This foundational lab introduces essential concepts for making academic content accessible and engaging in digital environments. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform scholarly work for web audiences.
+This foundational lab introduces essential concepts for making academic content accessible and engaging in digital environments. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform scholarly and/or creative work for web audiences.
 
 ## Learning Objectives
 By completing this lab, students will:
@@ -94,7 +94,7 @@ This lab emphasizes skills directly applicable to:
 ## Resources and Tools
 - [Google Fonts](https://fonts.google.com/) with focus on reading-optimized typefaces
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) for accessibility
-- Examples of successful academic and scholarly websites
+- Examples of successful academic websites
 - [Typography resources for academic content](https://practicaltypography.com/)
 - Digital humanities project showcases for design inspiration
 
@@ -105,4 +105,4 @@ This lab emphasizes skills directly applicable to:
 - Submit design planning documents for remediation project
 - Include reflection on how design principles specifically serve academic content and audiences
 
-*This lab develops critical design analysis skills while building practical CSS implementation abilities specifically focused on scholarly and academic content needs.*
+*This lab develops critical design analysis skills while building practical CSS implementation abilities specifically focused on academic content needs.*
