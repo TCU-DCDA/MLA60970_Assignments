@@ -1,20 +1,20 @@
-# Lab 1: Design Principles and Web Writing for Academic Content
+# Lab 1: Design Principles and Web Writing
 
 ## Assignment Overview
-This foundational lab introduces essential concepts for making academic content accessible and engaging in digital environments. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform scholarly and/or creative work for web audiences.
+This foundational lab introduces essential concepts for making your ideas accessible and engaging online. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform your academic and/or creative work for web audiences.
 
 ## Learning Objectives
 By completing this lab, students will:
-- Understand CRAP design principles and their application to scholarly communication
-- Analyze web reading patterns (F-pattern, layer cake) and their implications for academic content
+- Understand CRAP design principles and how they make websites more effective
+- Analyze web reading patterns (F-pattern, layer cake) and what they mean for your content
 - Apply web writing principles to make complex ideas more accessible
-- Evaluate how design choices affect the accessibility and impact of intellectual work
-- Begin planning content strategy for academic remediation projects
+- Evaluate how design choices affect whether people can find and understand your work
+- Begin planning how to share your own work online
 
 ## Lab Exercises
 
-### Exercise 1: CRAP Principles Analysis for Academic Content
-Learn the foundation design principles by analyzing how they affect scholarly communication.
+### Exercise 1: CRAP Principles Analysis
+Learn the foundation design principles by analyzing how they work on real websites.
 
 **The CRAP Principles:**
 - **Contrast**: Visual differences that create hierarchy and guide attention
@@ -23,11 +23,11 @@ Learn the foundation design principles by analyzing how they affect scholarly co
 - **Proximity**: Grouping related information to show relationships and meaning
 
 **Requirements:**
-- **Choose an academic or scholarly website** (university department site, academic journal, digital humanities project, etc.)
-- **Analyze using each CRAP principle** with specific focus on how design choices affect academic content accessibility
-- **Consider diverse audiences**: How do design choices serve scholars vs. students vs. general public?
+- **Choose a website with substantial content** (university site, online magazine, blog, portfolio, etc.)
+- **Analyze using each CRAP principle** with specific focus on how design choices help or hinder readers
+- **Consider different audiences**: How do design choices serve different types of visitors?
 - **Write 400-500 word analysis** with specific examples and screenshots
-- **Evaluate effectiveness**: Do the design choices enhance or hinder scholarly communication?
+- **Evaluate effectiveness**: Do the design choices make the content easy to find and understand?
 
 ### Exercise 2: Web Reading Patterns and Academic Content
 Understand how web reading differs from print reading and what this means for academic writing.

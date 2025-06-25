@@ -1,31 +1,31 @@
 # Lab 1, Exercise 2: Content Strategy Planning
 
 ## Assignment Overview
-This exercise focuses on **strategic content planning** for your digital remediation project. You'll select academic and/or creative work to transform for web publication and develop a comprehensive strategy for making that content accessible, engaging, and effective for web audiences while maintaining its intellectual integrity.
+This exercise focuses on **planning your web project**. You'll select academic and/or creative work to transform for web publication and develop a strategy for making that content accessible, engaging, and effective for web audiences while keeping what makes it valuable.
 
 ## Learning Objectives
 By completing this exercise, students will:
-- Select appropriate academic and/or creative work for digital remediation
-- Analyze the differences between print and web reading behaviors
-- Develop audience-centered content strategies for web publication
-- Plan content transformation that maintains intellectual rigor while improving accessibility
-- Create a roadmap for multipage website development
+- Select appropriate academic and/or creative work for web adaptation
+- Understand the differences between print and web reading behaviors
+- Develop audience-centered strategies for sharing your work online
+- Plan content transformation that keeps quality while improving accessibility
+- Create a roadmap for your multipage website project
 
 ## Exercise 1: Work Selection and Analysis
 
 ### Part A: Content Selection
-Choose substantial academic and/or creative work that you'll remediate throughout this course.
+Choose substantial academic and/or creative work that you'll adapt throughout this course.
 
 **Acceptable Work Types:**
-- **Academic work:** Research papers, thesis chapters, conference presentations, scholarly articles
+- **Academic work:** Research papers, thesis chapters, presentations, essays
 - **Creative work:** Poetry collections, short stories, creative nonfiction, multimedia projects
-- **Hybrid work:** Creative-critical writing, digital humanities projects, interdisciplinary research
+- **Hybrid work:** Creative-critical writing, interdisciplinary projects
 
 **Selection Criteria:**
 1. **Substantial content** (minimum 3,000-5,000 words or equivalent creative work)
 2. **Personal investment** - work you're genuinely proud of and want to share
-3. **Public potential** - content that could benefit broader audiences
-4. **Remediation feasibility** - work that can be meaningfully adapted for web
+3. **Sharing potential** - content that could benefit or interest others
+4. **Web adaptation potential** - work that can be meaningfully adapted for online
 5. **Rights ownership** - work you have permission to publish and adapt
 
 **Required Analysis:**

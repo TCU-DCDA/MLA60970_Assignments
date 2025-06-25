@@ -1,102 +1,102 @@
-# Academic Digital Literacy Primer
+# Digital Communication Literacy Primer
 
-## Welcome to Digital Scholarship
+## Welcome to Web Design and Communication
 
-This primer introduces key concepts that will help you succeed in MLA60970's design-first approach to web development for academic content. As scholars in the Master of Liberal Arts program, you bring deep content knowledge and critical thinking skills—this course will help you extend those capabilities into digital environments.
+This primer introduces key concepts that will help you succeed in MLA60970's design-first approach to web development. As students in the Master of Liberal Arts program, you bring diverse knowledge and critical thinking skills—this course will help you extend those capabilities into digital environments.
 
-## What is Digital Scholarship?
+## What is Digital Communication?
 
-### Beyond Traditional Academic Publishing
-Digital scholarship involves using digital tools and platforms to:
-- **Enhance accessibility** of your research and ideas
-- **Engage broader audiences** beyond traditional academic circles
-- **Create interactive and multimedia** presentations of scholarly and/or creative work
-- **Foster public dialogue** around important intellectual questions
-- **Preserve and share** cultural and academic knowledge
+### Beyond Traditional Publishing
+Digital communication involves using web tools and platforms to:
+- **Enhance accessibility** of your ideas and content
+- **Engage broader audiences** beyond traditional circles
+- **Create interactive and multimedia** presentations of academic and/or creative work
+- **Foster public dialogue** around important topics
+- **Preserve and share** cultural and intellectual knowledge
 
-### Why Web Skills Matter for Academics
-- **Career Development**: Academic institutions increasingly value digital literacy and public engagement
-- **Research Impact**: Web-accessible scholarship reaches wider audiences and has greater influence
-- **Teaching Enhancement**: Digital skills improve online pedagogy and student engagement
-- **Public Service**: Making scholarly knowledge accessible serves democratic and educational goals
-- **Collaboration**: Digital platforms enable new forms of scholarly collaboration and community building
+### Why Web Skills Matter
+- **Professional Development**: Many careers increasingly value digital literacy and public engagement
+- **Impact and Reach**: Web-accessible content reaches wider audiences and has greater influence
+- **Enhanced Communication**: Digital skills improve online interaction and presentation abilities
+- **Public Service**: Making knowledge accessible serves educational and community goals
+- **Collaboration**: Digital platforms enable new forms of collaboration and community building
 
-## Understanding Web Accessibility in Academic Contexts
+## Understanding Web Accessibility
 
 ### Who Are Your Web Audiences?
-When you move academic content to the web, you serve multiple audiences:
+When you move content to the web, you serve multiple audiences:
 
-**Traditional Academic Audiences:**
-- Scholars and researchers in your field
-- Graduate and undergraduate students
-- Academic librarians and information professionals
+**Academic and Professional Audiences:**
+- Colleagues and professionals in your field
+- Students and learners
+- Educators and information professionals
 
 **Expanded Public Audiences:**
-- Educated general readers interested in your topics
-- Journalists and media professionals
-- Policy makers and community leaders
+- General readers interested in your topics
+- Community members and local organizations
+- Media professionals and communicators
 - International readers accessing content
 - People using assistive technologies or different devices
 
-### Accessibility as Academic Responsibility
-Academic accessibility means:
-- **Intellectual Accessibility**: Making complex ideas understandable without sacrificing rigor
+### Accessibility as Communication Responsibility
+Effective accessibility means:
+- **Intellectual Accessibility**: Making complex ideas understandable while maintaining quality
 - **Technical Accessibility**: Ensuring content works for people with different abilities and technologies
-- **Economic Accessibility**: Providing free, open access to scholarly and/or creative knowledge
+- **Economic Accessibility**: Providing accessible information and resources
 - **Cultural Accessibility**: Considering diverse cultural and linguistic contexts
 
-## Why Design Matters for Academic Credibility
+## Why Design Matters for Credibility
 
-### First Impressions and Scholarly Authority
-- **Professional Presentation**: Well-designed content signals serious scholarship
+### First Impressions and Professional Authority
+- **Professional Presentation**: Well-designed content signals serious work and expertise
 - **Cognitive Load**: Good design reduces the mental effort required to process information
 - **Trust and Credibility**: Professional visual presentation enhances reader confidence
 - **Attention and Engagement**: Thoughtful design keeps readers focused on your ideas
 
 ### Design vs. Decoration
-Academic web design is not about:
+Effective web design is not about:
 - Flashy graphics or animations
 - Following commercial web trends
 - Prioritizing style over substance
 
-Academic web design IS about:
-- **Clear information hierarchy** that guides readers through complex arguments
+Effective web design IS about:
+- **Clear information hierarchy** that guides readers through complex ideas
 - **Accessible presentation** that serves diverse readers and technologies
 - **Professional credibility** that enhances rather than distracts from content
 - **User experience** that respects readers' time and cognitive resources
 
-## Examples of Excellent Academic and Scholarly Websites
+## Examples of Excellent Content Websites
 
-### Digital Humanities Projects
-- **Stanford History Education Group**: Clean, accessible presentation of historical research with clear navigation
-- **Mapping the Republic of Letters**: Sophisticated data visualization that makes historical networks accessible
-- **Digital Public Library of America**: User-friendly interface for complex archival materials
+### Digital Projects and Presentations
+- **Educational Organizations**: Clean, accessible presentation of complex information with clear navigation
+- **Cultural Institutions**: User-friendly interfaces for rich content and resources
+- **Professional Portfolios**: Effective presentation of work and expertise
 
-### Academic Personal Sites
-- **Faculty Portfolio Sites**: Professional presentation of research, teaching, and service
-- **Graduate Student Academic Sites**: Clear presentation of research interests and academic work
-- **Digital Scholarship Portfolios**: Integration of traditional and digital academic work
+### Personal and Professional Sites
+- **Professional Portfolio Sites**: Clear presentation of expertise, experience, and projects
+- **Content Creator Sites**: Professional presentation of work and interests
+- **Digital Communication Examples**: Integration of various content types and formats
 
-### Institutional Academic Sites
-- **Research Center Websites**: Clear communication of complex research to multiple audiences
-- **Academic Department Sites**: Effective organization of information for students, faculty, and public
-- **Online Academic Journals**: Accessible presentation of peer-reviewed scholarship
+### Organizational and Institutional Sites
+- **Non-profit Organizations**: Clear communication of complex missions to multiple audiences
+- **Educational Institutions**: Effective organization of information for diverse stakeholders
+- **Professional Organizations**: Accessible presentation of resources and information
 
 ## Connection to Course Goals
 
 ### This Course Will Help You:
-1. **Analyze** what makes academic websites effective or ineffective
-2. **Apply** design principles specifically to scholarly communication challenges
-3. **Create** web-friendly versions of your academic work
-4. **Develop** skills for ongoing digital scholarship and public engagement
-5. **Build** a professional academic web presence
+1. **Analyze** what makes websites effective or ineffective
+2. **Apply** design principles to communication challenges
+3. **Create** web-friendly versions of your academic and/or creative work
+4. **Develop** skills for ongoing digital communication and engagement
+5. **Build** a professional web presence
 
 ### Skills You'll Develop:
-- **Design thinking** applied to academic communication challenges
-- **User experience** awareness for content
+- **Design thinking** applied to communication challenges
+- **User experience** awareness for diverse audiences
 - **Technical implementation** of accessibility and professional presentation
-- **Content strategy** for transforming academic writing for web audiences
-- **Professional web development** skills for academic career development
+- **Content strategy** for adapting writing for web audiences
+- **Professional web development** skills for career and personal development
 
 ## Preparing for Success
 

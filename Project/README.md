@@ -1,21 +1,21 @@
-# Digital Remediation Project: Academic and/or Creative Work for Web Publication
+# Content Adaptation Project: Academic and/or Creative Work for Web Publication
 
 ## Overview
 
-This unified project centers on **digital remediation**—transforming existing academic and/or creative work into compelling, accessible web content. Rather than creating a career portfolio, students complete four progressive labs that build skills toward remediating significant intellectual work for broader public engagement.
+This unified project centers on **content adaptation**—transforming existing academic and/or creative work into compelling, accessible web content. Students complete four progressive labs that build skills toward adapting significant work for broader public engagement.
 
 ## Course Structure
 
 ### Four Progressive Labs
-Each lab builds foundational web development skills while working toward thoughtful academic and/or creative content remediation:
+Each lab builds foundational web development skills while working toward thoughtful academic and/or creative content adaptation:
 
-1. **[Lab 1: HTML Fundamentals](Lab1_HTML_Fundamentals/)** - Semantic markup for academic content and remediation planning
-2. **[Lab 2: Design Principles](Lab2_Design_Principles/)** - CRAP principles applied to scholarly communication  
-3. **[Lab 3: CSS Layout](Lab3_CSS_Layout/)** - Layout techniques optimized for reading complex content
-4. **[Lab 4: Responsive Design](Lab4_Responsive_Design/)** - Cross-device accessibility for academic publishing
+1. **[Lab 1: Design and Web Writing](Lab1_Design_and_Web_Writing/)** - Design principles and content planning for web adaptation
+2. **[Lab 2: HTML and Design](Lab2_HTML_and_Design/)** - Semantic markup for content and design implementation  
+3. **[Lab 3: CSS Layout](Lab3_CSS_Layout/)** - Layout techniques optimized for reading and content presentation
+4. **[Lab 4: Responsive Design](Lab4_Responsive_Design/)** - Cross-device accessibility for web publishing
 
-### Final Remediation Project
-The **[main project](Prompt/project.md)** involves transforming substantial academic and/or creative work (research paper, creative writing, critical analysis) into a multipage website that maintains intellectual rigor while dramatically improving public accessibility.
+### Final Content Adaptation Project
+The **[main project](Prompt/project.md)** involves transforming substantial academic and/or creative work (research paper, creative writing, critical analysis) into a multipage website that maintains quality while dramatically improving public accessibility.
 
 ## Assessment Philosophy
 
@@ -32,63 +32,63 @@ This course uses **ungraded, qualitative assessment** focused on:
 - Focus on skill building and concept mastery
 - Opportunity for revision and improvement
 
-**Portfolio Assessment:**
-- **[Peer review process](PeerReview/)** with structured feedback
+**Project Assessment:**
+- **[Peer review process](RoughDraft_PeerReview/)** with structured feedback
 - **[Rough draft submission](RoughDraft_PeerReview/)** for iterative improvement
 - Self-reflection on learning and professional development
-- Final presentation and portfolio sharing
+- Final presentation and project sharing
 
 ## Learning Objectives
 
 By completing this project sequence, students will:
 
 ### Technical Skills
-- Create semantic, accessible HTML documents optimized for academic content
+- Create semantic, accessible HTML documents optimized for content
 - Implement CSS layouts and responsive design that prioritize readability
-- Apply design principles to enhance rather than distract from intellectual content
-- Use modern web development tools and workflows for scholarly and/or creative publishing
-- Debug and optimize websites for performance and cross-browser compatibility with content-heavy sites
+- Apply design principles to enhance rather than distract from content
+- Use modern web development tools and workflows for web publishing
+- Debug and optimize websites for performance and cross-browser compatibility
 
-### Digital Liberal Arts Skills
-- Transform academic writing for web audiences while maintaining intellectual rigor
-- Apply content strategy principles to make scholarly and/or creative work more accessible
-- Understand how medium shapes message in digital vs. print scholarly communication
-- Practice public scholarship and community engagement through digital publishing
-- Develop critical perspective on digital humanities and online academic presence
+### Digital Communication Skills
+- Transform written work for web audiences while maintaining quality
+- Apply content strategy principles to make academic and/or creative work more accessible
+- Understand how medium shapes message in digital vs. print communication
+- Practice public communication and engagement through digital publishing
+- Develop critical perspective on web communication and online presence
 
 ### Critical Thinking Skills
-- Analyze how design choices affect the accessibility and impact of intellectual work
-- Make informed decisions about audience, accessibility, and scholarly communication ethics
+- Analyze how design choices affect the accessibility and impact of content
+- Make informed decisions about audience, accessibility, and communication ethics
 - Evaluate and iterate on both content strategy and technical implementation
-- Reflect on the relationship between traditional scholarship and digital publishing
+- Reflect on the relationship between traditional writing and digital publishing
 
 ## Project Timeline (4-Week Intensive)
 
 ### Week 1: Foundation and Content Analysis
-- **Lab 1**: HTML fundamentals with academic content focus
-- **Lab 2**: Design principles and scholarly communication analysis
-- Select and begin analyzing source material for remediation
+- **Lab 1**: Design principles and content planning
+- **Lab 2**: HTML fundamentals with content focus
+- Select and begin analyzing source material for adaptation
 
 ### Week 2: Content Strategy and Development  
-- **Lab 3**: CSS layout techniques for content-heavy sites
+- **Lab 3**: CSS layout techniques for content presentation
 - Begin substantial content transformation and restructuring
 - Implement responsive foundation optimized for reading
 
-### Week 3: Enhancement and Remediation
-- **Lab 4**: Advanced responsive design for academic publishing
-- **Rough Draft**: Submit remediated content for peer review
+### Week 3: Enhancement and Adaptation
+- **Lab 4**: Advanced responsive design for web publishing
+- **Rough Draft**: Submit adapted content for peer review
 - Incorporate feedback focusing on both technical and content considerations
 
 ### Week 4: Critical Reflection and Launch
 - Final testing and optimization for accessibility
-- Complete critical reflection on remediation process and digital publishing
-- Project presentation focusing on content strategy and scholarly communication insights
+- Complete critical reflection on adaptation process and digital publishing
+- Project presentation focusing on content strategy and communication insights
 
 ## Professional Context
 
 This project prepares students for:
-- **Digital humanities careers** with practical skills in scholarly web publishing
-- **Academic positions** increasingly requiring digital literacy and online presence
+- **Digital communication careers** with practical skills in web publishing
+- **Professional positions** increasingly requiring digital literacy and online presence
 - **Publishing and editorial roles** involving content strategy and accessibility
 - **Cultural institution work** (museums, libraries, nonprofits) focused on public engagement
 - **Communications careers** requiring translation of complex ideas for broader audiences
@@ -101,41 +101,41 @@ This project prepares students for:
 - Web accessibility guidelines specifically for content
 - Performance optimization for text-heavy academic websites
 
-### Content Strategy and Remediation Resources
-- Digital humanities examples and case studies
-- Academic writing guides adapted for web publishing
-- Content strategy principles for educational content
-- Citation and attribution practices for digital academic work
+### Content Strategy and Adaptation Resources
+- Digital communication examples and case studies
+- Writing guides adapted for web publishing
+- Content strategy principles for effective communication
+- Citation and attribution practices for digital publishing
 
 ### Design and User Experience
-- Typography resources optimized for reading complex content
-- Color theory and accessibility for academic audiences
+- Typography resources optimized for reading content
+- Color theory and accessibility for diverse audiences
 - Layout principles for long-form content
-- Examples of successful academic websites
+- Examples of successful content websites
 
 ## Beyond the Course
 
-Your remediated academic work is designed for lasting impact:
-- **Public scholarship** - making your intellectual work discoverable and accessible
-- **Academic portfolio component** - demonstrating both scholarly and/or creative work and digital skills
-- **Foundation for digital humanities** - skills applicable to further scholarly and/or creative web projects
-- **Model for future remediation** - approach you can apply to other academic work
+Your adapted work is designed for lasting impact:
+- **Public communication** - making your work discoverable and accessible
+- **Professional portfolio component** - demonstrating both content and digital skills
+- **Foundation for digital communication** - skills applicable to further web projects
+- **Model for future adaptation** - approach you can apply to other work
 
 ## Getting Started
 
-1. **Review the [project prompt](Prompt/project.md)** to understand the remediation focus and requirements
-2. **Begin with [Lab 1](Lab1_HTML_Fundamentals/)** to build HTML foundations with academic content
-3. **Select substantial academic work** (research paper, creative writing, critical analysis) for remediation
+1. **Review the [project prompt](Prompt/project.md)** to understand the adaptation focus and requirements
+2. **Begin with [Lab 1](Lab1_Design_and_Web_Writing/)** to build design foundations with content planning
+3. **Select substantial work** (research paper, creative writing, critical analysis) for adaptation
 4. **Consider your goals** for making this work accessible to broader audiences
 
 ## Questions and Support
 
-This project emphasizes **digital liberal arts practice** and **public scholarship** alongside technical skill building. Focus on:
-- How can web publishing make academic work more accessible and impactful?
-- What are the ethical and practical considerations in scholarly digital publishing?
-- How does medium shape message when moving from print to digital academic communication?
-- What role does design play in supporting intellectual engagement and accessibility?
+This project emphasizes **digital communication practice** and **public engagement** alongside technical skill building. Focus on:
+- How can web publishing make work more accessible and impactful?
+- What are the ethical and practical considerations in digital publishing?
+- How does medium shape message when moving from print to digital communication?
+- What role does design play in supporting engagement and accessibility?
 
 ---
 
-*This integrated approach ensures students develop both technical web development skills and the digital liberal arts capabilities needed for effective scholarly communication in digital environments.*
+*This integrated approach ensures students develop both technical web development skills and the digital communication capabilities needed for effective content sharing in digital environments.*

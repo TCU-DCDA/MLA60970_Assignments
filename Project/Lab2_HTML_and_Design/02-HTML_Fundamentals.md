@@ -1,11 +1,11 @@
-# Lab 2: HTML Fundamentals and Semantic Implementation
+# Lab 2: HTML Fundamentals and Implementation
 
 ## Assignment Overview
-Building on the design principles and web writing strategies from Lab 1, this lab introduces HTML fundamentals and semantic markup. You'll apply your understanding of CRAP principles and web reading patterns to create properly structured HTML documents that support scholarly content accessibility and user experience.
+Building on the design principles and web writing strategies from Lab 1, this lab introduces HTML fundamentals and semantic markup. You'll apply your understanding of CRAP principles and web reading patterns to create properly structured HTML documents that support content accessibility and user experience.
 
 ## Learning Objectives
 By completing this lab, students will:
-- Understand the relationship between Markdown and HTML in digital publishing workflows
+- Understand the relationship between Markdown and HTML in web publishing
 - Create properly structured HTML5 documents that implement design principles from Lab 1
 - Use semantic HTML elements to enhance content accessibility, navigation, and meaning
 - Apply web writing principles through appropriate HTML structure and hierarchy

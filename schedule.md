@@ -13,15 +13,15 @@
 
 ### Tuesday, July 8
 - **Videos to Watch:**
-  - "Content Strategy for Academic Remediation"
+  - "Content Strategy for Web Adaptation"
 - **Assignments Due:**
-  - CRAP Principles Analysis (`Lab1_Design_and_Web_Writing/CRAP_Principles_Analysis.md`)
+  - CRAP Principles Analysis (`Lab1_Design_and_Web_Writing/01-CRAP_Principles_Analysis.md`)
 
 ### Wednesday, July 9
 - **Videos to Watch:**
   - "Web Reading Patterns and User Attention"
 - **Assignments Due:**
-  - Content Strategy Planning (`Lab1_Design_and_Web_Writing/Content_Strategy_Planning.md`)
+  - Content Strategy Planning (`Lab1_Design_and_Web_Writing/02-Content_Strategy_Planning.md`)
 - **Discussion Prompt:**
   - **Topic:** Academic and/or Creative Work and Digital Transformation
   - **Initial Post Due:** Wednesday, July 9
@@ -29,15 +29,15 @@
 
 ### Thursday, July 10
 - **Videos to Watch:**
-  - "HTML Basics for Academic Content"
+  - "HTML Basics for Content"
 - **Assignments Due:**
-  - Design Principles Application (`Lab2_HTML_and_Design/Design_Principles_Application.md`)
+  - Design Principles Application (`Lab2_HTML_and_Design/01-Design_Principles_Application.md`)
 
 ### Friday, July 11
 - **Videos to Watch:**
-  - "Semantic HTML for Scholarly Communication"
+  - "Semantic HTML for Web Communication"
 - **Assignments Due:**
-  - HTML Fundamentals (`Lab2_HTML_and_Design/HTML_Fundamentals.md`)
+  - HTML Fundamentals (`Lab2_HTML_and_Design/02-HTML_Fundamentals.md`)
 
 ## Week 2: Visual Implementation and Layout
 
@@ -49,7 +49,7 @@
 
 ### Tuesday, July 15
 - **Videos to Watch:**
-  - "Visual Hierarchy and Scholarly Communication"
+  - "Visual Hierarchy and Effective Communication"
 - **Assignments Due:**
   - CSS Implementation Progress Check (`Lab3_CSS_Layout`)
 
@@ -71,17 +71,17 @@
 
 ### Friday, July 18
 - **Videos to Watch:**
-  - "Testing and Refining Academic Web Content"
+  - "Testing and Refining Web Content"
 - **Assignments Due:**
   - Responsive Design Progress Check (`Lab4_Responsive_Design`)
 
-## Week 3: Integration and Academic and/or Creative Content Development
+## Week 3: Integration and Content Development
 
 ### Monday, July 21
 - **Videos to Watch:**
   - "Integrating Design and Content"
 - **Assignments Due:**
-  - Begin Digital Remediation Project (`Project/Prompt`)
+  - Begin Content Adaptation Project (`Project/Prompt`)
 
 ### Tuesday, July 22
 - **Videos to Watch:**
@@ -93,7 +93,7 @@
 - **Videos to Watch:**
   - "Providing Constructive Feedback"
 - **Assignments Due:**
-  - Participate in Peer Review (`Project/PeerReview`)
+  - Participate in Peer Review (`Project/RoughDraft_PeerReview`)
 
 ### Thursday, July 24
 - **Videos to Watch:**
@@ -107,23 +107,23 @@
 - **Assignments Due:**
   - Final Refinements Progress Check (`Project/Prompt`)
 
-## Week 4: Finalization and Academic and/or Creative Web Presence Launch
+## Week 4: Finalization and Web Presence Launch
 
 ### Monday, July 28
 - **Videos to Watch:**
-  - "Launching Academic Web Projects"
+  - "Launching Web Projects"
 - **Assignments Due:**
-  - Final Academic Web Presence (`Project/Prompt`)
+  - Final Web Presence (`Project/Prompt`)
 
 ### Tuesday, July 29
 - **Videos to Watch:**
-  - "Reflecting on Digital Scholarship"
+  - "Reflecting on Digital Communication"
 - **Assignments Due:**
   - Submit Reflection Documentation (`Project/Prompt`)
 
 ### Wednesday, July 30
 - **Videos to Watch:**
-  - "Public Scholarship and Community Engagement"
+  - "Public Communication and Community Engagement"
 - **Assignments Due:**
   - Prepare Final Presentation (`Project/Prompt`)
 - **Discussion Prompt:**
@@ -133,7 +133,7 @@
 
 ### Thursday, July 31
 - **Videos to Watch:**
-  - "Sharing Scholarly Work Online"
+  - "Sharing Work Online"
 - **Assignments Due:**
   - Final Presentation (`Project/Prompt`)
 
@@ -145,4 +145,4 @@
 
 ---
 
-*This schedule ensures a balanced progression through course materials, assignments, and videos, supporting both technical skill development and scholarly communication.*
+*This schedule ensures a balanced progression through course materials, assignments, and videos, supporting both technical skill development and effective communication.*

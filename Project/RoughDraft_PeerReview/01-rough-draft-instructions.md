@@ -1,14 +1,14 @@
-# Portfolio Project Rough Draft Instructions
+# Content Adaptation Project Rough Draft Instructions
 
 ## Overview
 
-The rough draft submission is an opportunity to get valuable feedback on your portfolio project while it's still in development. This process mirrors professional web development practices where work is reviewed iteratively throughout the development cycle.
+The rough draft submission is an opportunity to get valuable feedback on your content adaptation project while it's still in development. This process mirrors professional web development practices where work is reviewed iteratively throughout the development cycle.
 
 ## Submission Requirements
 
 ### What to Submit
 **Complete Project Package:**
-- All HTML files for your portfolio pages
+- All HTML files for your adapted content pages
 - CSS stylesheet(s) with current styling
 - All images and media files (optimized for web)
 - Any additional assets (fonts, icons, etc.)
@@ -21,7 +21,7 @@ The rough draft submission is an opportunity to get valuable feedback on your po
 ### How to Submit
 **Option 1: ZIP Archive (Recommended)**
 - Package all files in a single ZIP archive
-- Name: `YourName_Portfolio_RoughDraft.zip`
+- Name: `YourName_ContentAdaptation_RoughDraft.zip`
 - Ensure all internal links work when extracted
 
 **Option 2: GitHub Repository**
@@ -31,7 +31,7 @@ The rough draft submission is an opportunity to get valuable feedback on your po
 
 ## Rough Draft Expectations
 
-### Required Portfolio Elements
+### Required Project Elements
 Your rough draft should include:
 
 **✅ Complete HTML Structure**
@@ -47,16 +47,17 @@ Your rough draft should include:
 - Consistent styling across pages
 
 **✅ Content Development**
-- Draft content for all major sections
-- About page with personal and professional information
-- Portfolio/projects section with descriptions
-- Contact information and methods
+- Draft content for all major sections adapted from your original work
+- Homepage/landing page introducing your adapted content
+- Main content pages with web-friendly structure
+- About the work/author page with context
+- Sources/references page formatted for web
 
 **✅ Visual Design Direction**
 - Color scheme and typography choices established
 - Basic layout structure implemented
 - Image placeholders or actual images included
-- Professional appearance emerging
+- Professional appearance that enhances content readability
 
 ### What's Expected vs. What's Okay to Be Incomplete
 
@@ -80,15 +81,15 @@ Your rough draft should include:
 Please address each of the following areas in your reflection:
 
 ### Project Summary and Goals
-- **Summarize your portfolio project** in 2-3 sentences. What is your overall vision?
-- **Who is your target audience** for this portfolio? (employers, graduate schools, clients, etc.)
-- **What impression do you want visitors to have** after viewing your portfolio?
+- **Summarize your content adaptation project** in 2-3 sentences. What is your overall vision?
+- **Who is your target audience** for this adapted content? (general readers, colleagues, students, etc.)
+- **What impression do you want visitors to have** after reading your adapted work?
 
 ### Development Process Reflection
-- **What has surprised you most** during the development process so far?
+- **What has surprised you most** during the adaptation process so far?
 - **Which technical aspect** has been most challenging? How are you approaching these challenges?
 - **What design decisions** are you most confident about? What informed these choices?
-- **How has your original vision evolved** as you've been building the portfolio?
+- **How has your original content evolved** as you've been adapting it for the web?
 
 ### Current Status and Next Steps
 - **What do you consider the strongest elements** of your current draft?
@@ -100,11 +101,11 @@ Please address each of the following areas in your reflection:
 Please formulate **3-4 specific questions** for your peer reviewers. The more specific your questions, the more helpful the feedback will be.
 
 **Examples of helpful questions:**
-- *"Does the color scheme work well for a portfolio targeting creative industry employers?"*
-- *"Is the navigation intuitive? Do you understand how to find information about my projects?"*
-- *"How well does the About page content balance personal and professional information?"*
+- *"Does the content adaptation maintain the quality of ideas while improving web readability?"*
+- *"Is the navigation intuitive? Do you understand how to move through the adapted content?"*
+- *"How well does the About page provide context for understanding the original work?"*
 - *"Are there any responsive design issues you notice on mobile devices?"*
-- *"What's your impression of the overall visual hierarchy and readability?"*
+- *"What's your impression of how well the content works for web reading vs. the original format?"*
 
 ### Open Feedback Permission
 - **Are you open to additional feedback** beyond your specific questions?
@@ -115,16 +116,18 @@ Please formulate **3-4 specific questions** for your peer reviewers. The more sp
 ### File Organization
 Structure your submission clearly:
 ```
-YourName_Portfolio_RoughDraft/
+YourName_ContentAdaptation_RoughDraft/
 ├── index.html
+├── content-page-1.html
+├── content-page-2.html
+├── content-page-3.html
 ├── about.html
-├── portfolio.html
-├── contact.html
+├── sources.html
 ├── css/
 │   └── styles.css
 ├── images/
-│   ├── profile-photo.jpg
-│   └── project-screenshots/
+│   ├── content-images/
+│   └── supporting-visuals/
 ├── README.md
 └── reflection.pdf
 ```
@@ -140,9 +143,9 @@ Even for a rough draft, maintain:
 ### Content Guidelines
 For rough draft content:
 - **All text should be real content**, not Lorem Ipsum
-- **Images should be relevant**, even if not final versions
+- **Content should be adapted from your original work**, even if not final versions
 - **Links should work** or be marked as "coming soon"
-- **Contact information should be accurate** and professional
+- **Sources and references should be accurate** and properly formatted
 
 ## Common Rough Draft Issues to Avoid
 
@@ -154,10 +157,10 @@ For rough draft content:
 - ❌ CSS that doesn't load or apply correctly
 
 ### Content Issues
-- ❌ Placeholder text instead of real content
-- ❌ Outdated or incomplete project descriptions
-- ❌ Missing or unprofessional contact information
-- ❌ Inconsistent tone or writing quality across pages
+- ❌ Placeholder text instead of real adapted content
+- ❌ Content that hasn't been adapted for web reading
+- ❌ Missing or incomplete source citations
+- ❌ Inconsistent tone or adaptation approach across pages
 
 ### Design Issues
 - ❌ Inconsistent color scheme or typography
@@ -168,11 +171,11 @@ For rough draft content:
 ## Getting Ready for Peer Review
 
 ### Before Submitting
-- **Test your portfolio** on both desktop and mobile
+- **Test your adapted content** on both desktop and mobile
 - **Check all links** to ensure they work properly
-- **Review your content** for clarity and professionalism
+- **Review your content** for clarity and effective web adaptation
 - **Validate your HTML** to catch major errors
-- **Ask someone to quickly test** your navigation and user experience
+- **Ask someone to quickly test** your navigation and reading experience
 
 ### Setting Expectations
 Remember that peer reviewers will:
@@ -194,10 +197,10 @@ Approach this as:
 - **Read all feedback carefully** before making changes
 - **Identify common themes** across multiple reviewers
 - **Consider the source and context** of suggestions
-- **Prioritize changes** based on impact and feasibility
+- **Prioritize changes** based on impact on content accessibility and user experience
 
 ### Making Revisions
-- **Focus on feedback that aligns** with your professional goals
+- **Focus on feedback that aligns** with your content goals
 - **Address technical issues** that impact user experience
 - **Test changes thoroughly** before implementing additional modifications
 - **Document your decision-making process** for future reference
@@ -205,12 +208,12 @@ Approach this as:
 ## Timeline Integration
 
 This rough draft fits into your overall project timeline:
-- **Week 1-2**: Initial development leading to rough draft
+- **Week 1-2**: Initial development and content adaptation leading to rough draft
 - **Week 3**: Peer review process and feedback incorporation
 - **Week 4**: Final refinements and project presentation
 
-The feedback you receive will guide your final week of development and help ensure your portfolio is polished and professional for final submission.
+The feedback you receive will guide your final week of development and help ensure your content adaptation is polished and effective for final submission.
 
 ---
 
-*This rough draft process is designed to help you create the best possible portfolio while developing professional collaboration and communication skills.*
+*This rough draft process is designed to help you create the best possible content adaptation while developing professional collaboration and communication skills.*

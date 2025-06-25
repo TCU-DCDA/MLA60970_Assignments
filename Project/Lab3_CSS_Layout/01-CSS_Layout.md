@@ -1,13 +1,13 @@
 # Lab 3: CSS Implementation of Design Principles
 
 ## Assignment Overview
-Building on the design principles from Lab 1 and semantic HTML structure from Lab 2, this lab focuses on implementing visual design through CSS. You'll apply CRAP principles, create layouts that support web reading patterns, and style your academic content for maximum accessibility and engagement.
+Building on the design principles from Lab 1 and semantic HTML structure from Lab 2, this lab focuses on implementing visual design through CSS. You'll apply CRAP principles, create layouts that support web reading patterns, and style your content for maximum accessibility and engagement.
 
 ## Learning Objectives
 By completing this lab, students will:
 - Implement CRAP design principles (Contrast, Repetition, Alignment, Proximity) through CSS
 - Create visual hierarchy that supports F-pattern and layer cake reading
-- Master CSS layout techniques for academic and scholarly and/or creative content presentation
+- Master CSS layout techniques for effective academic and/or creative content presentation
 - Build responsive layouts that maintain accessibility across devices
 - Apply typography and spacing principles for enhanced communication
 
@@ -22,19 +22,19 @@ Apply the design analysis from Lab 1 by implementing CRAP principles using CSS o
 
 **Contrast Implementation:**
 - Create clear visual hierarchy using typography (font-size, font-weight, color)
-- Use color contrast to emphasize key academic concepts and improve accessibility
+- Use color contrast to emphasize key concepts and improve accessibility
 - Implement spacing contrast to distinguish between content types
-- Apply the contrast techniques you analyzed in Lab 1's academic website review
+- Apply the contrast techniques you analyzed in Lab 1's website review
 
 **Repetition Implementation:**
 - Develop consistent styling patterns for headings, paragraphs, lists, and quotes
-- Create a cohesive color scheme that reinforces academic credibility
+- Create a cohesive color scheme that reinforces credibility and professionalism
 - Use consistent spacing and alignment throughout your content
-- Establish visual patterns that help readers navigate your scholarly and/or creative content
+- Establish visual patterns that help readers navigate your academic and/or creative content
 
 **Alignment Implementation:**
 - Use CSS Grid or Flexbox to create clear visual relationships between content elements
-- Align text, images, and other elements to create professional, academic presentation
+- Align text, images, and other elements to create professional presentation
 - Implement proper margins and padding that support content organization
 
 **Proximity Implementation:**
@@ -55,15 +55,15 @@ Implement typography strategies that support the web reading patterns analyzed i
 - Implement font choices, sizing, and spacing that support scholarly reading online
 
 **Typography Implementation:**
-- **Font Selection**: Choose web fonts appropriate for academic content (readability over decoration)
+- **Font Selection**: Choose web fonts appropriate for your content (readability over decoration)
 - **Hierarchy Implementation**: Use font-size, font-weight, and line-height to support F-pattern reading
 - **Paragraph Optimization**: Implement spacing and width that supports the shorter paragraph strategy from Lab 1
 - **List Styling**: Enhance bullet points and numbered lists to improve content scanning
-- **Link Styling**: Design link states that support non-linear academic reading
-- **Quote and Citation Styling**: Create appropriate visual treatment for academic citations and quotes
+- **Link Styling**: Design link states that support non-linear reading
+- **Quote and Citation Styling**: Create appropriate visual treatment for quotes and important passages
 
 **Reading Experience Features:**
-- Optimal line length (45-75 characters) for academic content
+- Optimal line length (45-75 characters) for comfortable reading
 - Sufficient line-height for improved readability
 - Strategic use of white space to reduce cognitive overload
 - Color choices that support sustained reading while maintaining accessibility standards
@@ -71,36 +71,36 @@ Implement typography strategies that support the web reading patterns analyzed i
 **Assessment for Exercise 2:**
 - Test your typography with actual readers or use readability tools
 - Document how your choices address the web reading challenges identified in Lab 1
-- Include side-by-side comparison with original academic text formatting
+- Include side-by-side comparison with original text formatting
 
-### Exercise 3: Layout Implementation for Academic Content
-Create layouts that support your multi-page academic remediation project from Lab 2.
+### Exercise 3: Layout Implementation for Content Presentation
+Create layouts that support your multi-page content project from Lab 2.
 
 **Requirements:**
 - Use CSS Grid and/or Flexbox to implement the page structure you planned in Labs 1-2
-- Create layouts specifically designed for scholarly and/or creative content presentation
-- Build navigation systems that support non-linear academic reading
+- Create layouts specifically designed for effective academic and/or creative content presentation
+- Build navigation systems that support both linear and non-linear reading
 
-**Layout Components for Academic Content:**
+**Layout Components for Effective Content Presentation:**
 1. **Article Layout**: Main content with related resources sidebar
-2. **Bibliography/References Layout**: Accessible formatting for academic citations
-3. **Multi-page Navigation**: Clear wayfinding between sections of your remediated content
-4. **Responsive Academic Layout**: Ensure content works across devices
+2. **References Layout**: Accessible formatting for citations and sources
+3. **Multi-page Navigation**: Clear wayfinding between sections of your adapted content
+4. **Responsive Layout**: Ensure content works across devices
 
 **CSS Layout Techniques:**
-- CSS Grid for complex academic page layouts
+- CSS Grid for complex page layouts
 - Flexbox for component-level alignment and spacing
-- Responsive design that maintains academic credibility on all devices
-- Navigation patterns that support scholarly research workflows
-- Sidebar layouts for supplementary academic materials
+- Responsive design that maintains professionalism on all devices
+- Navigation patterns that support diverse reading workflows
+- Sidebar layouts for supplementary materials
 
 **Assessment for Exercise 3:**
-- Test layouts with actual academic content from your remediation project
+- Test layouts with actual content from your project
 - Ensure designs support both linear and non-linear reading patterns
 - Document how layout choices enhance communication goals
 
 ### Exercise 4: Accessibility and Inclusive Design Implementation
-Ensure your CSS implementation supports diverse users and meets accessibility standards for academic content.
+Ensure your CSS implementation supports diverse users and meets accessibility standards.
 
 **Requirements:**
 - Implement accessibility features that support different learning styles and abilities
@@ -108,8 +108,8 @@ Ensure your CSS implementation supports diverse users and meets accessibility st
 - Address the accessibility considerations identified in your Lab 1 content strategy
 
 **Accessibility Implementation:**
-- **Color and Contrast**: Ensure all text meets WCAG contrast ratios for academic reading
-- **Focus States**: Create clear keyboard navigation for scholarly research workflows
+- **Color and Contrast**: Ensure all text meets WCAG contrast ratios for comfortable reading
+- **Focus States**: Create clear keyboard navigation for research workflows
 - **Screen Reader Support**: Use CSS that enhances rather than conflicts with semantic HTML
 - **Responsive Text**: Implement text that scales appropriately for different visual needs
 - **Motion and Animation**: Ensure any transitions support rather than distract from content consumption
@@ -118,7 +118,7 @@ Ensure your CSS implementation supports diverse users and meets accessibility st
 - Support for different reading preferences and cognitive processing styles
 - Flexible layouts that accommodate various assistive technologies
 - Design choices that work across different cultural and linguistic contexts
-- Visual hierarchy that supports both expert and novice readers in your academic field
+- Visual hierarchy that supports both expert and novice readers
 
 **Assessment for Exercise 4:**
 - Use accessibility testing tools to validate your implementation
@@ -126,31 +126,31 @@ Ensure your CSS implementation supports diverse users and meets accessibility st
 - Document how your CSS choices specifically support accessibility goals
 
 ### Exercise 5: Integration and Refinement
-Bring together all elements from Labs 1-3 to create a cohesive, well-designed academic web presence.
+Bring together all elements from Labs 1-3 to create a cohesive, well-designed web presence.
 
 **Requirements:**
 - Integrate all CSS implementations from Exercises 1-4 into a unified design system
-- Refine and polish your academic content presentation based on user testing or peer feedback
+- Refine and polish your content presentation based on user testing or peer feedback
 - Create a comprehensive style guide documenting your design decisions
 
 **Integration Tasks:**
 - **Design System Documentation**: Create a style guide showing how your CSS implements Lab 1's design principles
 - **Content Integration**: Apply your complete design system to all pages from your Lab 2 HTML structure
 - **Performance Optimization**: Ensure CSS is efficiently organized and loads quickly
-- **Cross-browser Testing**: Verify your academic content displays consistently across different browsers and devices
+- **Cross-browser Testing**: Verify your content displays consistently across different browsers and devices
 - **Final Refinements**: Make adjustments based on testing and feedback
 
 **Comprehensive Assessment:**
 - **Design Coherence**: How well does your final implementation realize the design strategy from Lab 1?
 - **Technical Execution**: Is your CSS well-organized, efficient, and maintainable?
-- **Academic Communication**: Does your design enhance or support your scholarly content goals?
-- **Accessibility Achievement**: Have you successfully created an inclusive academic web presence?
+- **Communication Effectiveness**: Does your design enhance your content goals?
+- **Accessibility Achievement**: Have you successfully created an inclusive web presence?
 
 **Reflection Component (400-500 words):**
 - Analyze the complete journey from Lab 1's design analysis through Lab 3's technical implementation
-- Identify the most significant design decisions and their impact on scholarly communication
+- Identify the most significant design decisions and their impact on effective communication
 - Discuss challenges encountered and solutions developed
-- Evaluate how this process changed your understanding of digital academic publishing
+- Evaluate how this process changed your understanding of web design and content adaptation
 
 ## Assessment Criteria
 
@@ -167,24 +167,24 @@ Bring together all elements from Labs 1-3 to create a cohesive, well-designed ac
 - Good accessibility implementation with clear evidence of inclusive design thinking
 
 **Advanced (Strong Understanding):**
-- Sophisticated CSS implementation that elevates academic content presentation
+- Sophisticated CSS implementation that elevates content presentation
 - Seamless integration of design strategy, semantic structure, and visual implementation
-- Creative solutions that address complex challenges in scholarly web communication
-- Exceptional attention to accessibility and inclusive design for diverse academic audiences
+- Creative solutions that address complex challenges in web communication
+- Exceptional attention to accessibility and inclusive design for diverse audiences
 - Professional-level code organization with comprehensive documentation
-- Clear evidence of design thinking applied to digital scholarship challenges
+- Clear evidence of design thinking applied to digital communication challenges
 
 ## Professional Skills Development
 This lab builds expertise in:
-- Design thinking applied to digital scholarship
-- User experience (UX) design for academic content
+- Design thinking applied to digital communication
+- User experience (UX) design for web content
 - Web accessibility and inclusive design practices
 - CSS implementation of design principles
-- Academic communication through visual design
-- Digital humanities and scholarly communication technologies
+- Effective communication through visual design
+- Modern web development technologies and best practices
 
 ## Resources and Tools
-- [WebAIM Accessibility Guidelines](https://webaim.org/) for academic content accessibility
+- [WebAIM Accessibility Guidelines](https://webaim.org/) for content accessibility
 - [Accessible Colors](https://accessible-colors.com/) for contrast checking
 - [Google Fonts](https://fonts.google.com/) with focus on reading-optimized typefaces
 - [CSS-Tricks](https://css-tricks.com/) for advanced layout techniques
@@ -200,11 +200,11 @@ This lab builds expertise in:
 - Submit integration reflection analyzing the complete Labs 1-3 journey
 - Provide links to live pages demonstrating responsive design across devices
 
-## Integration with Remediation Project
-This lab completes the design and technical foundation for your academic remediation project. Your CSS implementation should:
+## Integration with Course Project
+This lab completes the design and technical foundation for your content adaptation project. Your CSS implementation should:
 - Fully realize the design strategy developed in Lab 1
 - Effectively style the semantic HTML structure created in Lab 2
-- Create an accessible, engaging presentation of your scholarly and/or creative content
+- Create an accessible, engaging presentation of your academic and/or creative content
 - Prepare your project for the final responsive refinements in Lab 4
 
-*This lab bridges design theory and technical implementation, creating a foundation for sophisticated digital scholarship presentation.*
+*This lab bridges design theory and technical implementation, creating a foundation for effective digital communication.*

@@ -1,6 +1,6 @@
 # Lab 1: Design and Web Writing
 
-This lab introduces students to foundational principles of design and web writing, emphasizing accessibility, audience-centered thinking, and scholarly communication.
+This lab introduces students to foundational principles of design and web writing, emphasizing accessibility, audience-centered thinking, and effective communication.
 
 ## Exercises
 
@@ -10,11 +10,11 @@ This lab introduces students to foundational principles of design and web writin
 
 ### 2. Content Strategy Planning
 - **File:** `02-Content_Strategy_Planning.md`
-- **Focus:** Plan the remediation of academic and/or creative work for web publication, considering audience needs and accessibility.
+- **Focus:** Plan the adaptation of academic and/or creative work for web publication, considering audience needs and accessibility.
 
 ## Learning Objectives
 - Understand and apply design principles to academic and/or creative content.
-- Develop strategies for adapting scholarly and/or creative work for web audiences.
+- Develop strategies for adapting your work for web audiences.
 - Explore the relationship between design, accessibility, and communication.
 
 ## Resources

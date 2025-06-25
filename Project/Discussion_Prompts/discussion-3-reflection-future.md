@@ -1,133 +1,132 @@
 # Discussion 3: Reflection, Revision, and Future Directions
 
 **Timing:** Week 4 - After completing all labs and finalizing project work  
-**Purpose:** Synthesize learning, celebrate achievements, and envision future applications of digital scholarship skills
+**Purpose:** Synthesize learning, celebrate achievements, and explore how these skills might be useful going forward
 
 ## Discussion Prompt
 
-### **"Our Digital Scholarship Journey: Reflections and Next Steps"**
+### **"Our Web Design Learning Journey: Reflections and What's Next"**
 
-As you complete your academic and/or creative remediation project, take time to reflect on your learning journey and share insights with our community:
+As you complete your academic and/or creative remediation project, take time to reflect on your learning experience and share insights with our class:
 
-#### **1. Your Transformation Story** 
-How has your understanding of digital scholarship and public engagement evolved? Consider:
+#### **1. Your Learning Story** 
+How has your understanding of web design and online communication evolved? Consider:
 - What you thought this course would be about vs. what you actually learned
-- How your relationship to your own academic and/or creative work has changed
-- New perspectives on accessibility, audience, and scholarly communication
-- Skills you've developed that extend beyond web design
+- How your relationship to sharing your work online has changed
+- New perspectives on accessibility and reaching different audiences
+- Skills you've developed that might be useful beyond this class
 
 #### **2. Your Project Success** 
-What are you most proud of in your final remediation project? Highlight:
-- A design choice that effectively serves your audience
-- Content adaptation that maintains scholarly rigor while improving accessibility
-- Technical accomplishments that challenged you to grow
-- Moments when you successfully solved problems independently
-- Evidence that your work serves its intended users
+What are you most proud of in your final project? Highlight:
+- A design choice that works well for your intended readers
+- Content changes that made your work more accessible or engaging
+- Technical challenges you overcame
+- Moments when you figured something out on your own
+- Ways your web version serves readers better than the original
 
 #### **3. Your Audience Impact** 
-How do you envision your remediated work serving its intended audience? Describe:
-- Specific ways your web version improves access to your ideas
-- Who you hope will find and benefit from your work
-- How your project contributes to public understanding of your field
-- Ways it might support other students, researchers, or community members
-- Your plans for sharing or expanding this work beyond the course
+How might your web project serve its intended audience? Describe:
+- Specific ways your web version makes your ideas more accessible
+- Who you hope might find and benefit from your work
+- How your project might help others understand your topic
+- Ways it could be useful to students, colleagues, or community members
+- Whether you plan to share this work beyond our class
 
-#### **4. Your Professional Development** 
-How will these skills serve your academic and career goals? Consider:
-- Ways digital scholarship skills enhance your professional profile
-- Confidence gained in communicating complex ideas to diverse audiences
-- Technical skills that open new possibilities for research or service
-- Understanding of accessibility and inclusive design for future projects
-- Collaboration and community-building skills developed through our discussions
+#### **4. Your Personal Development** 
+How might these skills be useful in your work or personal life? Consider:
+- Ways web design skills could enhance your professional capabilities
+- Confidence gained in sharing complex ideas with different audiences
+- Technical skills that open new possibilities for projects or communication
+- Understanding of accessibility for future work
+- Problem-solving and learning skills developed through hands-on practice
 
-#### **5. Your Future Vision** 
-What's next for your digital scholarship journey? Share:
-- Ideas for expanding or iterating on this remediation project
-- Other academic work you'd like to make web-accessible
-- Ways you might integrate these approaches into future research
-- Opportunities to support other scholars in digital accessibility
-- Questions or areas where you want to continue learning
+#### **5. Your Future Ideas** 
+What interests you about continuing to work with these skills? Share:
+- Ideas for improving or expanding this project
+- Other work you might want to make web-accessible
+- Ways you might use these approaches in future projects
+- Opportunities to help others make their work more accessible
+- Areas where you'd like to continue learning
 
 ## Participation Options
 
-### **Comprehensive Reflection (400-500 words)**
-Address all five areas above in a thoughtful written reflection.
+### **Comprehensive Reflection (300-400 words)**
+Address the areas above in a thoughtful written reflection.
 
-### **Project Showcase Video (4-5 minutes)**
-Record yourself walking through your final project while reflecting on:
-- Key design and content decisions
-- Your learning process and growth
-- Impact goals and future applications
+### **Project Walkthrough Video (3-4 minutes)**
+Record yourself showing your final project while reflecting on:
+- Key design and content decisions you made
+- Your learning process and what challenged you
+- How you think the project works for readers
 
-### **Before/After Analysis**
-Create a visual comparison between:
-- Your original academic work and web-adapted version
-- Your initial course expectations and actual learning outcomes
-- Early design sketches and final project implementation
+### **Before/After Comparison**
+Create a visual comparison showing:
+- Your original work and web-adapted version
+- What you expected to learn vs. what you actually learned
+- Early ideas and final project results
 
-### **Professional Portfolio Piece**
-Draft a brief (200 words) professional summary of this project suitable for:
-- Academic CV or portfolio
-- Professional website or LinkedIn
-- Grant applications or job materials
-- Conference presentations about digital scholarship
+### **Brief Project Summary**
+Write a short (150-200 words) description of your project suitable for:
+- A personal website or portfolio
+- Sharing with friends or colleagues
+- Professional social media
+- Future job applications
 
-## Community Engagement Requirements
+## Class Engagement Requirements
 
 ### **Initial Reflection:** Due by [DATE]
-Share your comprehensive reflection using one of the formats above.
+Share your reflection using one of the formats above.
 
-### **Celebratory Responses:** Due by [DATE]
+### **Supportive Responses:** Due by [DATE]
 Respond to at least 2 classmates by:
-- **Celebrating specific achievements** you observe in their work and reflection
-- **Connecting their insights** to your own learning experience
-- **Offering appreciation** for contributions they made to your learning
-- **Suggesting future collaborations** or ways to support each other's ongoing work
-- **Sharing resources** relevant to their future digital scholarship goals
+- **Celebrating specific achievements** you see in their work
+- **Connecting their experiences** to your own learning
+- **Offering appreciation** for how they contributed to your learning
+- **Sharing encouragement** for their future goals
+- **Suggesting resources** that might help with their interests
 
-### **Community Legacy:** Optional ongoing
-Consider ways to maintain connections:
-- Exchange contact information for future collaboration
-- Share relevant resources as you encounter them
-- Support each other's digital scholarship projects beyond this course
-- Advocate for digital accessibility in your respective academic communities
+### **Staying Connected:** Optional
+Consider ways to keep in touch:
+- Exchange contact information if you'd like to collaborate
+- Share useful resources you find
+- Support each other's projects beyond this course
 
-## Course Learning Integration
+## Course Learning Summary
 
-This discussion serves as:
-- **Synthesis** of all course learning objectives
-- **Assessment** of personal and professional growth
-- **Vision-casting** for continued development in digital scholarship
-- **Community building** for ongoing mutual support
-- **Professional development** in articulating technical and design learning
+This discussion helps us:
+- **Review** everything we've learned in the course
+- **Assess** our personal growth and skill development
+- **Explore** how these skills might be useful going forward
+- **Appreciate** what we've learned from each other
+- **Celebrate** our accomplishments
 
-## Reflection Questions for Deep Thinking
+## Questions for Deeper Reflection
 
-Before posting, spend time considering:
-- How has this work changed your understanding of what scholarship can be?
-- What barriers to academic accessibility are you now equipped to address?
-- How might you advocate for inclusive design in your academic community?
-- What would you tell a colleague considering similar digital scholarship work?
-- How does this experience connect to your broader academic mission and values?
+Before posting, consider:
+- How has this work changed how you think about sharing ideas online?
+- What barriers to accessing information are you now better equipped to address?
+- How might you encourage accessibility in your work or community?
+- What would you tell a friend considering learning web design?
+- How does this experience connect to your personal interests and goals?
 
-## Looking Forward: Beyond the Course
+## Looking Ahead
 
 Consider sharing:
-- **Immediate next steps** for your remediation project (publication, promotion, iteration)
-- **Skills practice** you plan to continue (HTML/CSS, design thinking, accessibility testing)
-- **Community engagement** opportunities in digital scholarship
-- **Advocacy goals** for making academic work more accessible
-- **Collaboration interests** for future digital projects
+- **Next steps** for your project (will you publish it, show others, keep working on it?)
+- **Skills practice** you want to continue (more HTML/CSS, design practice, accessibility)
+- **Learning opportunities** you're interested in pursuing
+- **Ways to help others** make their work more accessible
+- **Future projects** where these skills might be useful
 
-## Professional Development Opportunity
+## Potential Applications
 
-Use this reflection as the foundation for:
-- Conference presentation proposals about digital scholarship
-- Blog posts about the academic-to-web translation process
-- Workshops for colleagues on accessibility and public engagement
-- Grant applications incorporating digital accessibility components
-- Job application materials highlighting digital communication skills
+This reflection and your project could be useful for:
+- Personal website or blog content
+- Professional portfolio pieces
+- Volunteer work involving communication or web design
+- Helping organizations improve their online accessibility
+- Teaching others about web design or accessibility
 
 ---
 
-*This discussion marks not an ending but a beginning. You've developed valuable skills in digital scholarship, accessibility, and public engagement that can serve your academic mission throughout your career. Celebrate your growth and carry these capabilities forward into all your scholarly and/or creative work.*
+*This discussion celebrates the end of our formal class time together, but the skills you've developed will continue to be useful in many contexts. You've learned valuable approaches to communication, accessibility, and problem-solving that can serve you in whatever directions your interests take you.*

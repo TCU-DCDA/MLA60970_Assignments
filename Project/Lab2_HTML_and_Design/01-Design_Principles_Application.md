@@ -1,19 +1,19 @@
 # Lab 2, Exercise 1: Design Principles Application
 
 ## Assignment Overview
-Building on your CRAP principles analysis from Lab 1, this exercise focuses on **applying** design principles to your own content. You'll take the design insights you gained from analyzing academic and/or creative websites and use them to plan the visual structure of your remediation project.
+Building on your CRAP principles analysis from Lab 1, this exercise focuses on **applying** design principles to your own content. You'll take the design insights you gained from analyzing websites and use them to plan the visual structure of your web project.
 
 ## Learning Objectives
 By completing this exercise, students will:
-- Apply CRAP principles (Contrast, Repetition, Alignment, Proximity) to their own content planning
+- Apply CRAP principles (Contrast, Repetition, Alignment, Proximity) to your own content planning
 - Understand how design principles translate into HTML structure decisions
 - Create a visual hierarchy plan that supports web reading patterns
 - Bridge the gap between design analysis and technical implementation
 
-## Exercise 1: CRAP Principles Planning for Your Remediation Project
+## Exercise 1: CRAP Principles Planning for Your Web Project
 
 ### Part A: Content Inventory and Grouping (Proximity)
-Using the academic and/or creative work you selected in Lab 1 for remediation, organize your content according to proximity principles.
+Using the academic and/or creative work you selected in Lab 1 for web adaptation, organize your content according to proximity principles.
 
 **Required Analysis:**
 1. **Content Chunking**

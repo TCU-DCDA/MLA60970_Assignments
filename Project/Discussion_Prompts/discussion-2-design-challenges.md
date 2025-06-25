@@ -9,24 +9,24 @@
 
 Now that you've begun translating your academic and/or creative work into web-friendly design and content, share your discoveries with the learning community:
 
-#### **1. Your Design Revelation** 
+#### **1. Your Design Discovery** 
 What's one thing about design thinking or web communication that surprised you? Consider:
 - How the CRAP principles (Contrast, Repetition, Alignment, Proximity) changed your perspective
-- Insights from analyzing academic websites in Lab 1
-- Moments when you realized something about reading gravity or user attention
+- Insights from analyzing websites in Lab 1
+- Moments when you realized something about how people read online
 - "Aha!" moments about accessibility or inclusive design
 
-#### **2. Your Translation Challenge** 
+#### **2. Your Adaptation Challenge** 
 What's been the most difficult aspect of adapting your academic and/or creative content for web audiences? Share:
-- Specific sentences or concepts that resist simplification
-- Moments when you worried about "dumbing down" your work
-- Tensions between scholarly precision and accessible communication
+- Specific sentences or concepts that are hard to simplify
+- Moments when you worried about changing your work too much
+- Balancing complexity with accessibility
 - Technical or design obstacles you're working through
 
 #### **3. Your Problem-Solving Process** 
 Describe how you approached one specific challenge. For example:
 - How did you decide what to cut, keep, or completely rewrite?
-- What strategies help you maintain scholarly integrity while improving accessibility?
+- What strategies help you maintain quality while improving accessibility?
 - How are you thinking about visual hierarchy for complex ideas?
 - What resources (outside readings, examples, tools) proved most helpful?
 
@@ -46,7 +46,7 @@ What would be most helpful to hear from classmates? Pose:
 
 ## Participation Options
 
-### **Problem-Solving Post (300-400 words)**
+### **Challenge-Focused Post (300-400 words)**
 Focus on sharing one challenge and your approach, then pose a specific question for community input.
 
 ### **Visual Documentation**
@@ -84,18 +84,18 @@ Circle back to share:
 ## Learning Objectives
 
 This discussion helps us:
-- **Normalize the struggle** of academic-to-web translation
-- **Develop problem-solving resilience** through community support
+- **Normalize the challenge** of adapting work for the web
+- **Develop problem-solving skills** through community support
 - **Learn diverse approaches** to similar challenges
 - **Build expertise** in audience-centered thinking
-- **Practice articulating** design and communication decisions
+- **Practice explaining** design and communication decisions
 
 ## Connection to Course Learning
 
 This discussion supports:
 - **Lab 2 & 3 work:** Applying community insights to HTML and CSS development
-- **Critical thinking:** Analyzing the relationship between medium and message
-- **Professional skills:** Communicating design decisions and creative processes
+- **Critical thinking:** Understanding the relationship between medium and message
+- **Communication skills:** Explaining design decisions and creative processes
 - **Collaborative learning:** Contributing to and benefiting from collective knowledge
 
 ## Questions to Guide Deep Reflection

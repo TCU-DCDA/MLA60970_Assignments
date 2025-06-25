@@ -1,6 +1,6 @@
 # Preparatory Materials Overview
 
-Welcome to MLA60970! This folder contains essential preparation materials for the course's design-first approach to academic web development. Please work through these materials before beginning Lab 1.
+Welcome to MLA60970! This folder contains essential preparation materials for the course's design-first approach to web development. Please work through these materials before beginning Lab 1.
 
 ## Quick Start Checklist
 
@@ -10,10 +10,10 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 - [ ] Test GitHub Pages functionality
 
 ### Conceptual Preparation ✅
-- [ ] Read [Academic Digital Literacy Primer](academic-digital-literacy.md)
-- [ ] Review [Design Thinking for Academics](design-thinking-prep.md)
-- [ ] Study [Web Reading and Academic Communication](web-reading-prep.md)
-- [ ] Complete [Academic Content Audit Worksheet](content-audit-template.md)
+- [ ] Read [Digital Communication Literacy Primer](academic-digital-literacy.md)
+- [ ] Review [Design Thinking Preparation](design-thinking-prep.md)
+- [ ] Study [Web Reading and Communication](web-reading-prep.md)
+- [ ] Complete [Content Audit Worksheet](content-audit-template.md)
 
 ## Material Descriptions
 
@@ -25,29 +25,29 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 - Professional development context
 - Troubleshooting common issues
 
-### [Academic Digital Literacy Primer](academic-digital-literacy.md)
+### [Digital Communication Literacy Primer](academic-digital-literacy.md)
 **Time Required:** 15-20 minutes  
-**Purpose:** Foundational understanding of digital scholarship
-- What digital scholarship means for MLA students
-- Why web skills matter for academic careers
-- Connection between design and scholarly credibility
-- Examples of effective academic websites
+**Purpose:** Foundational understanding of digital communication
+- What digital communication means for MLA students
+- Why web skills matter for professional development
+- Connection between design and credibility
+- Examples of effective websites
 
-### [Design Thinking for Academics](design-thinking-prep.md)
+### [Design Thinking Preparation](design-thinking-prep.md)
 **Time Required:** 20-25 minutes  
 **Purpose:** Prepare for Lab 1's design-first approach
 - User-centered design principles for content
 - How design serves accessibility and engagement goals
-- Visual literacy basics for academic communication
-- Preparation for analyzing academic websites
+- Visual literacy basics for effective communication
+- Preparation for analyzing websites
 
-### [Web Reading and Academic Communication](web-reading-prep.md)
+### [Web Reading and Communication](web-reading-prep.md)
 **Time Required:** 15-20 minutes  
-**Purpose:** Understand how academic reading changes online
+**Purpose:** Understand how reading changes online
 - Differences between print and web reading
-- Scanning behavior and academic content implications
+- Scanning behavior and content implications
 - Accessibility considerations for diverse audiences
-- Preparing for effective content remediation
+- Preparing for effective content adaptation
 
 ### [Academic Content Audit Worksheet](content-audit-template.md)
 **Time Required:** 45-60 minutes  
