@@ -3,6 +3,11 @@
 ## Assignment Overview
 Building on your CRAP principles analysis from Lab 1, this exercise focuses on **applying** design principles to your own content. You'll take the design insights you gained from analyzing websites and use them to plan the visual structure of your web project.
 
+## Required Preparation
+Before beginning this exercise, review these concepts from previous videos:
+- **"CRAP Principles"** - Refresh your understanding of the four design principles
+- **"Reading Gravity"** - Remember how visual elements affect where people look on web pages
+
 ## Learning Objectives
 By completing this exercise, students will:
 - Apply CRAP principles (Contrast, Repetition, Alignment, Proximity) to your own content planning

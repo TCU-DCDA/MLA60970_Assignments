@@ -3,6 +3,11 @@
 ## Assignment Overview
 This exercise focuses on **planning your web project**. You'll select academic and/or creative work to transform for web publication and develop a strategy for making that content accessible, engaging, and effective for web audiences while keeping what makes it valuable.
 
+## Required Preparation
+Before beginning this exercise, watch these videos:
+- **"Reading Gravity"** - Understand how people read on screens and what this means for your content
+- **"Writing for the Web"** - Learn specific techniques for formatting content that works well online
+
 ## Learning Objectives
 By completing this exercise, students will:
 - Select appropriate academic and/or creative work for web adaptation
@@ -53,6 +58,8 @@ Analyze how your audience will change when moving from academic/artistic context
 ### Part C: Reading Behavior Analysis
 Understand how web reading differs from academic/artistic reading contexts.
 
+*Reference the "Reading Gravity" and "Writing for the Web" videos for key concepts in this section.*
+
 **Print vs. Web Reading Patterns:**
 1. **Linear vs. non-linear** reading expectations
 2. **Deep vs. scanning** reading behaviors
@@ -60,10 +67,11 @@ Understand how web reading differs from academic/artistic reading contexts.
 4. **Device considerations** (desktop, mobile, tablet reading)
 
 **Web-Specific Considerations:**
-1. **F-pattern reading** - how readers scan web content
-2. **Chunking expectations** - breaking content into digestible sections
-3. **Navigation needs** - how readers move through multipage content
-4. **Search and discovery** - how people find and share content
+1. **F-pattern reading** - how readers scan web content (from "Reading Gravity" video)
+2. **Layer cake pattern** - readers look for "icing" and skip "cake" content
+3. **Chunking expectations** - breaking content into digestible sections
+4. **Navigation needs** - how readers move through multipage content
+5. **Search and discovery** - how people find and share content
 
 **Deliverable:** Reading behavior analysis with implications for your content structure.
 

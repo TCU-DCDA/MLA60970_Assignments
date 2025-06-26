@@ -3,6 +3,11 @@
 ## Assignment Overview
 This foundational lab introduces essential concepts for making your ideas accessible and engaging online. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform your academic and/or creative work for web audiences.
 
+## Required Preparation
+Before beginning this lab, watch these videos:
+- **"Artificiality of Academic Writing"** - Understand why web writing requires different approaches
+- **"CRAP Principles"** - Learn the four fundamental design principles you'll analyze
+
 ## Learning Objectives
 By completing this lab, students will:
 - Understand CRAP design principles and how they make websites more effective

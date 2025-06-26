@@ -6,20 +6,21 @@
 
 ### Monday, July 7
 - **Videos to Watch:**
-  - "Introduction to CRAP Principles"
-  - "Reading Gravity and Web Communication"
+  - "Artificiality of Academic Writing"
+  - "CRAP Principles"
 - **Assignments Due:**
   - Complete Preparatory Materials checklist
 
 ### Tuesday, July 8
 - **Videos to Watch:**
-  - "Content Strategy for Web Adaptation"
+  - "Reading Gravity"
+  - "Writing for the Web"
 - **Assignments Due:**
   - CRAP Principles Analysis (`Lab1_Design_and_Web_Writing/01-CRAP_Principles_Analysis.md`)
 
 ### Wednesday, July 9
 - **Videos to Watch:**
-  - "Web Reading Patterns and User Attention"
+  - "HTML Basics for Content"
 - **Assignments Due:**
   - Content Strategy Planning (`Lab1_Design_and_Web_Writing/02-Content_Strategy_Planning.md`)
 - **Discussion Prompt:**
@@ -28,8 +29,6 @@
   - **Peer Responses Due:** Friday, July 11
 
 ### Thursday, July 10
-- **Videos to Watch:**
-  - "HTML Basics for Content"
 - **Assignments Due:**
   - Design Principles Application (`Lab2_HTML_and_Design/01-Design_Principles_Application.md`)
 

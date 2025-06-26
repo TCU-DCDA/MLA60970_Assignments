@@ -3,6 +3,11 @@
 ## Assignment Overview
 Building on the design principles and web writing strategies from Lab 1, this lab introduces HTML fundamentals and semantic markup. You'll apply your understanding of CRAP principles and web reading patterns to create properly structured HTML documents that support content accessibility and user experience.
 
+## Required Preparation
+This lab builds directly on concepts from previous videos:
+- **"Writing for the Web"** - Review formatting techniques for web content (short paragraphs, headings, lists)
+- **"CRAP Principles"** - Remember how contrast and alignment apply to HTML structure
+
 ## Learning Objectives
 By completing this lab, students will:
 - Understand the relationship between Markdown and HTML in web publishing
