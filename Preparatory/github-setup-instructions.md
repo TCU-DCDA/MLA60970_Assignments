@@ -67,16 +67,30 @@ This guide helps you set up GitHub for hosting your content adaptation project w
 
 ## Basic Workflow for This Course
 
-### Making Changes
+### Making Changes (Web Interface - Recommended for Beginners)
 1. Edit files directly in GitHub's web interface
 2. Add a commit message describing your changes
 3. Click "Commit changes"
 4. Changes appear on your live site within 5-10 minutes
 
+**Why we use the web interface:**
+- **No command line needed** - works the same on Mac and PC
+- **Immediate publishing** - changes go live automatically
+- **Beginner-friendly** - visual interface with clear buttons
+- **Cross-platform** - works in any web browser
+
 ### Organizing Your Project
 - Use folders to organize different projects
 - Keep file names lowercase with hyphens: `my-project.html`
 - Always include an `index.html` file in each folder
+
+### Alternative: Local Development (Optional)
+If you want to work on your computer and upload files:
+1. **Download your repository** - Click green "Code" button → "Download ZIP"
+2. **Edit files locally** - Use VS Code or any text editor
+3. **Upload changes** - Drag and drop files back into GitHub web interface
+
+*We'll focus on the web interface for this course to keep things simple and consistent across different operating systems.*
 
 ## Troubleshooting
 
@@ -85,10 +99,21 @@ This guide helps you set up GitHub for hosting your content adaptation project w
 - Check that main file is named `index.html`
 - Wait 10-15 minutes for changes to appear
 
+**Can't find the "Settings" tab?**
+- Make sure you're in your repository (not your profile)
+- Look for the Settings tab at the top of your repository page
+- Try refreshing the page
+
+**Files not uploading?**
+- Check file size (GitHub has limits)
+- Ensure file names don't have spaces or special characters
+- Try using lowercase letters with hyphens instead
+
 **Need help?**
 - Review the video tutorial
 - Check GitHub's documentation: [docs.github.com](https://docs.github.com)
 - Ask questions in class or office hours
+- **Remember:** We're using the web interface - no command line needed!
 
 ## Why GitHub for This Course
 

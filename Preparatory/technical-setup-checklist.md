@@ -86,16 +86,18 @@ Create test file `test.html` with this content:
 ### ✅ Test GitHub Workflow
 - [ ] Create new repository on GitHub: `web-dev-test`
 - [ ] Make repository public
-- [ ] Add README file
-- [ ] Can edit files directly on GitHub
+- [ ] Add README file using GitHub's web interface
+- [ ] Can edit files directly on GitHub (no command line needed)
 - [ ] Can view repository at github.com/yourusername/web-dev-test
 
-### ✅ GitHub Pages Setup
+### ✅ GitHub Pages Setup (Web Interface Only)
 - [ ] Go to repository Settings
 - [ ] Find "Pages" section
 - [ ] Set source to "Deploy from branch: main"
 - [ ] Note your GitHub Pages URL
 - [ ] Verify simple webpage publishes successfully
+
+**Note:** This course uses GitHub's web interface exclusively - no command line or terminal commands required. Works the same on Mac and PC.
 
 ## Phase 6: Final Verification
 
