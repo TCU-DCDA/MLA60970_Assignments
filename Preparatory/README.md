@@ -1,37 +1,37 @@
 # Preparatory Materials Overview
 
-Welcome to MLA60970! This folder contains essential preparation materials for the course's design-first approach to web development. Please work through these materials before beginning Lab 1.
+Welcome to MLA60970! This folder contains essential preparation materials for the course's design-first approach to web development. These materials will be completed during the first week of class as part of the course schedule.
 
 ## Quick Start Checklist
 
-### Technical Setup ✅
-- [ ] Complete [Technical Setup Checklist](technical-setup-checklist.md) - **START HERE**
-- [ ] Watch required video tutorials (VS Code and GitHub)
+### Technical Setup ✅ - **Day 1 (Monday, July 7)**
+- [ ] Complete [Technical Setup Checklist](technical-setup-checklist.md) - **IN CLASS**
+- [ ] Watch required video tutorials (VS Code and GitHub) - **DAY 1**
 - [ ] Install and configure VS Code with web development extensions
 - [ ] Create GitHub account and test repository creation
 - [ ] Complete [VS Code Setup Guide](vscode-setup-instructions.md)
 - [ ] Follow [GitHub Setup Instructions](github-setup-instructions.md)
 - [ ] Test complete workflow from VS Code to GitHub Pages
 
-### Conceptual Preparation ✅
-- [ ] Read [Digital Communication Literacy Primer](academic-digital-literacy.md)
-- [ ] Review [Design Thinking Preparation](design-thinking-prep.md)
-- [ ] Study [Web Reading and Communication](web-reading-prep.md)
-- [ ] Complete [Content Audit Worksheet](content-audit-template.md)
+### Conceptual Preparation ✅ - **Days 1-2**
+- [ ] Read [Digital Communication Literacy Primer](academic-digital-literacy.md) - **DAY 1**
+- [ ] Review [Design Thinking Preparation](design-thinking-prep.md) - **DAY 2**
+- [ ] Study [Web Reading and Communication](web-reading-prep.md) - *Optional reference*
+- [ ] Complete [Content Audit Worksheet](content-audit-template.md) - **DAY 4 (Thursday)**
 
 ## Material Descriptions
 
-### [Technical Setup Checklist](technical-setup-checklist.md) - **START HERE**
-**Time Required:** 60-90 minutes  
+### [Technical Setup Checklist](technical-setup-checklist.md) - **DAY 1 IN CLASS**
+**Time Required:** 60-90 minutes (guided in class)  
 **Purpose:** Complete all technical setup with guided workflow testing
-- Video tutorials for VS Code and GitHub (watch first)
+- Video tutorials for VS Code and GitHub (watch in class)
 - Software installation and configuration
 - Extension setup for web development
 - Complete workflow testing from development to deployment
 - Professional setup verification
 
-### [VS Code Setup Guide](vscode-setup-instructions.md)
-**Time Required:** 30-45 minutes  
+### [VS Code Setup Guide](vscode-setup-instructions.md) - **DAY 1**
+**Time Required:** 30-45 minutes (guided in class)  
 **Purpose:** Configure professional web development environment
 - VS Code installation and essential extensions
 - Web development configuration and settings
@@ -39,8 +39,8 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 - Code formatting and file organization
 - Professional development workflow
 
-### [GitHub Setup Instructions](github-setup-instructions.md)
-**Time Required:** 30-45 minutes  
+### [GitHub Setup Instructions](github-setup-instructions.md) - **DAY 1**
+**Time Required:** 30-45 minutes (guided in class)  
 **Purpose:** GitHub account and repository management
 - Professional GitHub account creation
 - Repository creation and management
@@ -48,7 +48,7 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 - Version control basics and classroom access
 - Professional portfolio development context
 
-### [Digital Communication Literacy Primer](academic-digital-literacy.md)
+### [Digital Communication Literacy Primer](academic-digital-literacy.md) - **DAY 1**
 **Time Required:** 15-20 minutes  
 **Purpose:** Foundational understanding of digital communication
 - What digital communication means for MLA students
@@ -56,54 +56,60 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 - Connection between design and credibility
 - Examples of effective websites
 
-### [Design Thinking Preparation](design-thinking-prep.md)
+### [Design Thinking Preparation](design-thinking-prep.md) - **DAY 2**
 **Time Required:** 20-25 minutes  
-**Purpose:** Prepare for Lab 1's design-first approach
+**Purpose:** Prepare for Week 1's design-first approach
 - User-centered design principles for content
 - How design serves accessibility and engagement goals
 - Visual literacy basics for effective communication
 - Preparation for analyzing websites
 
-### [Web Reading and Communication](web-reading-prep.md)
+### [Web Reading and Communication](web-reading-prep.md) - *OPTIONAL REFERENCE*
 **Time Required:** 15-20 minutes  
-**Purpose:** Understand how reading changes online
+**Purpose:** Reference material for understanding web reading patterns
 - Differences between print and web reading
 - Scanning behavior and content implications
 - Accessibility considerations for diverse audiences
-- Preparing for effective content adaptation
+- Available as reference during weeks when needed
 
-### [Academic Content Audit Worksheet](content-audit-template.md)
+### [Content Audit Worksheet](content-audit-template.md) - **COMPLETE BY DAY 3**
 **Time Required:** 45-60 minutes  
-**Purpose:** Select and plan your remediation project
+**Purpose:** Select and plan your content adaptation project
 - Evaluate potential academic work for web transformation
 - Audience analysis and accessibility planning
 - Project scope and feasibility assessment
 - Foundation for content strategy development
+- **Flexible deadline:** Can be completed during first week of course
 
 ## Learning Progression
 
-### Before Lab 1: Design Principles and Web Writing
+### Before Week 1: Design Principles and Web Writing
 Complete all preparatory materials to understand:
 - Why design matters for academic communication
 - How to analyze academic websites effectively
 - What makes content accessible online
 - Which of your academic work to transform
 
-### Connection to Course Labs
+### Connection to Course Weeks
 These materials prepare you for:
-- **Lab 1**: Design analysis and content strategy
-- **Lab 2**: HTML implementation of design insights
-- **Lab 3**: CSS styling that serves academic goals
-- **Lab 4**: Responsive design for content
+- **Week 1**: Design analysis and content strategy
+- **Week 2**: HTML implementation of design insights
+- **Week 3**: CSS styling that serves academic goals
+- **Week 4**: Responsive design for content
 
 ## Time Investment
 
-**Total Preparation Time:** 2-3 hours
+**Total Setup Time:** Integrated into first week of class
 
-**Recommended Schedule:**
-- **Day 1:** GitHub setup and Academic Digital Literacy Primer
-- **Day 2:** Design Thinking and Web Reading materials
-- **Day 3:** Complete Content Audit Worksheet and project selection
+**Class Schedule Integration:**
+- **Day 1 (Monday):** Technical setup completed in class with instructor guidance (90 minutes)
+- **Day 1 (Monday):** Digital Communication Literacy reading (15-20 minutes)
+- **Day 2 (Tuesday):** Design Thinking Preparation reading (20-25 minutes)
+- **Day 4 (Thursday):** Content Audit Worksheet completion (45-60 minutes)
+- **Weekend:** HTML Fundamentals assignment completion for Monday
+- **As Needed:** Web Reading material available as reference during weeks
+
+**Note:** All preparatory materials are integrated into the course schedule - no work required before the first day of class.
 
 ## Getting Help
 
@@ -128,10 +134,10 @@ These materials prepare you for:
 - **Patience:** Allow time to absorb new concepts and approaches
 
 ### Take Notes On:
-- Key insights about design and academic communication
+- Key insights about design and professional communication
 - Questions that arise about your content audit
-- Ideas for your remediation project
-- Connections between materials and your academic interests
+- Ideas for your content adaptation project
+- Connections between materials and your professional interests
 
 ## Professional Context
 
@@ -149,4 +155,4 @@ These materials prepare you for:
 
 ---
 
-*Take your time with these materials—they provide the conceptual foundation for everything we'll do in the lab sequence. Understanding the "why" behind design decisions will make the technical implementation much more meaningful and effective.*
+*Take your time with these materials—they provide the conceptual foundation for everything we'll do in the week sequence. Understanding the "why" behind design decisions will make the technical implementation much more meaningful and effective.*

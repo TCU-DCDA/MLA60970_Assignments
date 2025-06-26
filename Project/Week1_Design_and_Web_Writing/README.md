@@ -1,6 +1,6 @@
-# Lab 1: Design and Web Writing
+# Week 1: Design and Web Writing
 
-This lab introduces students to foundational principles of design and web writing, emphasizing accessibility, audience-centered thinking, and effective communication. Complete this lab during Week 1 alongside the foundational videos.
+This week introduces students to foundational principles of design and web writing, emphasizing accessibility, audience-centered thinking, and effective communication. Complete this week during Week 1 alongside the foundational videos.
 
 ## Required Video Preparation
 - **"CRAP Principles"** (Monday, July 7) - Foundation for Exercise 1
@@ -29,4 +29,4 @@ This lab introduces students to foundational principles of design and web writin
 
 ---
 
-*This lab sets the foundation for the technical implementation in subsequent labs.*
+*This week sets the foundation for the technical implementation in subsequent weeks.*

@@ -1,6 +1,6 @@
 # Discussion 2: Navigating Design and Content Challenges
 
-**Timing:** Week 2-3 - After completing Lab 1 (Design Principles) and working through Lab 2 (HTML Fundamentals)  
+**Timing:** Week 3 - After completing Week 1 (Design Principles) and working through Week 2 (HTML Fundamentals)  
 **Purpose:** Share challenges, celebrate breakthroughs, and learn from each other's problem-solving approaches
 
 ## Discussion Prompt
@@ -12,7 +12,7 @@ Now that you've begun translating your academic and/or creative work into web-fr
 #### **1. Your Design Discovery** 
 What's one thing about design thinking or web communication that surprised you? Consider:
 - How the CRAP principles (Contrast, Repetition, Alignment, Proximity) changed your perspective
-- Insights from analyzing websites in Lab 1
+- Insights from analyzing websites in Week 1
 - Moments when you realized something about how people read online
 - "Aha!" moments about accessibility or inclusive design
 
@@ -93,7 +93,7 @@ This discussion helps us:
 ## Connection to Course Learning
 
 This discussion supports:
-- **Lab 2 & 3 work:** Applying community insights to HTML and CSS development
+- **Week 2 & 3 work:** Applying community insights to HTML and CSS development
 - **Critical thinking:** Understanding the relationship between medium and message
 - **Communication skills:** Explaining design decisions and creative processes
 - **Collaborative learning:** Contributing to and benefiting from collective knowledge

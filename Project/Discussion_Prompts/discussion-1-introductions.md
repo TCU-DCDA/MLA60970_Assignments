@@ -1,6 +1,6 @@
 # Discussion 1: Academic and/or Creative Work and Digital Transformation
 
-**Timing:** Week 1 - After completing Preparatory Materials, before beginning Lab 1  
+**Timing:** Week 1 - After completing Preparatory Materials, during Week 1 assignments  
 **Purpose:** Build community through shared interests and establish motivation for your web project
 
 ## Discussion Prompt
@@ -76,7 +76,7 @@ This discussion helps us:
 ## Connection to Course Learning
 
 This discussion prepares you for:
-- **Lab 1:** Analyzing websites with awareness of diverse user needs
+- **Week 1 work:** Analyzing websites with awareness of diverse user needs
 - **Content Strategy:** Understanding how personal motivation drives effective web communication
 - **Audience Analysis:** Developing user-centered thinking for your web project
 - **Skill Development:** Articulating your work for broader audiences

@@ -1,7 +1,7 @@
 # Technical Setup Checklist for MLA60970
 
 ## Overview
-This checklist ensures you have all the technical tools configured before beginning Lab 1. Complete all items in order - the setup builds on itself.
+This checklist ensures you have all the technical tools configured before beginning Week 1. Complete all items in order - the setup builds on itself.
 
 ## Phase 1: Video Tutorials (Required Viewing)
 
@@ -54,7 +54,7 @@ Configure through Settings (Ctrl/Cmd+,):
 ### ✅ Create Course Workspace
 - [ ] Create folder on computer: `MLA60970-WebDev`
 - [ ] Open folder in VS Code (File → Open Folder)
-- [ ] Create subfolder: `Lab1`
+- [ ] Create subfolder: `Week1`
 - [ ] Verify you can navigate files in VS Code
 
 ### ✅ Test HTML Development
@@ -138,7 +138,7 @@ Test the complete development workflow:
 - [ ] Review [Preparatory Materials](README.md) checklist
 - [ ] Read [Digital Communication Literacy](academic-digital-literacy.md)
 - [ ] Complete [Design Thinking Preparation](design-thinking-prep.md)
-- [ ] Begin Lab 1 when course starts
+- [ ] Begin Week 1 when course starts
 
 ### Professional Development Context
 This technical setup provides:

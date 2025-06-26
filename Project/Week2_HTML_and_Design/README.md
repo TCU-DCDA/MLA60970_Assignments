@@ -1,6 +1,6 @@
-# Lab 2: HTML and Design
+# Week 2: HTML and Design
 
-This lab builds on the foundational principles of design and web writing introduced in Lab 1, focusing on HTML fundamentals and the application of design principles to web content. Complete this lab during Week 1 alongside HTML introduction videos.
+This week builds on the foundational principles of design and web writing introduced in Week 1, focusing on HTML fundamentals and the application of design principles to web content. Complete this week during Week 1 alongside HTML introduction videos.
 
 ## Required Video Preparation
 - **"HTML Basics for Content"** (Wednesday, July 9) - Foundation for both exercises

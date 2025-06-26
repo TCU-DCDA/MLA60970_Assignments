@@ -1,16 +1,16 @@
-# Lab 3: CSS Implementation and Professional Web Development
+# Week 3: CSS Implementation and Professional Web Development
 
 ## Assignment Overview
-Building on the design principles from Lab 1 and semantic HTML structure from Lab 2, this lab focuses on implementing visual design through CSS while incorporating professional web development practices. You'll apply CRAP principles, create layouts that support web reading patterns, and build websites that meet professional standards for accessibility, organization, and discoverability.
+Building on the design principles from Week 1 and semantic HTML structure from Week 2, this week focuses on implementing visual design through CSS while incorporating professional web development practices. You'll apply CRAP principles, create layouts that support web reading patterns, and build websites that meet professional standards for accessibility, organization, and discoverability.
 
 ## Required Preparation
-This lab integrates concepts from Week 2 videos:
+This week integrates concepts from Week 2 videos:
 - **"CSS Layout and Visual Hierarchy"** (Monday, July 14) - Advanced layout techniques
 - **"Typography and Accessibility in Web Design"** (Tuesday, July 15) - Professional typography and accessibility-first CSS development
 - **"CSS Grid and Flexbox for Content Layout"** (Thursday, July 17) - Modern CSS layout systems
 
 ## Learning Objectives
-By completing this lab, students will:
+By completing this week, students will:
 - Implement CRAP design principles (Contrast, Repetition, Alignment, Proximity) through CSS
 - Create visual hierarchy that supports F-pattern and layer cake reading
 - Master CSS layout techniques for effective academic and/or creative content presentation
@@ -19,20 +19,20 @@ By completing this lab, students will:
 - Implement CSS that supports SEO and content discoverability
 - Apply typography and spacing principles for enhanced communication
 
-## Lab Exercises
+## Week Exercises
 
 ### Exercise 1: CRAP Principles Implementation Through CSS
-Apply the design analysis from Lab 1 by implementing CRAP principles using CSS on your Lab 2 HTML structure.
+Apply the design analysis from Week 1 by implementing CRAP principles using CSS on your Week 2 HTML structure.
 
 **Requirements:**
-- Use your HTML files from Lab 2 as the foundation
+- Use your HTML files from Week 2 as the foundation
 - Implement each CRAP principle through specific CSS techniques:
 
 **Contrast Implementation:**
 - Create clear visual hierarchy using typography (font-size, font-weight, color)
 - Use color contrast to emphasize key concepts and improve accessibility
 - Implement spacing contrast to distinguish between content types
-- Apply the contrast techniques you analyzed in Lab 1's website review
+- Apply the contrast techniques you analyzed in Week 1's website review
 
 **Repetition Implementation:**
 - Develop consistent styling patterns for headings, paragraphs, lists, and quotes
@@ -48,12 +48,12 @@ Apply the design analysis from Lab 1 by implementing CRAP principles using CSS o
 **Proximity Implementation:**
 - Group related content visually through spacing, borders, or background colors
 - Use CSS to enhance the semantic relationships you established in your HTML
-- Create clear sections that support the web reading patterns identified in Lab 1
+- Create clear sections that support the web reading patterns identified in Week 1
 
 **Assessment for Exercise 1:**
 - Document how each CSS rule implements a specific CRAP principle
 - Include before/after screenshots showing design improvements
-- Write analysis (200-300 words) connecting your Lab 1 insights to CSS implementation
+- Write analysis (200-300 words) connecting your Week 1 insights to CSS implementation
 
 ### Exercise 2: Typography and Reading Experience Optimization
 Implement typography strategies that support the web reading patterns analyzed in Lab 1.

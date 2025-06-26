@@ -1,22 +1,22 @@
-# Lab 1: Design Principles and Web Writing
+# Week 1: Design Principles and Web Writing
 
 ## Assignment Overview
-This foundational lab introduces essential concepts for making your ideas accessible and engaging online. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform your academic and/or creative work for web audiences.
+This foundational week introduces essential concepts for making your ideas accessible and engaging online. You'll learn CRAP design principles, understand how web reading differs from print reading, and begin planning how to transform your academic and/or creative work for web audiences.
 
 ## Required Preparation
-Before beginning this lab, watch these videos:
+Before beginning this week, watch these videos:
 - **"Artificiality of Academic Writing"** - Understand why web writing requires different approaches
 - **"CRAP Principles"** - Learn the four fundamental design principles you'll analyze
 
 ## Learning Objectives
-By completing this lab, students will:
+By completing this week, students will:
 - Understand CRAP design principles and how they make websites more effective
 - Analyze web reading patterns (F-pattern, layer cake) and what they mean for your content
 - Apply web writing principles to make complex ideas more accessible
 - Evaluate how design choices affect whether people can find and understand your work
 - Begin planning how to share your own work online
 
-## Lab Exercises
+## Week Exercises
 
 ### Exercise 1: CRAP Principles Analysis
 Learn the foundation design principles by analyzing how they work on real websites.
@@ -30,9 +30,8 @@ Learn the foundation design principles by analyzing how they work on real websit
 **Requirements:**
 - **Choose a website with substantial content** (university site, online magazine, blog, portfolio, etc.)
 - **Analyze using each CRAP principle** with specific focus on how design choices help or hinder readers
-- **Consider different audiences**: How do design choices serve different types of visitors?
-- **Write 400-500 word analysis** with specific examples and screenshots
-- **Evaluate effectiveness**: Do the design choices make the content easy to find and understand?
+- **Write 300-400 word analysis** with specific examples and one screenshot per principle
+- **Focus on effectiveness**: Do the design choices make the content easy to find and understand?
 
 ### Exercise 2: Web Reading Patterns and Academic Content
 Understand how web reading differs from print reading and what this means for academic writing.
@@ -45,26 +44,23 @@ Understand how web reading differs from print reading and what this means for ac
 **Requirements:**
 - **Analyze a substantial piece of academic writing** (journal article, research paper, etc.)
 - **Identify challenges** this content would face in web environment based on reading patterns
-- **Create a "web writing" version** of one section (300-400 words) applying scannability principles:
+- **Create a "web writing" version** of one section (200-300 words) applying scannability principles:
   - Shorter paragraphs (100 words or less)
   - Strategic headings and subheadings
   - Key concepts emphasized (note where you would use bold formatting)
   - Bullet or numbered lists for key takeaways
-- **Write comparison analysis** (200-300 words) explaining your revision choices
+- **Write brief comparison** (150-200 words) explaining your revision choices
 
 ### Exercise 3: Content Strategy for Academic Remediation
 Begin planning how to transform academic work for web publication.
 
 **Requirements:**
 - **Choose your own academic work** for the final remediation project (research paper, essay, creative work, etc.)
-- **Audience analysis**: Compare your original academic audience with potential web readers
-- **Content audit**: Identify sections that need substantial revision for web format
+- **Audience analysis**: Compare your original academic audience with potential web readers (150-200 words)
 - **Structure planning**: Outline how you would break content into 4-5 scannable web pages
-- **Design considerations**: Note where CRAP principles and web writing techniques will be most important
-- **Create content strategy document** (400-500 words) addressing:
+- **Create content strategy overview** (300-400 words) addressing:
   - Why this work deserves broader accessibility
   - Main challenges in web transformation
-  - Opportunities for enhanced engagement through design
   - Initial ideas for visual hierarchy and navigation
 
 ## Assessment Criteria
@@ -89,7 +85,7 @@ Begin planning how to transform academic work for web publication.
 - Clear evidence of understanding how design principles support intellectual engagement
 
 ## Professional Development Focus
-This lab emphasizes skills directly applicable to:
+This week emphasizes skills directly applicable to:
 - Digital humanities and scholarly communication
 - Academic publishing and editorial work
 - Content strategy for educational and cultural institutions
@@ -110,4 +106,4 @@ This lab emphasizes skills directly applicable to:
 - Submit design planning documents for remediation project
 - Include reflection on how design principles specifically serve academic content and audiences
 
-*This lab develops critical design analysis skills while building practical CSS implementation abilities specifically focused on academic content needs.*
+*This week develops critical design analysis skills while building practical CSS implementation abilities specifically focused on academic content needs.*

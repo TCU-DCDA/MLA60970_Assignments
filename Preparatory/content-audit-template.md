@@ -1,4 +1,6 @@
-# Academic Content Audit Worksheet
+# Content Audit Worksheet
+
+**Timing:** Complete on Day 4 (Thursday, July 10) along with design principles work.
 
 ## Purpose
 

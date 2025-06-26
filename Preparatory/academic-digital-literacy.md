@@ -117,10 +117,10 @@ As you begin the course, reflect on:
 
 ### Course Progression
 This primer prepares you for:
-- **Lab 1**: Analyzing design principles in academic websites and planning content strategy
-- **Lab 2**: Implementing semantic structure that supports both design and accessibility
-- **Lab 3**: Using CSS to create professional, accessible presentation of scholarly and/or creative content
-- **Lab 4**: Ensuring your academic web presence works effectively across all devices and contexts
+- **Week 1**: Analyzing design principles in academic websites and planning content strategy
+- **Week 2**: Implementing semantic structure that supports both design and accessibility
+- **Week 3**: Using CSS to create professional, accessible presentation of scholarly and/or creative content
+- **Week 4**: Ensuring your academic web presence works effectively across all devices and contexts
 
 ### Beyond This Course
 The skills you develop will serve:

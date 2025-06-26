@@ -48,7 +48,7 @@ Install these extensions through the Extensions panel (Ctrl/Cmd+Shift+X):
 - Your webpage opens in browser and updates automatically as you code
 
 **File Organization:**
-- Create folders for each lab (Lab1, Lab2, etc.)
+- Create folders for each week (Week1, Week2, etc.)
 - Keep HTML, CSS, and image files organized
 - Use clear, professional file names
 
@@ -114,7 +114,7 @@ Create a simple test file to verify everything works:
 4. **Right-click → Open with Live Server**
 5. **Verify** the page opens in your browser
 
-If all steps work, you're ready for Lab 1!
+If all steps work, you're ready for Week 1!
 
 ## Next Steps
 

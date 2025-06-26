@@ -1,6 +1,6 @@
-# Lab 4: Responsive Design
+# Week 4: Responsive Design
 
-This final lab brings together design principles, semantic HTML, and CSS implementation to create a fully responsive web presence. Students optimize their content for all devices while maintaining the accessibility and engagement goals established in Labs 1-3. Complete this lab during Weeks 2-3 alongside responsive design and optimization videos.
+This final week brings together design principles, semantic HTML, and CSS implementation to create a fully responsive web presence. Students optimize their content for all devices while maintaining the accessibility and engagement goals established in Weeks 1-3. Complete this week during Weeks 2-3 alongside responsive design and optimization videos.
 
 ## Required Video Preparation
 - **"Responsive Design and Mobile-First Principles"** (Wednesday, July 16) - Foundation for responsive approach
@@ -38,9 +38,9 @@ This final lab brings together design principles, semantic HTML, and CSS impleme
 - Professional web development workflow
 
 ## Final Project Integration
-This lab culminates the content adaptation project by:
+This week culminates the content adaptation project by:
 - Creating a fully responsive, accessible web presence
-- Integrating all elements from Labs 1-3 into a cohesive design
+- Integrating all elements from Weeks 1-3 into a cohesive design
 - Preparing content for broader public engagement
 - Demonstrating mastery of web design and development skills
 
@@ -52,4 +52,4 @@ This lab culminates the content adaptation project by:
 
 ---
 
-*This lab completes the journey from content to effective web communication.*
+*This week completes the journey from content to effective web communication.*

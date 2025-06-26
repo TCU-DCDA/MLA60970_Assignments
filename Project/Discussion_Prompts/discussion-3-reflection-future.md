@@ -1,6 +1,6 @@
 # Discussion 3: Reflection, Revision, and Future Directions
 
-**Timing:** Week 4 - After completing all labs and finalizing project work  
+**Timing:** Week 4 - After completing all weekly assignments and finalizing project work  
 **Purpose:** Synthesize learning, celebrate achievements, and explore how these skills might be useful going forward
 
 ## Discussion Prompt

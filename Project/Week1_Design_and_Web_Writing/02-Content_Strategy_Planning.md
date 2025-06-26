@@ -1,4 +1,4 @@
-# Lab 1, Exercise 2: Content Strategy Planning
+# Week 1, Exercise 2: Content Strategy Planning
 
 ## Assignment Overview
 This exercise focuses on **planning your web project**. You'll select academic and/or creative work to transform for web publication and develop a strategy for making that content accessible, engaging, and effective for web audiences while keeping what makes it valuable.
@@ -261,4 +261,4 @@ After completing your content strategy planning, reflect on these questions:
 
 ---
 
-*This exercise establishes the foundation for your entire remediation project. Your content strategy will guide all technical implementation decisions in Labs 2, 3, and 4.*
+*This exercise establishes the foundation for your entire remediation project. Your content strategy will guide all technical implementation decisions in Weeks 2, 3, and 4.*

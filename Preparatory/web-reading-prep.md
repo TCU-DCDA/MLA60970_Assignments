@@ -1,22 +1,22 @@
-# Web Reading and Academic Communication
+# Web Reading and Content Communication
 
-## How Scholarly Reading Changes Online
+## How Reading Changes Online
 
-Understanding how people read on screens—especially academic content—is essential for creating effective digital scholarship. This primer prepares you for Lab 1's exploration of web reading patterns and their implications for academic communication.
+Understanding how people read on screens is essential for creating effective web content. This primer prepares you for Week 1's exploration of web reading patterns and their implications for content adaptation.
 
-## Print vs. Web Reading: What Changes for Academic Content
+## Print vs. Web Reading: What Changes for Content
 
-### Traditional Academic Reading Expectations
+### Traditional Print Reading Expectations
 
-**Print Academic Reading:**
-- **Linear progression** through sustained arguments
+**Print Reading:**
+- **Linear progression** through sustained content
 - **Deep focus** on complex ideas over extended periods
 - **Note-taking and annotation** in margins or separate documents
 - **Reference checking** by moving between sources physically
 - **Controlled environment** with minimal distractions
 
-**Academic Writing Optimized for Print:**
-- Long, complex paragraphs that develop sophisticated arguments
+**Writing Optimized for Print:**
+- Long, complex paragraphs that develop sophisticated ideas
 - Dense information presentation that assumes sustained attention
 - Linear organization that builds understanding cumulatively
 - Extensive footnotes and citations that readers can check separately
@@ -30,13 +30,13 @@ Understanding how people read on screens—especially academic content—is esse
 - **Scanning behavior** to quickly assess content value
 - **Device diversity** from phones to large monitors
 
-**Implications for Academic Content:**
+**Implications for Web Content:**
 - Readers scan first, then decide whether to read deeply
 - Visual hierarchy becomes crucial for content navigation
 - Shorter content chunks reduce cognitive load
-- Clear signposting helps readers maintain their place in complex arguments
+- Clear signposting helps readers maintain their place in complex ideas
 
-## Understanding Scanning Behavior for Academic Readers
+## Understanding Scanning Behavior
 
 ### The F-Pattern and Layer Cake Reading
 
@@ -51,59 +51,54 @@ Understanding how people read on screens—especially academic content—is esse
 - Skip the "cake" (body paragraphs) unless something catches interest
 - Decide based on scanning whether content merits deeper reading
 
-**Academic Content Implications:**
+**Content Adaptation Implications:**
 - **Headings and subheadings** become primary navigation tools
 - **Key concepts** need emphasis for scanning readers
 - **First sentences** of paragraphs carry extra weight
 - **Visual breaks** help readers process complex information
 
-### Academic Readers vs. General Web Users
+### Web Readers vs. Print Readers
 
-**Academic Readers Bring Different Needs:**
-- **Higher motivation** to engage with complex content
-- **Domain expertise** that helps them process specialized information
-- **Research goals** that drive sustained engagement
-- **Critical evaluation** habits from scholarly training
+**Web Readers Bring Different Expectations:**
+- **Quick value assessment** before committing time
+- **Goal-oriented browsing** looking for specific information
+- **Multi-tasking context** with competing attention demands
+- **Device flexibility** reading on various screen sizes
 
 **But They Still:**
-- Scan before reading deeply
-- Appreciate clear organization and navigation
-- Benefit from reduced cognitive load
-- Need accessibility for diverse contexts and abilities
+- Appreciate well-organized, thoughtful content
+- Engage deeply with content that serves their needs
+- Benefit from clear structure and professional presentation
+- Value accessible, inclusive design
 
-## Accessibility Considerations for Diverse Academic Audiences
+## Accessibility Considerations for Diverse Audiences
 
-### Who Reads Academic Content Online?
+### Who Reads Content Online?
 
-**Traditional Academic Audiences:**
-- Faculty and researchers seeking current scholarship
-- Graduate students conducting literature reviews
-- Undergraduate students accessing course-related materials
-- Academic librarians evaluating and organizing resources
+**Professional Audiences:**
+- Colleagues and collaborators seeking current insights
+- Practitioners applying ideas to professional contexts
+- Students and learners accessing educational materials
+- Researchers and specialists evaluating information
 
 **Expanded Digital Audiences:**
-- **International scholars** with varying English proficiency levels
-- **Independent researchers** without institutional library access
-- **Practitioners** applying academic insights to professional contexts
-- **Students with disabilities** using assistive technologies
-- **Public intellectuals** and engaged citizens seeking expert knowledge
+- **International readers** with varying English proficiency levels
+- **Independent learners** seeking quality content
+- **Mobile users** accessing content in various contexts
+- **Users with disabilities** relying on assistive technologies
+- **General public** interested in specialized knowledge
 
-### Accessibility as Academic Responsibility
-
-**Legal and Ethical Obligations:**
-- Academic institutions must comply with accessibility laws
-- Scholarly communication should be inclusive by design
-- Public funding of research creates obligations for public access
+### Accessibility as Content Responsibility
 
 **Practical Benefits of Accessible Design:**
-- **Screen reader compatibility** requires semantic HTML structure that benefits all users
+- **Screen reader compatibility** requires semantic structure that benefits all users
 - **Clear heading hierarchy** helps both assistive technology and visual scanning
 - **High contrast text** improves readability for everyone
 - **Mobile-friendly design** serves users in diverse contexts
 
 ### Designing for Cognitive Accessibility
 
-**Reducing Cognitive Load for Academic Content:**
+**Reducing Cognitive Load:**
 - **Clear information architecture** that previews content organization
 - **Consistent navigation patterns** that don't require relearning
 - **Predictable formatting** for similar types of information
@@ -115,33 +110,33 @@ Understanding how people read on screens—especially academic content—is esse
 - **Global learners** need overview and context before details
 - **Analytical learners** need access to detailed supporting information
 
-## Examples of Academic Content Formatted for Web Reading
+## Examples of Content Formatted for Web Reading
 
-### Effective Academic Web Writing
+### Effective Web Content Structure
 
 **Good Example Structure:**
 ```
-# Main Research Question or Thesis
-Clear, compelling statement of the work's central contribution
+# Main Topic or Key Message
+Clear, compelling statement of the content's value
 
 ## Background and Context
 Brief overview with links to fuller explanations
 
-## First Major Finding/Argument
-### Supporting Evidence A
+## First Major Point/Section
+### Supporting Detail A
 Short paragraph with specific examples
 
-### Supporting Evidence B
+### Supporting Detail B
 Another focused paragraph
 
 ### Implications
-What this means for the field
+What this means for readers
 
-## Second Major Finding/Argument
+## Second Major Point/Section
 [Similar structure repeated]
 
-## Conclusions and Future Directions
-Clear takeaways and next steps
+## Conclusions and Next Steps
+Clear takeaways and actionable information
 ```
 
 **Why This Works:**
@@ -150,27 +145,27 @@ Clear takeaways and next steps
 - Clear hierarchy guides readers through complex arguments
 - Expandable or linked details serve different reading needs
 
-### Academic Content That Supports Scanning
+### Content That Supports Scanning
 
 **Effective Techniques:**
 - **Strategic emphasis** on key terms and concepts
-- **Bulleted lists** for research findings or implications
+- **Bulleted lists** for findings or key points
 - **Clear topic sentences** that summarize paragraph content
 - **Transitional phrases** that show logical connections
 - **Visual breaks** between major sections
 
-**Academic-Specific Considerations:**
-- **Disciplinary context** provided for interdisciplinary readers
-- **Methodology summaries** that help readers evaluate findings
-- **Citation integration** that doesn't interrupt reading flow
+**Professional Content Considerations:**
+- **Context provided** for readers from different backgrounds
 - **Terminology explanations** that serve diverse audiences
+- **Citation integration** that doesn't interrupt reading flow
+- **Clear value proposition** that shows relevance
 
-## Preparing for Lab 1 Analysis
+## Preparing for Week 1 Analysis
 
-### What to Look for in Academic Websites
+### What to Look for in Professional Websites
 
 **Content Organization:**
-- How do sites structure complex scholarly information?
+- How do sites structure complex information?
 - What heading hierarchy helps readers navigate?
 - How are related concepts grouped and connected?
 
@@ -180,36 +175,36 @@ Clear takeaways and next steps
 - How do sites accommodate different user goals and contexts?
 
 **Audience Service:**
-- How do sites balance academic rigor with accessibility?
+- How do sites balance depth with accessibility?
 - What assumptions do they make about reader background?
-- How do they serve both expert and non-expert audiences?
+- How do they serve both expert and general audiences?
 
-### Questions for Academic Web Analysis
+### Questions for Web Content Analysis
 
 **User Experience Evaluation:**
-- How quickly can you understand the site's purpose and main arguments?
+- How quickly can you understand the site's purpose and main value?
 - Can you easily find specific information you might need?
 - Does the design support sustained reading of complex content?
 
 **Accessibility Assessment:**
 - How well would this work for readers with different abilities?
-- Is the content accessible to non-native speakers?
+- Is the content accessible to diverse audiences?
 - How does the site perform on different devices?
 
-**Scholarly Communication Effectiveness:**
-- Does the presentation enhance or detract from academic credibility?
-- How well does the site serve both academic and public audiences?
-- What design choices support the site's intellectual goals?
+**Communication Effectiveness:**
+- Does the presentation enhance or detract from content credibility?
+- How well does the site serve both specialist and general audiences?
+- What design choices support the content's goals?
 
-## Implications for Your Remediation Project
+## Implications for Your Content Adaptation Project
 
-### Adapting Your Academic Work
+### Adapting Your Written Work
 
 **Consider How Your Original Work:**
 - Assumes linear reading that may not translate to web contexts
 - Uses paragraph structures that might overwhelm web readers
 - Relies on specialized knowledge that web audiences might lack
-- Follows academic conventions that might not serve digital users
+- Follows print conventions that might not serve digital users
 
 **Strategies for Web Adaptation:**
 - **Chunk content** into scannable sections with clear headings
@@ -217,13 +212,13 @@ Clear takeaways and next steps
 - **Provide context** that helps diverse audiences engage
 - **Create multiple entry points** for non-linear reading
 
-### Maintaining Academic Integrity
+### Maintaining Content Quality
 
 **Web Adaptation Does NOT Mean:**
-- Dumbing down complex ideas
-- Sacrificing intellectual rigor
-- Abandoning scholarly standards
-- Losing disciplinary specificity
+- Oversimplifying complex ideas
+- Sacrificing intellectual depth
+- Abandoning professional standards
+- Losing subject matter expertise
 
 **Web Adaptation DOES Mean:**
 - Making complex ideas more accessible
@@ -233,4 +228,4 @@ Clear takeaways and next steps
 
 ---
 
-*Effective academic web communication respects both the complexity of scholarly ideas and the realities of how people read online. Your goal is to make your intellectual work more accessible without sacrificing its depth or rigor.*
+*Effective web communication respects both the complexity of ideas and the realities of how people read online. Your goal is to make your work more accessible without sacrificing its depth or value.*

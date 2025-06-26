@@ -67,30 +67,42 @@ This guide helps you set up GitHub for hosting your content adaptation project w
 
 ## Basic Workflow for This Course
 
-### Making Changes (Web Interface - Recommended for Beginners)
-1. Edit files directly in GitHub's web interface
-2. Add a commit message describing your changes
-3. Click "Commit changes"
-4. Changes appear on your live site within 5-10 minutes
+### Recommended Development Workflow
+1. **Create and edit files in VS Code** (your primary development environment)
+2. **Upload files to GitHub** using the web interface (drag and drop)
+3. **Add a commit message** describing your changes
+4. **Click "Commit changes"**
+5. **Changes appear on your live site** within 5-10 minutes
 
-**Why we use the web interface:**
-- **No command line needed** - works the same on Mac and PC
-- **Immediate publishing** - changes go live automatically
-- **Beginner-friendly** - visual interface with clear buttons
-- **Cross-platform** - works in any web browser
+**Why this hybrid approach works best:**
+- **VS Code for development** - professional tools, extensions, Live Server preview
+- **GitHub web interface for publishing** - no command line needed, works on Mac and PC
+- **Simple and reliable** - visual interface with clear feedback
+- **Professional workflow** - mirrors how many teams work
+
+### Alternative: Direct Web Editing (Quick Changes Only)
+For small text edits, you can edit files directly in GitHub's web interface:
+1. Click the file name, then the pencil icon
+2. Make your changes
+3. Add commit message and commit changes
+
+**Best for:** Fixing typos, updating text content
+**Not ideal for:** Creating new files, major development work
 
 ### Organizing Your Project
-- Use folders to organize different projects
+- Create project folders on your computer for VS Code development
 - Keep file names lowercase with hyphens: `my-project.html`
 - Always include an `index.html` file in each folder
+- Upload organized folder structures to GitHub
 
-### Alternative: Local Development (Optional)
-If you want to work on your computer and upload files:
-1. **Download your repository** - Click green "Code" button → "Download ZIP"
-2. **Edit files locally** - Use VS Code or any text editor
-3. **Upload changes** - Drag and drop files back into GitHub web interface
+### VS Code to GitHub Workflow
+1. **Develop locally in VS Code** - use Live Server to preview your work
+2. **When ready to publish** - download your repository as ZIP (if needed)
+3. **Upload your files** - drag and drop into GitHub web interface
+4. **Commit changes** - add descriptive messages about what you updated
+5. **View your live site** - check your GitHub Pages URL
 
-*We'll focus on the web interface for this course to keep things simple and consistent across different operating systems.*
+*This workflow gives you professional development tools while keeping publishing simple and beginner-friendly.*
 
 ## Troubleshooting
 

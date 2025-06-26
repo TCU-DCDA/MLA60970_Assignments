@@ -14,10 +14,10 @@ Rather than multiple separate projects, this course focuses on **content adaptat
 ### Course Components
 
 **Preparatory Materials** → `Preparatory/`
-Essential setup and onboarding for professional web development workflow
+Technical setup and conceptual foundations completed during the first week of class
 
-**Progressive Skill Building** → `Project/Lab1_Design_and_Web_Writing/` through `Project/Lab4_Responsive_Design/`
-Four interconnected labs that build toward successful academic and/or creative content adaptation
+**Progressive Skill Building** → `Project/Week1_Design_and_Web_Writing/` through `Project/Week4_Responsive_Design/`
+Four interconnected weeks that build toward successful professional web communication
 
 **Content Adaptation Project** → `Project/Prompt/`
 Comprehensive transformation of academic and/or creative work into accessible web publication
@@ -37,11 +37,11 @@ Structured peer review process emphasizing both technical and content strategy f
 #### Main Content Adaptation Project  
 **Location:** `Project/`
 
-**Four Progressive Labs:**
-1. **Lab 1: Design and Web Writing** → CRAP principles, web reading patterns, and content strategy for adaptation
-2. **Lab 2: HTML and Design** → Semantic markup and design principles application
-3. **Lab 3: CSS Implementation of Design Principles** → Visual implementation that realizes design strategy through CSS
-4. **Lab 4: Responsive Design and Final Project Completion** → Cross-device optimization and launch-ready web presence
+**Four Progressive Weeks:**
+1. **Week 1: Design and Web Writing** → CRAP principles, web reading patterns, and content strategy for adaptation
+2. **Week 2: HTML and Design** → Semantic markup and design principles application
+3. **Week 3: CSS Implementation of Design Principles** → Visual implementation that realizes design strategy through CSS
+4. **Week 4: Responsive Design and Final Project Completion** → Cross-device optimization and launch-ready web presence
 
 **Content Adaptation Project:**
 - **Project Prompt** → Transform substantial academic and/or creative work into accessible web publication
@@ -52,7 +52,7 @@ Structured peer review process emphasizing both technical and content strategy f
 **Location:** `Archive_Original_Scope/`
 - Original three-project structure preserved for reference
 - More ambitious scope suitable for longer course formats
-- Alternative project ideas and extended lab exercises
+- Alternative project ideas and extended week exercises
 
 
 ## Learning Objectives
@@ -74,33 +74,34 @@ Students will develop proficiency in:
 ## 4-Week Intensive Timeline
 
 ### Week 1: Foundation Building
-**Days 1-2: Design Principles and Content Strategy**
-- Complete preparatory materials and GitHub setup
-- Lab 1: CRAP analysis, web reading patterns, and academic content strategy
-- Begin planning digital remediation project and analyzing academic content for web transformation
+**Days 1-2: Technical Setup and Design Principles**
+- Complete technical setup in class with instructor guidance (Day 1)
+- Essential reading materials: Digital Communication Literacy (Day 1) + Design Thinking (Day 2)
+- Week 1: CRAP analysis, web reading patterns, and content strategy
+- Begin planning digital content adaptation project and analyzing work for web transformation
 
-**Days 3-5: HTML Implementation**
-- Lab 2: Semantic markup that implements design insights from Lab 1
+**Days 3-5: Content Strategy and HTML Implementation**
+- Complete Content Audit Worksheet to finalize project selection (Day 3)
+- Week 2: Semantic markup that implements design insights from Week 1
 - Create structured content with proper HTML foundations
 - Build content architecture that supports design strategy and accessibility goals
 
 ### Week 2: Visual Implementation and Layout
 **Days 6-8: CSS Design Implementation**
-- Lab 3: CSS implementation of CRAP principles and typography for content
+- Week 3: CSS implementation of CRAP principles and typography for content
 - Build visual hierarchy and reading experience that supports communication
 - Implement design strategy through professional CSS techniques
 
 **Days 9-10: Responsive Design**
-- Lab 4: Mobile-first responsive design for content across all devices
+- Week 4: Mobile-first responsive design for content across all devices
 - Complete responsive implementation that maintains credibility and accessibility
 - Test and refine web presence for diverse reading contexts
 
 ### Week 3: Integration and Content Development
 **Days 11-12: Content Adaptation Project Integration**
-- Integrate all lab skills into cohesive web presence
+- Integrate all week skills into cohesive web presence
 - Focus on content development, accessibility, and professional presentation
 - Prepare complete content adaptation project for peer review
-- Prepare rough draft for peer review
 
 **Days 13-15: Peer Review Process**
 - Submit rough draft content adaptation project with reflection documentation
@@ -145,10 +146,10 @@ Assessment criteria align with both industry expectations and communication goal
 ## Getting Started
 
 ### Initial Setup
-1. **Complete preparatory materials** in `Preparatory/` folder
-2. **Set up professional GitHub workflow** with version control best practices
-3. **Review the main project prompt** in `Project/Prompt/` to understand overall goals
-4. **Begin with Lab 1** and progress through the sequential lab structure
+1. **Review course structure** in this README to understand overall goals
+2. **Attend Day 1 class** for guided technical setup and course introduction
+3. **Access preparatory materials** in `Preparatory/` folder as scheduled during Week 1
+4. **Begin with Week 1** and progress through the sequential week structure
 
 ### Success Strategies
 - **Focus on learning process** rather than just completing requirements

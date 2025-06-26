@@ -1,7 +1,7 @@
-# Lab 2, Exercise 1: Design Principles Application
+# Week 2, Exercise 1: Design Principles Application
 
 ## Assignment Overview
-Building on your CRAP principles analysis from Lab 1, this exercise focuses on **applying** design principles to your own content. You'll take the design insights you gained from analyzing websites and use them to plan the visual structure of your web project.
+Building on your CRAP principles analysis from Week 1, this exercise focuses on **applying** design principles to your own content. You'll take the design insights you gained from analyzing websites and use them to plan the visual structure of your web project.
 
 ## Required Preparation
 Before beginning this exercise, review these concepts from previous videos:
@@ -18,7 +18,7 @@ By completing this exercise, students will:
 ## Exercise 1: CRAP Principles Planning for Your Web Project
 
 ### Part A: Content Inventory and Grouping (Proximity)
-Using the academic and/or creative work you selected in Lab 1 for web adaptation, organize your content according to proximity principles.
+Using the academic and/or creative work you selected in Week 1 for web adaptation, organize your content according to proximity principles.
 
 **Required Analysis:**
 1. **Content Chunking**
@@ -152,7 +152,7 @@ Ensure your design principles support, rather than hinder, accessibility.
 ## Reflection Questions
 After completing your design planning exercises, reflect on these questions:
 
-1. **Design Evolution:** How have your design ideas changed since your Lab 1 analysis of existing websites?
+1. **Design Evolution:** How have your design ideas changed since your Week 1 analysis of existing websites?
 
 2. **Content Transformation:** What challenges do you anticipate in translating your original academic and/or creative work to web-appropriate design?
 
@@ -204,4 +204,4 @@ After completing your design planning exercises, reflect on these questions:
 
 ---
 
-*This exercise bridges design theory and technical implementation, preparing you for hands-on HTML coding in Exercise 2 and CSS styling in Lab 3.*
+*This exercise bridges design theory and technical implementation, preparing you for hands-on HTML coding in Exercise 2 and CSS styling in Week 3.*

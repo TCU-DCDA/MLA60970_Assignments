@@ -1,33 +1,33 @@
-# Design Thinking for Academics
+# Design Thinking for Digital Communication
 
-## Introduction: Why Academics Need Design Thinking
+## Introduction: Why Design Thinking Matters for Web Communication
 
-Design thinking isn't about making things pretty—it's about making ideas accessible, understandable, and engaging. For academics, design thinking provides a framework for transforming complex scholarly and/or creative work into content that serves broader audiences while maintaining intellectual rigor.
+Design thinking isn't about making things pretty—it's about making ideas accessible, understandable, and engaging. For anyone creating web content, design thinking provides a framework for transforming complex written work into content that serves broader audiences while maintaining quality and credibility.
 
-## Core Principles of User-Centered Design for Academic Content
+## Core Principles of User-Centered Design for Web Content
 
 ### 1. Start with Your Audience's Needs
 
-**Traditional Academic Writing** asks:
-- What does my discipline expect?
-- How do I demonstrate my expertise?
-- What scholarly conventions should I follow?
+**Traditional Writing** asks:
+- What do I want to communicate?
+- How do I demonstrate my knowledge?
+- What format am I comfortable with?
 
-**User-Centered Academic Design** also asks:
-- Who needs access to this knowledge?
+**User-Centered Web Design** also asks:
+- Who needs access to this information?
 - What barriers prevent them from understanding my ideas?
-- How can I maintain rigor while improving accessibility?
+- How can I maintain quality while improving accessibility?
 - What would make someone want to engage with this content?
 
 ### 2. Design for Cognitive Load Management
 
-**Cognitive Load** refers to the mental effort required to process information. Academic content is inherently complex, so thoughtful design reduces unnecessary cognitive burden:
+**Cognitive Load** refers to the mental effort required to process information. Written content can be inherently complex, so thoughtful design reduces unnecessary cognitive burden:
 
 **High Cognitive Load (Problematic):**
 - Dense paragraphs with no visual breaks
 - Unclear information hierarchy
-- Jargon without explanation or context
-- No clear pathway through complex arguments
+- Technical language without explanation or context
+- No clear pathway through complex information
 
 **Managed Cognitive Load (Effective):**
 - Clear headings that preview content organization
@@ -35,31 +35,31 @@ Design thinking isn't about making things pretty—it's about making ideas acces
 - Key concepts highlighted for easy scanning
 - Logical progression that builds understanding step by step
 
-### 3. Visual Hierarchy Serves Intellectual Hierarchy
+### 3. Visual Hierarchy Serves Content Structure
 
-Your scholarly arguments have structure—design should make that structure visible:
+Your written work has structure—design should make that structure visible:
 
-**Intellectual Hierarchy Example:**
-- Main thesis or research question
-- Supporting arguments or major points
+**Content Structure Example:**
+- Main topic or central idea
+- Supporting points or major sections
 - Evidence and examples
-- Conclusions and implications
+- Conclusions and takeaways
 
 **Visual Hierarchy Implementation:**
-- Largest heading for main thesis
+- Largest heading for main topic
 - Secondary headings for major supporting points
-- Clear formatting for evidence and citations
+- Clear formatting for examples and details
 - Distinct treatment for conclusions
 
 ## How Design Serves Accessibility and Engagement Goals
 
 ### Accessibility is Not Optional
-In academic contexts, accessibility serves both ethical and practical goals:
+In digital communication, accessibility serves both ethical and practical goals:
 
 **Ethical Imperative:**
-- Knowledge should be available to people with diverse abilities
-- Academic institutions have legal and moral accessibility obligations
-- Inclusive design reflects scholarly values of equity and justice
+- Information should be available to people with diverse abilities
+- Professional web content should meet accessibility standards
+- Inclusive design reflects values of equity and justice
 
 **Practical Benefits:**
 - Accessible design improves usability for everyone
@@ -67,17 +67,17 @@ In academic contexts, accessibility serves both ethical and practical goals:
 - Mobile-friendly design serves users in different contexts
 - Professional presentation enhances credibility
 
-### Engagement Without Compromising Rigor
+### Engagement Without Compromising Quality
 
-**False Choice:** "Academic content must be either rigorous OR accessible"
+**False Choice:** "Content must be either comprehensive OR accessible"
 
-**Reality:** Thoughtful design makes rigorous content MORE accessible by:
-- **Reducing barriers** to understanding without reducing complexity
+**Reality:** Thoughtful design makes quality content MORE accessible by:
+- **Reducing barriers** to understanding without reducing depth
 - **Providing multiple entry points** for readers with different backgrounds
 - **Supporting sustained attention** through professional, comfortable presentation
 - **Enabling efficient navigation** to relevant sections
 
-## Visual Literacy Basics for Scholarly Communication
+## Visual Literacy Basics for Web Communication
 
 ### Reading Patterns Matter
 How people read on screens differs from print:
@@ -92,8 +92,8 @@ How people read on screens differs from print:
 - Lists and formatting help readers find relevant information quickly
 
 ### Color and Contrast
-**Academic Context:**
-- High contrast improves readability for sustained scholarly reading
+**Web Communication Context:**
+- High contrast improves readability for sustained reading
 - Professional color choices enhance credibility
 - Consistent color use helps readers navigate complex content
 - Accessibility standards ensure content works for color-blind readers
@@ -104,22 +104,22 @@ How people read on screens differs from print:
 - Inconsistent color use that confuses navigation
 
 ### Typography as Communication Tool
-**Academic Typography Goals:**
-- **Readability** for sustained intellectual engagement
-- **Professionalism** that enhances scholarly credibility
-- **Hierarchy** that guides readers through complex arguments
+**Web Typography Goals:**
+- **Readability** for sustained engagement
+- **Professionalism** that enhances credibility
+- **Hierarchy** that guides readers through complex information
 - **Accessibility** that serves diverse reading needs and technologies
 
-## Preparing for Lab 1: Analyzing Academic Websites
+## Preparing for Week 1: Web Content Analysis
 
 ### What to Look For
 
-When you analyze academic websites in Lab 1, you'll evaluate:
+When you analyze websites in Week 1, you'll evaluate:
 
 **Content Organization:**
 - How is complex information structured?
-- Can you quickly understand the site's purpose and main arguments?
-- Does the visual hierarchy match the intellectual hierarchy?
+- Can you quickly understand the site's purpose and main points?
+- Does the visual hierarchy match the content structure?
 
 **User Experience:**
 - How easy is it to find specific information?
@@ -127,37 +127,37 @@ When you analyze academic websites in Lab 1, you'll evaluate:
 - How well does the site serve different types of users?
 
 **Professional Presentation:**
-- Does the design enhance or detract from scholarly credibility?
-- How do design choices reflect academic values and standards?
-- What impression would this site make on colleagues, students, and public audiences?
+- Does the design enhance or detract from credibility?
+- How do design choices reflect professional standards?
+- What impression would this site make on diverse audiences?
 
 ### Questions for Analysis
 
-As you examine academic websites, ask:
+As you examine websites, ask:
 
 **Audience Service:**
 - Who is this site designed to serve?
-- How well does it meet the needs of academic vs. public audiences?
+- How well does it meet the needs of different audiences?
 - What assumptions does the design make about users' background knowledge?
 
 **Information Architecture:**
 - How is content organized and categorized?
 - Can users efficiently find what they're looking for?
-- How does the navigation reflect the site's intellectual structure?
+- How does the navigation reflect the site's content structure?
 
 **Accessibility and Inclusion:**
 - How well would this site work for users with different abilities?
-- Is the content accessible to non-native speakers?
+- Is the content accessible to people with different backgrounds?
 - Does the design accommodate different devices and screen sizes?
 
-## Connection Between Design Choices and Intellectual Accessibility
+## Connection Between Design Choices and Content Accessibility
 
 ### Every Design Decision is a Communication Decision
 
 **Typography Choices** communicate:
 - Professional vs. casual approach
 - Ease vs. difficulty of reading
-- Modern vs. traditional academic presentation
+- Modern vs. traditional presentation
 
 **Layout Choices** communicate:
 - Organizational logic
@@ -165,37 +165,37 @@ As you examine academic websites, ask:
 - Respect for users' time and attention
 
 **Color and Visual Choices** communicate:
-- Institutional affiliation and credibility
+- Professional credibility
 - Accessibility consciousness
 - Attention to user experience
 
-### Design as Scholarly Practice
+### Design as Communication Practice
 
-Think of web design as an extension of scholarly writing:
+Think of web design as an extension of good writing:
 
-**Just as good academic writing:**
+**Just as good writing:**
 - Organizes complex ideas clearly
 - Guides readers through logical progression
 - Provides appropriate context and background
 - Serves readers' understanding rather than writer's ego
 
-**Good academic web design:**
-- Makes intellectual organization visually clear
-- Guides users through complex content efficiently
+**Good web design:**
+- Makes content organization visually clear
+- Guides users through complex information efficiently
 - Provides visual context and navigation tools
 - Prioritizes user understanding over designer preferences
 
-## Practical Preparation for Lab 1
+## Practical Preparation for Week 1
 
 ### Mindset Shifts
 - From "What do I want to say?" to "How can I help users understand?"
-- From "What looks academic?" to "What serves scholarly communication effectively?"
-- From "How do I show my expertise?" to "How do I make my expertise accessible?"
+- From "What looks professional?" to "What serves communication effectively?"
+- From "How do I show my knowledge?" to "How do I make my knowledge accessible?"
 
 ### Observation Skills
 Practice noticing:
 - How design choices affect your experience as a user
-- What makes some academic content easier to engage with than others
+- What makes some web content easier to engage with than others
 - How visual presentation influences your perception of credibility and professionalism
 
 ### Critical Questions
@@ -207,4 +207,4 @@ Develop the habit of asking:
 
 ---
 
-*Design thinking transforms academic communication from a one-way transmission of expertise into a collaborative process of making knowledge accessible and engaging. This shift serves both scholarly goals and democratic ideals of public education and engagement.*
+*Design thinking transforms communication from a one-way transmission of information into a collaborative process of making knowledge accessible and engaging. This shift serves both professional goals and broader ideals of inclusive communication and public engagement.*
