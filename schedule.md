@@ -34,7 +34,7 @@
 
 ### Friday, July 11
 - **Videos to Watch:**
-  - "Semantic HTML for Web Communication"
+  - "From Design Principles to HTML and CSS"
 - **Assignments Due:**
   - HTML Fundamentals (`Lab2_HTML_and_Design/02-HTML_Fundamentals.md`)
 
@@ -42,19 +42,19 @@
 
 ### Monday, July 14
 - **Videos to Watch:**
-  - "CSS Basics and Typography"
+  - "CSS Layout and Visual Hierarchy"
 - **Assignments Due:**
   - Begin CSS Implementation (`Lab3_CSS_Layout`)
 
 ### Tuesday, July 15
 - **Videos to Watch:**
-  - "Visual Hierarchy and Effective Communication"
+  - "Typography and Accessibility in Web Design"
 - **Assignments Due:**
   - CSS Implementation Progress Check (`Lab3_CSS_Layout`)
 
 ### Wednesday, July 16
 - **Videos to Watch:**
-  - "Accessibility in Web Design"
+  - "Responsive Design and Mobile-First Principles"
 - **Assignments Due:**
   - Responsive Design Planning (`Lab4_Responsive_Design`)
 - **Discussion Prompt:**
@@ -64,7 +64,7 @@
 
 ### Thursday, July 17
 - **Videos to Watch:**
-  - "Mobile-First Design Principles"
+  - "CSS Grid and Flexbox for Content Layout"
 - **Assignments Due:**
   - Responsive Design Implementation (`Lab4_Responsive_Design`)
 
@@ -74,55 +74,55 @@
 - **Assignments Due:**
   - Responsive Design Progress Check (`Lab4_Responsive_Design`)
 
-## Week 3: Integration and Content Development
+## Week 3: Professional Web Development and Content Strategy
 
 ### Monday, July 21
 - **Videos to Watch:**
-  - "Integrating Design and Content"
+  - "Content Management and Site Organization"
 - **Assignments Due:**
   - Begin Content Adaptation Project (`Project/Prompt`)
 
 ### Tuesday, July 22
 - **Videos to Watch:**
-  - "Peer Review Best Practices"
+  - "Web Accessibility and Inclusive Design"
 - **Assignments Due:**
   - Submit Rough Draft for Peer Review (`Project/RoughDraft_PeerReview`)
 
 ### Wednesday, July 23
 - **Videos to Watch:**
-  - "Providing Constructive Feedback"
+  - "Web-Focused Peer Review and Feedback"
 - **Assignments Due:**
   - Participate in Peer Review (`Project/RoughDraft_PeerReview`)
 
 ### Thursday, July 24
 - **Videos to Watch:**
-  - "Incorporating Feedback into Final Projects"
+  - "SEO and Discoverability for Web Content"
 - **Assignments Due:**
   - Begin Final Refinements (`Project/Prompt`)
 
 ### Friday, July 25
 - **Videos to Watch:**
-  - "Accessibility Testing and Optimization"
+  - "Performance Optimization and Testing"
 - **Assignments Due:**
   - Final Refinements Progress Check (`Project/Prompt`)
 
-## Week 4: Finalization and Web Presence Launch
+## Week 4: Project Completion, Launch, and Reflection
 
 ### Monday, July 28
 - **Videos to Watch:**
-  - "Launching Web Projects"
+  - "Deploying Your Web Project"
 - **Assignments Due:**
   - Final Web Presence (`Project/Prompt`)
 
 ### Tuesday, July 29
 - **Videos to Watch:**
-  - "Reflecting on Digital Communication"
+  - "Testing and Launch Checklist"
 - **Assignments Due:**
-  - Submit Reflection Documentation (`Project/Prompt`)
+  - Submit Deployed Project with Launch Documentation (`Project/Prompt`)
 
 ### Wednesday, July 30
 - **Videos to Watch:**
-  - "Public Communication and Community Engagement"
+  - "Reflecting on Digital Adaptation"
 - **Assignments Due:**
   - Prepare Final Presentation (`Project/Prompt`)
 - **Discussion Prompt:**
@@ -131,14 +131,10 @@
   - **Peer Responses Due:** Friday, August 1
 
 ### Thursday, July 31
-- **Videos to Watch:**
-  - "Sharing Work Online"
 - **Assignments Due:**
   - Final Presentation (`Project/Prompt`)
 
 ### Friday, August 1
-- **Videos to Watch:**
-  - "Course Wrap-Up and Next Steps"
 - **Assignments Due:**
   - Submit Final Reflection (`Project/Prompt`)
 

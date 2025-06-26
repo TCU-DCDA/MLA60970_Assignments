@@ -1,20 +1,20 @@
-# Lab 2: HTML Fundamentals and Implementation
+# Lab 2: HTML Fundamentals and Basic CSS Implementation
 
 ## Assignment Overview
-Building on the design principles and web writing strategies from Lab 1, this lab introduces HTML fundamentals and semantic markup. You'll apply your understanding of CRAP principles and web reading patterns to create properly structured HTML documents that support content accessibility and user experience.
+Building on the design principles and web writing strategies from Lab 1, this lab focuses on implementing HTML fundamentals with basic CSS styling. You'll apply your understanding of CRAP principles and web reading patterns to create properly structured, styled HTML documents that demonstrate both semantic markup and visual design principles.
 
 ## Required Preparation
 This lab builds directly on concepts from previous videos:
-- **"Writing for the Web"** - Review formatting techniques for web content (short paragraphs, headings, lists)
-- **"CRAP Principles"** - Remember how contrast and alignment apply to HTML structure
+- **"HTML Basics for Content"** - Review fundamental HTML structure and semantic elements
+- **"From Design Principles to HTML and CSS"** - Apply CRAP principles using both HTML structure and basic CSS styling
 
 ## Learning Objectives
 By completing this lab, students will:
-- Understand the relationship between Markdown and HTML in web publishing
 - Create properly structured HTML5 documents that implement design principles from Lab 1
+- Apply basic CSS styling to enhance visual hierarchy and implement CRAP principles
 - Use semantic HTML elements to enhance content accessibility, navigation, and meaning
-- Apply web writing principles through appropriate HTML structure and hierarchy
-- Implement your content strategy from Lab 1 using semantic markup techniques
+- Connect design theory to practical HTML and CSS implementation
+- Demonstrate understanding of how structure and style work together for effective web communication
 
 ## Lab Exercises
 

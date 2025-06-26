@@ -1,14 +1,22 @@
-# Lab 3: CSS Implementation of Design Principles
+# Lab 3: CSS Implementation and Professional Web Development
 
 ## Assignment Overview
-Building on the design principles from Lab 1 and semantic HTML structure from Lab 2, this lab focuses on implementing visual design through CSS. You'll apply CRAP principles, create layouts that support web reading patterns, and style your content for maximum accessibility and engagement.
+Building on the design principles from Lab 1 and semantic HTML structure from Lab 2, this lab focuses on implementing visual design through CSS while incorporating professional web development practices. You'll apply CRAP principles, create layouts that support web reading patterns, and build websites that meet professional standards for accessibility, organization, and discoverability.
+
+## Required Preparation
+This lab integrates concepts from Week 2 videos:
+- **"CSS Layout and Visual Hierarchy"** (Monday, July 14) - Advanced layout techniques
+- **"Typography and Accessibility in Web Design"** (Tuesday, July 15) - Professional typography and accessibility-first CSS development
+- **"CSS Grid and Flexbox for Content Layout"** (Thursday, July 17) - Modern CSS layout systems
 
 ## Learning Objectives
 By completing this lab, students will:
 - Implement CRAP design principles (Contrast, Repetition, Alignment, Proximity) through CSS
 - Create visual hierarchy that supports F-pattern and layer cake reading
 - Master CSS layout techniques for effective academic and/or creative content presentation
-- Build responsive layouts that maintain accessibility across devices
+- Apply professional site organization and content management principles
+- Build accessible layouts that meet web accessibility standards (WCAG guidelines)
+- Implement CSS that supports SEO and content discoverability
 - Apply typography and spacing principles for enhanced communication
 
 ## Lab Exercises
@@ -99,26 +107,36 @@ Create layouts that support your multi-page content project from Lab 2.
 - Ensure designs support both linear and non-linear reading patterns
 - Document how layout choices enhance communication goals
 
-### Exercise 4: Accessibility and Inclusive Design Implementation
-Ensure your CSS implementation supports diverse users and meets accessibility standards.
+### Exercise 4: Professional Web Standards and Accessibility
+Implement professional web development standards including accessibility, typography, and maintainable CSS architecture.
+
+*This exercise applies concepts from "Typography and Accessibility in Web Design" (Tuesday, July 15) and prepares for the accessibility focus that will be covered in Week 3's "Web Accessibility and Inclusive Design" video.*
 
 **Requirements:**
-- Implement accessibility features that support different learning styles and abilities
-- Test and refine your designs for maximum inclusivity
+- Implement CSS architecture that supports professional site organization and maintenance
+- Apply accessibility standards that meet WCAG guidelines for inclusive design
+- Create CSS systems that support content management and site growth
 - Address the accessibility considerations identified in your Lab 1 content strategy
+
+**Professional Typography and Standards:**
+- **CSS Architecture**: Implement organized, maintainable CSS using consistent naming conventions
+- **Typography Excellence**: Apply concepts from "Typography and Accessibility in Web Design" to create professional text presentation
+- **Performance Optimization**: Write efficient CSS that loads quickly and performs well
+- **Scalable Systems**: Create CSS classes that support easy content updates and additions
 
 **Accessibility Implementation:**
 - **Color and Contrast**: Ensure all text meets WCAG contrast ratios for comfortable reading
-- **Focus States**: Create clear keyboard navigation for research workflows
+- **Typography Accessibility**: Implement accessible font choices, sizing, and spacing from the typography video
+- **Focus States**: Create clear keyboard navigation for all interactive elements
 - **Screen Reader Support**: Use CSS that enhances rather than conflicts with semantic HTML
 - **Responsive Text**: Implement text that scales appropriately for different visual needs
 - **Motion and Animation**: Ensure any transitions support rather than distract from content consumption
 
-**Inclusive Design Considerations:**
+**Professional Standards:**
 - Support for different reading preferences and cognitive processing styles
 - Flexible layouts that accommodate various assistive technologies
 - Design choices that work across different cultural and linguistic contexts
-- Visual hierarchy that supports both expert and novice readers
+- CSS organization that enables easy updates and maintenance
 
 **Assessment for Exercise 4:**
 - Use accessibility testing tools to validate your implementation
