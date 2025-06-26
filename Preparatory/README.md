@@ -5,9 +5,13 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 ## Quick Start Checklist
 
 ### Technical Setup ✅
-- [ ] Complete [GitHub Setup Instructions](github-setup-instructions.md)
-- [ ] Verify GitHub account and access to GitHub Classroom
-- [ ] Test GitHub Pages functionality
+- [ ] Complete [Technical Setup Checklist](technical-setup-checklist.md) - **START HERE**
+- [ ] Watch required video tutorials (VS Code and GitHub)
+- [ ] Install and configure VS Code with web development extensions
+- [ ] Create GitHub account and test repository creation
+- [ ] Complete [VS Code Setup Guide](vscode-setup-instructions.md)
+- [ ] Follow [GitHub Setup Instructions](github-setup-instructions.md)
+- [ ] Test complete workflow from VS Code to GitHub Pages
 
 ### Conceptual Preparation ✅
 - [ ] Read [Digital Communication Literacy Primer](academic-digital-literacy.md)
@@ -17,13 +21,32 @@ Welcome to MLA60970! This folder contains essential preparation materials for th
 
 ## Material Descriptions
 
+### [Technical Setup Checklist](technical-setup-checklist.md) - **START HERE**
+**Time Required:** 60-90 minutes  
+**Purpose:** Complete all technical setup with guided workflow testing
+- Video tutorials for VS Code and GitHub (watch first)
+- Software installation and configuration
+- Extension setup for web development
+- Complete workflow testing from development to deployment
+- Professional setup verification
+
+### [VS Code Setup Guide](vscode-setup-instructions.md)
+**Time Required:** 30-45 minutes  
+**Purpose:** Configure professional web development environment
+- VS Code installation and essential extensions
+- Web development configuration and settings
+- Live server setup for instant preview
+- Code formatting and file organization
+- Professional development workflow
+
 ### [GitHub Setup Instructions](github-setup-instructions.md)
 **Time Required:** 30-45 minutes  
-**Purpose:** Complete technical setup for the course
-- GitHub account creation and classroom access
-- Understanding version control and GitHub Pages
-- Professional development context
-- Troubleshooting common issues
+**Purpose:** GitHub account and repository management
+- Professional GitHub account creation
+- Repository creation and management
+- GitHub Pages setup for web publishing
+- Version control basics and classroom access
+- Professional portfolio development context
 
 ### [Digital Communication Literacy Primer](academic-digital-literacy.md)
 **Time Required:** 15-20 minutes  
